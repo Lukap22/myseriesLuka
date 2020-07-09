@@ -1,0 +1,1278 @@
+{
+  "_id": "591c884fc3a36878fe00cd92",
+  "air_date": "2017-11-29",
+  "episodes": [
+    {
+      "air_date": "2017-11-29",
+      "episode_number": 1,
+      "id": 1396196,
+      "name": "The Departed Part One",
+      "overview": "Tensions mount between the sons of Ragnar Lothbrok as the Vikings continue to threaten the very heart of England. As the Great Army moves to take York, with King Aethelwulf and his family still in hiding, Heahmund—the warrior bishop—must rally the Saxons to defend the Realm.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/snj1cxaWLGq0n25aCDXL544zr2A.jpg",
+      "vote_average": 7.2,
+      "vote_count": 10,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 222108,
+          "credit_id": "5ece72bf21c4ca001fdb4fc7",
+          "name": "David Wellington",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/uSiyGzGwrlZFZhFRWgBQd29fC0C.jpg"
+        },
+        {
+          "id": 2656394,
+          "credit_id": "5ece79e8e61e6d001ecb7aa6",
+          "name": "Joshua Zimmerman",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1539216,
+          "name": "Ferdia Walsh-Peelo",
+          "credit_id": "59b94720c3a36814050143b1",
+          "character": "Alfred the Great",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/l06B8SizX7bjom7GDKbpSxGxZDS.jpg"
+        },
+        {
+          "id": 1244,
+          "name": "Jonathan Rhys Meyers",
+          "credit_id": "591c87aec3a36878fe00cd13",
+          "character": "Bishop Heahmund",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/iqt4t52DEmjBMpdhfmZqcRbHiCl.jpg"
+        },
+        {
+          "id": 126173,
+          "name": "Jennie Jacques",
+          "credit_id": "5a2068d3c3a3680b8d09523a",
+          "character": "Judith",
+          "order": 72,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        },
+        {
+          "id": 1515182,
+          "name": "Ida Marie Nielsen",
+          "credit_id": "5b0dd3e70e0a264d02000e8e",
+          "character": "Margrethe",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/dRQF3yASOcvOrkFU1NQK1Lukzyw.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        },
+        {
+          "id": 2656395,
+          "name": "Jonathan Delaney Tynan",
+          "credit_id": "5ece7a6121c4ca0020dc4449",
+          "character": "Lord Cuthred",
+          "order": 72,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 58435,
+          "name": "Keith McErlean",
+          "credit_id": "5ece7a755c071b001c27aae6",
+          "character": "Lord Denewulf",
+          "order": 73,
+          "gender": 0,
+          "profile_path": null
+        }
+      ]
+    },
+    {
+      "air_date": "2017-11-29",
+      "episode_number": 2,
+      "id": 1340856,
+      "name": "The Departed Part Two",
+      "overview": "Tensions mount between the sons of Ragnar Lothbrok as the Vikings continue to threaten the very heart of England. As the Great Army moves to take York, with King Aethelwulf and his family still in hiding, Heahmund—the warrior bishop—must rally the Saxons to defend the Realm.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/zjPcFk4cCPX47nESrxeuc974Nv6.jpg",
+      "vote_average": 7.455,
+      "vote_count": 11,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 222108,
+          "credit_id": "5ece72bf21c4ca001fdb4fc7",
+          "name": "David Wellington",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/uSiyGzGwrlZFZhFRWgBQd29fC0C.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1539216,
+          "name": "Ferdia Walsh-Peelo",
+          "credit_id": "5ece7986528b2e002064d200",
+          "character": "Alfred The Great",
+          "order": 71,
+          "gender": 2,
+          "profile_path": "/l06B8SizX7bjom7GDKbpSxGxZDS.jpg"
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        },
+        {
+          "id": 1515182,
+          "name": "Ida Marie Nielsen",
+          "credit_id": "5b0dd3e70e0a264d02000e8e",
+          "character": "Margrethe",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/dRQF3yASOcvOrkFU1NQK1Lukzyw.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-12-06",
+      "episode_number": 3,
+      "id": 1396195,
+      "name": "Homeland",
+      "overview": "Celebrations are cut short in the aftermath of the battle at York. Ragnar Lothbrok's sons are pitted against each other as tensions reach an all-time high, and each is forced to choose a side.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/kSdzvlvjHIhAJt1yGu9D2CUYHKu.jpg",
+      "vote_average": 7.75,
+      "vote_count": 8,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656366,
+          "credit_id": "5ece6fd1528b2e002064c4cb",
+          "name": "Steve Saint Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5a29b926c3a3680b8811eea7",
+          "character": "Freydis",
+          "order": 64,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 1244,
+          "name": "Jonathan Rhys Meyers",
+          "credit_id": "591c87aec3a36878fe00cd13",
+          "character": "Bishop Heahmund",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/iqt4t52DEmjBMpdhfmZqcRbHiCl.jpg"
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-12-13",
+      "episode_number": 4,
+      "id": 1396197,
+      "name": "The Plan",
+      "overview": "Guided by Heahmund's visions, the Saxons devise a battle plan. Ivar the Boneless strategises as the Vikings undergo increasing pressure. Bjorn Ironside finds himself in a new territory and must convince the local commander he is a trader.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/mwhArS0AWSYKnES2Ne22vWgxl7Z.jpg",
+      "vote_average": 5.875,
+      "vote_count": 8,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656366,
+          "credit_id": "5ece6fd1528b2e002064c4cb",
+          "name": "Steve Saint Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1244,
+          "name": "Jonathan Rhys Meyers",
+          "credit_id": "591c87aec3a36878fe00cd13",
+          "character": "Bishop Heahmund",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/iqt4t52DEmjBMpdhfmZqcRbHiCl.jpg"
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-12-20",
+      "episode_number": 5,
+      "id": 1396198,
+      "name": "The Prisoner",
+      "overview": "Ivar meets his match in Heahmund. Floki returns to Kattegat. Bjorn receives a lavish welcome in North Africa.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/qW4zxYXVAIoodVC8G4ix7sLsP8H.jpg",
+      "vote_average": 6,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 76309,
+          "name": "Khaled Abol Naga",
+          "credit_id": "5ece7848aaec71002067314e",
+          "character": "Ziyadat Allah",
+          "order": 68,
+          "gender": 2,
+          "profile_path": "/kmT9Wpzy0Y1m1jmUgCy7VqMzgSS.jpg"
+        },
+        {
+          "id": 1515182,
+          "name": "Ida Marie Nielsen",
+          "credit_id": "5b0dd3e70e0a264d02000e8e",
+          "character": "Margrethe",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/dRQF3yASOcvOrkFU1NQK1Lukzyw.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-12-27",
+      "episode_number": 6,
+      "id": 1405442,
+      "name": "The Message",
+      "overview": "Lagertha is betrayed, and Bjorn must find a way to support the distraught queen. Floki and his settlers arrive in a new land, but it is far from what they expected.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/cfmte4CzQuUyUka7gSLfNwDYLXD.jpg",
+      "vote_average": 5.75,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2251831,
+          "name": "James Craze",
+          "credit_id": "5c765f38925141688c56d7f2",
+          "character": "bul",
+          "order": 13,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-01-03",
+      "episode_number": 7,
+      "id": 1405443,
+      "name": "Full Moon",
+      "overview": "Bjorn returns to Kattegat to learn that an attack will take place during the next full moon. Ivar must decide if he can place his trust in a former enemy on the battlefield.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/51vXi4dEwHZBGvSkBUcDa8gZoYZ.jpg",
+      "vote_average": 6.2,
+      "vote_count": 5,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2251832,
+          "name": "James Craze",
+          "credit_id": "5c765f94c3a3684829d6422b",
+          "character": "Bul",
+          "order": 14,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-01-10",
+      "episode_number": 8,
+      "id": 1405444,
+      "name": "The Joke",
+      "overview": "The battle for Kattegat begins and, as the two armies line up to fight, the Great Heathen Army must decide between a final plea for peace or all-out war. Floki faces discord among the settlers.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/ax7Qx3iaftydXA21h3JpdtL3DYG.jpg",
+      "vote_average": 6,
+      "vote_count": 5,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2251833,
+          "name": "James Craze",
+          "credit_id": "5c765fa7925141688656d08b",
+          "character": "Bul",
+          "order": 15,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-01-17",
+      "episode_number": 9,
+      "id": 1405445,
+      "name": "A Simple Story",
+      "overview": "The army leaders consider their options in the aftermath of the battle. In Floki's camp, all hopes of binding the community together are dashed as tragedy unfolds.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/aGDpMbiLDRSKw67o5RKTKpFUEMK.jpg",
+      "vote_average": 5.6,
+      "vote_count": 5,
+      "crew": [
+        {
+          "id": 123186,
+          "credit_id": "584530f59251416764014224",
+          "name": "Daniel Grou",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2251834,
+          "name": "James Craze",
+          "credit_id": "5c765fb8925141688656d0c3",
+          "character": "Bul",
+          "order": 16,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-01-24",
+      "episode_number": 10,
+      "id": 1405446,
+      "name": "Moments of Vision",
+      "overview": "A sense of doom looms over Kattegat as bloodshed ensues. The defeated army flees in the face of the victors. A legendary warrior makes his way home.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/glnCGZWOccC4fVCihgggXo93bA2.jpg",
+      "vote_average": 5.714,
+      "vote_count": 7,
+      "crew": [
+        {
+          "id": 123186,
+          "credit_id": "584530f59251416764014224",
+          "name": "Daniel Grou",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "5ece773de4b57600202a9942",
+          "name": "Michael Hirst",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2251835,
+          "name": "James Craze",
+          "credit_id": "5c765fc6925141688e56de53",
+          "character": "Bul",
+          "order": 17,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-11-28",
+      "episode_number": 11,
+      "id": 1535094,
+      "name": "The Revelation",
+      "overview": "Ivar is crowned the new king of Kattegat just in time to welcome Rollo home. Bjorn, Lagertha and Ubbe must rely on unsteady alliances to survive.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/tHBGZz1uxTbhP0KWZ8fUaUYcsZe.jpg",
+      "vote_average": 6.714,
+      "vote_count": 7,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-12-05",
+      "episode_number": 12,
+      "id": 1628200,
+      "name": "Murder Most Foul",
+      "overview": "Bjorn, Lagertha and Ubbe face an uncertain fate as Heahmund's loyalty is tested. Floki fights to understand the will of the gods. Ivar may have met his match.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/nLEnknbVHgv8OPXNpRwA3oHWqL8.jpg",
+      "vote_average": 6.333,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1490856,
+          "name": "Leah McNamara",
+          "credit_id": "5c721ad29251415ef5b21815",
+          "character": "Aud",
+          "order": 9,
+          "gender": 0,
+          "profile_path": "/gpeWKc4j0chODVVf3ARBUGS32vT.jpg"
+        },
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5a29b926c3a3680b8811eea7",
+          "character": "Freydis",
+          "order": 64,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-12-12",
+      "episode_number": 13,
+      "id": 1628201,
+      "name": "A New God",
+      "overview": "Heahmund must try to convince King Alfred that his actions are in defense of the Crown. Ubbe and Torvi strengthen the position of the Vikings but not all in the Viking camp support their strategy. Another settler disappears in Iceland.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/cU3DwXsfbTT0qiKKmspSDmi472V.jpg",
+      "vote_average": 4.833,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-12-19",
+      "episode_number": 14,
+      "id": 1628202,
+      "name": "The Lost Moment",
+      "overview": "As the celebrations for Ivar continue in Kattegat, grief hits Iceland and Floki must now make a fated decision. Harald's army approaches Wessex. A conspiracy grows against King Alfred.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/xRSDThRVa1Xj3UpoIOR9xrqquZr.jpg",
+      "vote_average": 5.4,
+      "vote_count": 5,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656366,
+          "credit_id": "5ece6fd1528b2e002064c4cb",
+          "name": "Steve Saint Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1989244,
+          "name": "Eve Connolly",
+          "credit_id": "5c72336f0e0a262c117cebed",
+          "character": "Thora",
+          "order": 44,
+          "gender": 1,
+          "profile_path": "/qzNUbOgKQl22GNF3UG6THMEeIrj.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        },
+        {
+          "id": 199931,
+          "name": "Kelly Campbell",
+          "credit_id": "5c72359c0e0a262c1c7cff99",
+          "character": "Ingvild",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/7i2irpjuZVTzZccUDc0DTVwcgqn.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2018-12-26",
+      "episode_number": 15,
+      "id": 1628203,
+      "name": "Hell",
+      "overview": "Bishop Heahmund is wracked with guilt as he fights to renounce his passions. Viking will clash with Saxon on the battlefield leaving a key figure lost in the balance.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/s56Ni5Ywi05t3gf4V9IN3QV16Zq.jpg",
+      "vote_average": 7.5,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656366,
+          "credit_id": "5ece6fd1528b2e002064c4cb",
+          "name": "Steve Saint Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_number": 16,
+      "id": 1648402,
+      "name": "The Buddha",
+      "overview": "Bjorn achieves one of Ragnar's dreams. Ivar hatches a new plan while preparing for a divine arrival. In Iceland, a settler returns in a terrible state. King Alfred faces his greatest threat yet.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/sZdh4eH8hoi2uU7Vt6zBRkNbqj1.jpg",
+      "vote_average": 8,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656366,
+          "credit_id": "5ece6fd1528b2e002064c4cb",
+          "name": "Steve Saint Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-01-09",
+      "episode_number": 17,
+      "id": 1651820,
+      "name": "The Most Terrible Thing",
+      "overview": "An unexpected turn amongst the settlers leaves Floki powerless. King Alfred confronts Judith. In York, Bjorn must strike a deal with Harald. Wessex is once again threatened by a Viking force, but who will lead the Saxon army to defend the Realm?",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/qHPuOA7CpaKJpIsPWEds2KSxqfH.jpg",
+      "vote_average": 8,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 4160,
+          "credit_id": "56389e81c3a3681b4b01d460",
+          "name": "Helen Shaver",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/7DlGkBDdRcKPlPAXuoo6xz6hSAU.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "credit_id": "5e90bac3e640d600131f80f2",
+          "character": "Helgi the Lean",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/dGvuRjET6DswkTZIepuI3vgVyLH.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-01-16",
+      "episode_number": 18,
+      "id": 1651824,
+      "name": "Baldur",
+      "overview": "Hvitserk is severely tested. Floki makes an amazing discovery. Freydis gives Ivar a surprise. Ubbe negotiates with the three Danish Kings that have massed their armies in Reading, but the negotiations may have a perilous outcome.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/uhtZmr22eSyDj9w0jaogBEubiX4.jpg",
+      "vote_average": 7.25,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 4160,
+          "credit_id": "56389e81c3a3681b4b01d460",
+          "name": "Helen Shaver",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/7DlGkBDdRcKPlPAXuoo6xz6hSAU.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        },
+        {
+          "id": 145071,
+          "name": "Jamie Maclachlan",
+          "credit_id": "5c81220d0e0a2642fb5e5e96",
+          "character": "Aldwin",
+          "order": 18,
+          "gender": 2,
+          "profile_path": "/oE0O4BjDMwD4j4EBedS0eOvhcv0.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-01-23",
+      "episode_number": 19,
+      "id": 1651825,
+      "name": "What Happens in the Cave",
+      "overview": "Ubbe is forced into hand-to-hand combat. Floki reaches new depths and is met by a shocking sight. Bjorn sets off for Scandinavia with an old rival.",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/qoReo3XyPF4xrWMA5zq84CkKI8O.jpg",
+      "vote_average": 7.25,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 222108,
+          "credit_id": "5ece72bf21c4ca001fdb4fc7",
+          "name": "David Wellington",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/uSiyGzGwrlZFZhFRWgBQd29fC0C.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 208621,
+          "name": "Roisin Murphy",
+          "credit_id": "5c721ab39251415edfb22d56",
+          "character": "Elsewith",
+          "order": 18,
+          "gender": 1,
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 1074060,
+          "name": "Erik Madsen",
+          "credit_id": "5ece75bc21c4ca0020dc3cbb",
+          "character": "King Hemming",
+          "order": 67,
+          "gender": 0,
+          "profile_path": "/3U5RkBemIeA9GA7pt1reJ7MQSku.jpg"
+        },
+        {
+          "id": 1539216,
+          "name": "Ferdia Walsh-Peelo",
+          "credit_id": "59b94720c3a36814050143b1",
+          "character": "Alfred the Great",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/l06B8SizX7bjom7GDKbpSxGxZDS.jpg"
+        },
+        {
+          "id": 126173,
+          "name": "Jennie Jacques",
+          "credit_id": "5a2068d3c3a3680b8d09523a",
+          "character": "Judith",
+          "order": 72,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-01-30",
+      "episode_number": 20,
+      "id": 1651826,
+      "name": "Ragnarok",
+      "overview": "",
+      "production_code": "",
+      "season_number": 5,
+      "show_id": 44217,
+      "still_path": "/6PQWhAgRNXeg4kNagCP5soaK4Y3.jpg",
+      "vote_average": 6.6,
+      "vote_count": 5,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 222108,
+          "credit_id": "5ece72bf21c4ca001fdb4fc7",
+          "name": "David Wellington",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/uSiyGzGwrlZFZhFRWgBQd29fC0C.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 1854048,
+          "name": "Dean Ridge",
+          "credit_id": "5ece74cb21c4ca0020dc3a7c",
+          "character": "Magnus",
+          "order": 63,
+          "gender": 0,
+          "profile_path": "/wG5dDpeOc62VNZygOVsq99sQsJn.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5a29b926c3a3680b8811eea7",
+          "character": "Freydis",
+          "order": 64,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 2470994,
+          "name": "Ryan Henson",
+          "credit_id": "5de19a5ea24c50001733344e",
+          "character": "Hali",
+          "order": 64,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1484011,
+          "name": "Kieran O'Reilly",
+          "credit_id": "5dfe73c39824c80015e023ec",
+          "character": "White Hair",
+          "order": 64,
+          "gender": 0,
+          "profile_path": "/bliXgZTXDTg7cnuFwT6bLjojYJQ.jpg"
+        },
+        {
+          "id": 2656382,
+          "name": "Svea Killoran",
+          "credit_id": "5ece75065c071b001e281056",
+          "character": "Asa",
+          "order": 64,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1880952,
+          "name": "Kristy Dawn Dinsmore",
+          "credit_id": "5dfe73e39824c80017e05232",
+          "character": "Amma",
+          "order": 65,
+          "gender": 0,
+          "profile_path": "/rvrggd3zivscm6jRv1TVa06Sgf4.jpg"
+        },
+        {
+          "id": 1190280,
+          "name": "Martin Maloney",
+          "credit_id": "5dfe76c965686e00159305b9",
+          "character": "Vigrid",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/Ayj6FE4QpglC5KhJl04ezoYTeZ.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 5",
+  "overview": "Season five begins with Ivar the Boneless asserting his leadership over the Great Heathen Army, while Lagertha reigns as Queen of Kattegat. Ivar’s murder of his brother Sigurd sets the stage for vicious battles to come as Ragnar’s sons plot their next moves after avenging their father’s death. Bjorn follows his destiny into the Mediterranean Sea and Floki who is suffering from the loss of his wife Helga, takes to the seas submitting himself to the will of the Gods. This season is full of startling alliances and unbelievable betrayals as the Vikings fight to rule the world.",
+  "id": 88459,
+  "poster_path": "/745J5LgH1Qlq82QX3BxekPsqXt4.jpg",
+  "season_number": 5
+}

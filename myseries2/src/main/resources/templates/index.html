@@ -1,0 +1,38 @@
+<!-- Put your HTML here -->
+
+<html lang=”en” xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header :: header"></head>
+
+<!--navbar-->
+
+<body>
+<nav th:replace="fragments/topnav :: navbar"></nav>
+
+<section class="main-container">
+    <form action="/backup">
+        <input type="submit" value="backup series">
+    </form>
+
+
+    <div class="location" id="home">
+        <h1 id="title">watch</h1>
+        <div class="box">
+            <a href=""><img
+                    src="img/deeznuts.jpg"
+                    alt=""></a>
+            <a href=""><img
+                    src="img/pokemon.jpg"
+                    alt=""></a>
+            <a href=""><img
+                    src="img/tokyo_ghoul.jpg"
+                    alt=""></a>
+        </div>
+    </div>
+</section>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!-- Put your HTML here -->
+
+<html lang=”en” xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<header th:replace="fragments/header.html :: header"></header>
+
+<!--<div th:replace="fragments/header.html :: header"></div>-->
+<!--navbar-->
+
+<body>
+<div th:replace="fragments/topnav.html :: navbar"></div>
+
+<!--<form action="#" th:action="@{/series}"  method="post">-->
+<!--    <input type="text" th:value="">-->
+<!--</form>-->
+<!-- test -->
+
+    <h1>Series: </h1>
+
+    <form action="" th:action="@{/series}" th:object="${perie}" th:method="post" method="post">
+        <label for="title">add new serie</label>
+        <input type="text" id="title" name="title" autofocus="autofocus"/>
+    </form>
+
+    <form action="" th:action="@{/sorteer}" th:method="get" method="get">
+        <label>Sorteer hier</label>
+        <input type="submit" id="sorteer" value="sorteer" name="sorteer" autofocus="autofocus"/>
+    </form>
+
+    <form action="" th:action="@{/zoekFunctie}" th:method="get" method="get">
+        <label>Sorteer hier</label>
+        <input type="text" id="zoek" placeholder="zoek hier" name="zoek hier" autofocus="autofocus"/>
+    </form>
+
+    <div class="grid">
+    <tr th:each="serie : ${series}">
+        <div class="tile" >
+            <a th:href="'/serie/' + ${serie.getThemoviedbSerieID()} + '/0'">
+            <div class="tile image"  th:style="'background-image:url(' + ${serie.getGridImageURL()} + ');'" >
+            </div>
+            </a>
+        </div>
+    </tr>
+    </div>
+
+
+
+</body>
+</html>

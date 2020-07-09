@@ -1,0 +1,47 @@
+/* * = all items */
+* {
+    font-family: 'Roboto', sans-serif;
+    /* padding &  margin to the edges */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Mobile */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    background-color: #333;
+    /*background-color: #050404;*/
+    /* addes padding, first(5px) is top & bottom, second(20px) is left & right */
+    padding: 5px 20px;
+}
+
+/* unorderd list */
+ul {
+    /* removes all styling, added to remove bullet points */
+    list-style-type: none;
+}
+
+/* all links */
+/* source: https://www.w3schools.com/css/css_link.asp */
+a {
+    /* Text color */
+    color: black;
+    /* Removes underline from link */
+    text-decoration: none;
+}
+.grid{
+    display: grid;
+
+}
+.grid.tbody{
+    display: table-column-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+

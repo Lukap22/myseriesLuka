@@ -1,0 +1,530 @@
+{
+  "_id": "54b06edf925141747e00075c",
+  "air_date": "2015-02-19",
+  "episodes": [
+    {
+      "air_date": "2015-02-19",
+      "episode_number": 1,
+      "id": 1034152,
+      "name": "Mercenary",
+      "overview": "Ragnar and Lagertha's fleets depart Kattegat once more for Wessex but this time they bring settlers.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg",
+      "vote_average": 7.933,
+      "vote_count": 15,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd977c3a368694c8ab822",
+          "character": "Princess Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-02-26",
+      "episode_number": 2,
+      "id": 1043609,
+      "name": "The Wanderer",
+      "overview": "Lagertha and Athelstan help to set up the Viking settlement. A mysterious wanderer turns up.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/l3FI55cfzldcO3jhNX1CeSctabN.jpg",
+      "vote_average": 8.25,
+      "vote_count": 14,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 1460275,
+          "credit_id": "5638909cc3a3681b4d021cbe",
+          "name": "Tad Seaborn",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd977c3a368694c8ab822",
+          "character": "Princess Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-03-05",
+      "episode_number": 3,
+      "id": 1043610,
+      "name": "Warrior's Fate",
+      "overview": "King Ecbert visits the developing Viking settlement as the first harvest is sown.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/26Df88Y15xJ8wJ6eIND2SLu2Mes.jpg",
+      "vote_average": 8.25,
+      "vote_count": 12,
+      "crew": [
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd977c3a368694c8ab822",
+          "character": "Princess Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-03-12",
+      "episode_number": 4,
+      "id": 1043611,
+      "name": "Scarred",
+      "overview": "There is bitterness in the camp, Floki is angry over the alliance with Ecbert.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/5w5PZjjiT0fscns1td55qEuR2np.jpg",
+      "vote_average": 8.111,
+      "vote_count": 9,
+      "crew": [
+        {
+          "id": 1460275,
+          "credit_id": "5638909cc3a3681b4d021cbe",
+          "name": "Tad Seaborn",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd977c3a368694c8ab822",
+          "character": "Princess Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-03-19",
+      "episode_number": 5,
+      "id": 1043612,
+      "name": "The Usurper",
+      "overview": "The fleet returns to Kattegat to discover tragic circumstances await.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/PkbyH1xQZy63SycZT07IOTSF1N.jpg",
+      "vote_average": 8.222,
+      "vote_count": 9,
+      "crew": [
+        {
+          "id": 4160,
+          "credit_id": "56389e81c3a3681b4b01d460",
+          "name": "Helen Shaver",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/7DlGkBDdRcKPlPAXuoo6xz6hSAU.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2015-03-26",
+      "episode_number": 6,
+      "id": 1043613,
+      "name": "Born Again",
+      "overview": "Preparations for the Paris raid pick up speed, and Rollo thinks about the Seer's prophecy.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/9n8pc6XwRlEeeMb4nrukUGzRHS9.jpg",
+      "vote_average": 8.4,
+      "vote_count": 10,
+      "crew": [
+        {
+          "id": 4160,
+          "credit_id": "56389e81c3a3681b4b01d460",
+          "name": "Helen Shaver",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/7DlGkBDdRcKPlPAXuoo6xz6hSAU.jpg"
+        },
+        {
+          "id": 1460275,
+          "credit_id": "5638909cc3a3681b4d021cbe",
+          "name": "Tad Seaborn",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2015-04-02",
+      "episode_number": 7,
+      "id": 1047164,
+      "name": "Paris",
+      "overview": "The Viking fleet causes panic in Paris. The Emperor Charles declares he will remain in the city.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/cFFY8zOjUQlACFAKyMIufup3VjE.jpg",
+      "vote_average": 7.375,
+      "vote_count": 8,
+      "crew": [
+        {
+          "id": 64030,
+          "credit_id": "56389f08c3a3681b4b01d469",
+          "name": "Kelly Makin",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/cQqQJtSi5FEOVH6zri1Sldw54qE.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-04-09",
+      "episode_number": 8,
+      "id": 1047165,
+      "name": "To the Gates!",
+      "overview": "The Viking army sets out and Paris goes into lockdown as the army prepares the defense.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/5Wmmag8yK7kPyLunTnx9DuQAJTs.jpg",
+      "vote_average": 8.545,
+      "vote_count": 11,
+      "crew": [
+        {
+          "id": 64030,
+          "credit_id": "56389f08c3a3681b4b01d469",
+          "name": "Kelly Makin",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/cQqQJtSi5FEOVH6zri1Sldw54qE.jpg"
+        },
+        {
+          "id": 1460275,
+          "credit_id": "5638909cc3a3681b4d021cbe",
+          "name": "Tad Seaborn",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-04-16",
+      "episode_number": 9,
+      "id": 1047166,
+      "name": "Breaking Point",
+      "overview": "Paris is hit with a second assault. Emperor Charles needs to make a difficult decision.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/kJerWFq6iuToWn6NJf2hwkXzFUO.jpg",
+      "vote_average": 8,
+      "vote_count": 7,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-04-23",
+      "episode_number": 10,
+      "id": 1049832,
+      "name": "The Dead",
+      "overview": "With one last chance to take Paris, Ragnar, and his Vikings troops take a daring chance. Ragnar asks Bjorn for a favor that could change the course of Viking history.",
+      "production_code": "",
+      "season_number": 3,
+      "show_id": 44217,
+      "still_path": "/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg",
+      "vote_average": 7.75,
+      "vote_count": 8,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 1460275,
+          "credit_id": "5638909cc3a3681b4d021cbe",
+          "name": "Tad Seaborn",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 3",
+  "overview": "With the promise of new land from the English, Ragnar leads his people to an uncertain fate on the shores of Wessex. King Ecbert has made many promises and it remains to be seen if he will keep them. But ever the restless wanderer, Ragnar is searching for something more … and he finds it in the mythical city of Paris.",
+  "id": 64422,
+  "poster_path": "/jICv5UxLDvUqCp1D2jAb0PSJWAw.jpg",
+  "season_number": 3
+}

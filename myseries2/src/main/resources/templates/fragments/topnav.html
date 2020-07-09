@@ -1,0 +1,22 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<body>
+<nav th:fragment="navbar">
+    <ul class="menu">
+        <li class="logo"><a href="/index">MySeries</a></li>
+        <li class="top-nav-text"><a href="/index">Home</a></li>
+        <li class="top-nav-text"><a href="/series">Alle series</a></li>
+        <li th:if="${session.username != null}" class=" top-nav-text"><a href="/eigenseries">Eigen series</a></li>
+        <li th:if="${session.username != null}" class="top-nav-text"><a href="/profiel">Profiel</a></li>
+        <li th:if="${session.username != null}" class="top-nav-text button"><a href="/logout">Log out</a></li>
+        <li th:if="${session.username == null}" class="top-nav-text button"><a href="/login">Login</a></li>
+        <li th:if="${session.username == null}" class="top-nav-text button"><a href="/register">Sign up</a></li>
+        <!--            player not loggedin-->
+
+        <!-- Source: https://www.w3schools.com/tags/tag_span.asp + https://www.w3schools.com/html/html_blocks.asp       -->
+        <!--            <li class="menu-icon"><i class="material-icons md-white">menu</i></li>-->
+    </ul>
+</nav>
+</body>
+</html>
+<!--costum navbar fragment-->

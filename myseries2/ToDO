@@ -1,0 +1,108 @@
+	| Sorteer functie maken: A -> Z, Z -> A, Top users score   	                                                            ::	Main page
+	| Sorteer functie maken: A -> Z, Z -> A, Top user score   		                                                        ::	Eigen page
+	|    - Kijken naar welke algoritme het beste gebruikt kan worden
+	            + Nathan heeft insertionSort gemaakt
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	| Zoek functie maken		                                                                                            ::	Main page, Eigen page
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	| Top 5 rated show                                                                                                      ::  index page
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	| Add new serie from api                                                                                                ::  Eigen page
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+X	| * Watched ogje fixen 	:: Green wnnr gekeken, wit ongekeken.                                                           ::  Serie page
+X	| `	- Vage probleem met userMetaDateList, verliest data en is null wanneer er aanspraak
+X	| 	  op wordt gedaan vanuit een andere methode
+	| * User progress bar onder image bij serie page fixen met thymleaf data.                                               ::  Serie page
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	| Register page UI verbeteren met CSS                                                                                   ::  Register page
+	| Login page UI verbeteren met CSS                                                                                      ::  Login page
+	| Profiel page UI verbeteren met CSS                                                                                    ::  Profile page
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|
+ 	|
+	|
+	|
+	|
+	|
+	|
+	|
+------------------------------------------------------------------------------------------------------
+	|
+	|
+	|
+	|
+	|
+
+------------------------------------------------------------------------------------------------------
+	|Je gebruikt op z’n minst ergens een cookie (buiten het inloggen om). Bijvoorbeeld om bij te
+     houden wanneer iemand het laatste op de site was, of het aantal keren dat iemand geweest
+     is, of om bepaalde instellingen op te slaan.
+	|
+X	| Je applicatiemodel bestaat op z’n minst uit 3 classes die een relatie met elkaar hebben
+X	| Je moet een login systeem implementeren, gebruik makend van sessies.
+	|
+
+	Je applicatie bevat op zijn minst 3 verschillende controllers.
+------------------------------------------------------------------------------------------------------
+X	| SerieController
+X	| RegisterController
+	| UserController
+	| Review ConTroller
+	|
+------------------------------------------------------------------------------------------------------
+	| Je gebruikt op z’n minst 6 verschillende GETs (read) en 3 POSTs (create, update of delete).
+      Dit betekent dat je op z’n minst ook 3 HTML-formulieren gebruikt.
+	|
+	| Add serie form
+	| Delete Serie form
+	|
+------------------------------------------------------------------------------------------------------
+50%	| Op z’n minst 1 van je GET-request moet gebruik maken van path variables (zoiets als
+      /items/{itemid}) en op z’n minst 1 (een andere of dezelfde) moet gebruik maken van request
+      params (zoiets als /search?q={query}).
+
+X	| /items/{itemid})
+	| /search?q={query})
+	|
+	|
+------------------------------------------------------------------------------------------------------
+	| Je applicatie genereert dynamisch HTML, gebruikmakend van Thymeleaf gebaseerd op
+      informatie uit je model, je zult op z’n minst in je templates gebruik moeten maken van 2
+      iteraties (om lijsten te tonen) en 2 conditionals.
+X	| Serie template
+	| Eigen serie template
+	|
+	|
+------------------------------------------------------------------------------------------------------
+?	| De HTML moet geldige HTML zijn en moet vele verschillende tags bevatten, inclusief enkele
+      semantische en HTML5 tags.
+?	| - Je gebruikt een CSS-file met op z’n minst meerdere selectors voor tags, classes en id’s. Je
+      zult ook gebruik moeten maken van (basis) responsive design en je zult iets van CSS3
+      moeten gebruiken.
+	|
+	|
+	|
+------------------------------------------------------------------------------------------------------
+	| Documentatie
+	| --------------------------------------
+	| Een korte beschrijving over het doel van je webapp
+	| Wireframes van de verschillende schermen van je applicatie + welke http requests je uitvoert
+      (en welke parameters nodig zijn).
+	| Informatie over hoe we je applicatie kunnen gebruiken en de 2 user accounts met
+      gebruikersnaam en wachtwoord
+	| Een beschrijving/ afbeelding van je domeinmodel (bv een classdiagram)
+	| Eventuele toelichting op complexe onderdelen die je gemaakt hebt.
+	|
+	|
+	|
+
+------------------------------------------------------------------------------------------------------
+	|
+	|
+	|
+	|
+	|
+

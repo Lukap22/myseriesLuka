@@ -1,0 +1,4272 @@
+{
+  "_id": "537523a50e0a263031000250",
+  "air_date": "2014-10-07",
+  "episodes": [
+    {
+      "air_date": "2014-10-07",
+      "episode_number": 1,
+      "id": 977122,
+      "name": "City of Heroes",
+      "overview": "Barry discovers his powers and puts them to the test, only when he finds its no longer a test but the real thing when he encounters a certain someone.",
+      "production_code": "296648",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/i4eBf15GpOgFoiBo4tFRfvkoTYO.jpg",
+      "vote_average": 7.085,
+      "vote_count": 47,
+      "crew": [
+        {
+          "id": 211962,
+          "credit_id": "55d36dd692514120130002bf",
+          "name": "Geoff Johns",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 2,
+          "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+        },
+        {
+          "id": 33316,
+          "credit_id": "5430fbc9c3a36831bb002a14",
+          "name": "David Nutter",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1395152,
+          "credit_id": "54876487c3a368297a000312",
+          "name": "Sarah Schechter",
+          "department": "Production",
+          "job": "Executive Producer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 211962,
+          "credit_id": "55d36defc3a3683b7e0002a9",
+          "name": "Geoff Johns",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e32c3a3680b1a00011a",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 88967,
+          "credit_id": "55d34e1ac3a3680b21000143",
+          "name": "Greg Berlanti",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e2292514174fb000115",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 88967,
+          "credit_id": "5e69c432151c5c00150628f3",
+          "name": "Greg Berlanti",
+          "department": "Crew",
+          "job": "Creator",
+          "gender": 2,
+          "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "5e69c458459ad60013605b49",
+          "name": "Andrew Kreisberg",
+          "department": "Crew",
+          "job": "Creator",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 211962,
+          "credit_id": "5e69c475cabfe400180f27b4",
+          "name": "Geoff Johns",
+          "department": "Crew",
+          "job": "Creator",
+          "gender": 2,
+          "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 60724,
+          "name": "Jana Mitsoula",
+          "credit_id": "54875eb6925141700e000278",
+          "character": "Detective",
+          "order": 10,
+          "gender": 1,
+          "profile_path": "/ubBcgXAYBvX1uA9m7lpjmj8bPa7.jpg"
+        },
+        {
+          "id": 1396997,
+          "name": "Marc Gaudet",
+          "credit_id": "54875eca925141700500027b",
+          "character": "Highway Patrolman",
+          "order": 11,
+          "gender": 0,
+          "profile_path": "/jTqe4CUwwPNVrYcnwzWTc6EqePC.jpg"
+        },
+        {
+          "id": 173030,
+          "name": "Jennifer Kitchen",
+          "credit_id": "5487603fc3a368298e000217",
+          "character": "Female Dispacher",
+          "order": 27,
+          "gender": 1,
+          "profile_path": "/cLsV6qeYNJqdgD9DS9SLLPOXcHy.jpg"
+        },
+        {
+          "id": 1244172,
+          "name": "Matthew Robert Kelly",
+          "credit_id": "54876055c3a368298e00021c",
+          "character": "Coroner",
+          "order": 28,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1397000,
+          "name": "Troy Rudolph",
+          "credit_id": "548761519251417009000391",
+          "character": "Paramedic 2",
+          "order": 32,
+          "gender": 2,
+          "profile_path": "/sUja9tOlwBz0eLV36tIR6HLtqfN.jpg"
+        },
+        {
+          "id": 1397001,
+          "name": "Brendon Zub",
+          "credit_id": "548761a6c3a368298e000239",
+          "character": "Kyle",
+          "order": 36,
+          "gender": 2,
+          "profile_path": "/mUW2qybkFXMVjpU0mzEln1FXArv.jpg"
+        },
+        {
+          "id": 154917,
+          "name": "Al Sapienza",
+          "credit_id": "54876225c3a3682989000322",
+          "character": "Detective Fred Chyre",
+          "order": 41,
+          "gender": 2,
+          "profile_path": "/rWTWUwOcNj5SsLb9FS3dbseosWv.jpg"
+        },
+        {
+          "id": 74678,
+          "name": "Chad Rook",
+          "credit_id": "5487625d9251417015000277",
+          "character": "Clyde Mardon",
+          "order": 43,
+          "gender": 2,
+          "profile_path": "/ingigcFjpB56O4WpOMADH1pwk8k.jpg"
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 65808,
+          "name": "Fulvio Cecere",
+          "credit_id": "5b5c54ec9251415237011421",
+          "character": "Officer Vukuvich",
+          "order": 426,
+          "gender": 2,
+          "profile_path": "/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+        },
+        {
+          "id": 76110,
+          "name": "Stephen Amell",
+          "credit_id": "5430fc44c3a36831ac0029f5",
+          "character": "Oliver Queen / Green Arrow",
+          "order": 435,
+          "gender": 2,
+          "profile_path": "/h7KpOs3NlcquoJnZBFMOad81XEZ.jpg"
+        },
+        {
+          "id": 59240,
+          "name": "Michelle Harrison",
+          "credit_id": "55689435c3a3682e07000088",
+          "character": "Nora Allen",
+          "order": 443,
+          "gender": 1,
+          "profile_path": "/4NNuBCS6I4USJT45xSN9R7vwXFI.jpg"
+        },
+        {
+          "id": 86764,
+          "name": "Olivia Cheng",
+          "credit_id": "5ec2c167d2147c0023b80a91",
+          "character": "Linda Park",
+          "order": 463,
+          "gender": 1,
+          "profile_path": "/c1rOhwVuZi3v47fuTAnVVB4XuSc.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-10-14",
+      "episode_number": 2,
+      "id": 1005650,
+      "name": "Fastest Man Alive",
+      "overview": "Barry changes into the Flash when six gunmen storm a university event honoring a scientist, but his heroics don't match up to his expectations. Meanwhile, Iris becomes even more intrigued by the \"red streak.\"",
+      "production_code": "3J5352",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/mUgakZLNaMIjG63pz7VeJXJPMu4.jpg",
+      "vote_average": 6.726,
+      "vote_count": 31,
+      "crew": [
+        {
+          "id": 211962,
+          "credit_id": "55d36dd692514120130002bf",
+          "name": "Geoff Johns",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 2,
+          "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+        },
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 33316,
+          "credit_id": "5430fbc9c3a36831bb002a14",
+          "name": "David Nutter",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e32c3a3680b1a00011a",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 88967,
+          "credit_id": "55d34e1ac3a3680b21000143",
+          "name": "Greg Berlanti",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e2292514174fb000115",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 97614,
+          "name": "Ronald Patrick Thompson",
+          "credit_id": "5430fd1a0e0a26587200134a",
+          "character": "Samaritan",
+          "order": 3,
+          "gender": 0,
+          "profile_path": "/8mObNyDvc2ohr436Q1iQXpMAhMr.jpg"
+        },
+        {
+          "id": 1371172,
+          "name": "Seth Whittaker",
+          "credit_id": "5430fd40c3a36831bb002a35",
+          "character": "Security Guard",
+          "order": 4,
+          "gender": 2,
+          "profile_path": "/5lxEUN8fd9FLafPqDkimaTORicC.jpg"
+        },
+        {
+          "id": 153849,
+          "name": "Suzanne Ristic",
+          "credit_id": "54875efcc3a36829890002c7",
+          "character": "Tenant",
+          "order": 13,
+          "gender": 0,
+          "profile_path": "/6jTjn1S3oVOcHc2czQdnOARz6Ni.jpg"
+        },
+        {
+          "id": 6573,
+          "name": "William Sadler",
+          "credit_id": "548760079251417005000291",
+          "character": "Simon Stagg",
+          "order": 24,
+          "gender": 2,
+          "profile_path": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+        },
+        {
+          "id": 1237734,
+          "name": "Michasha Armstrong",
+          "credit_id": "54876641c3a368297a00033a",
+          "character": "Java",
+          "order": 52,
+          "gender": 0,
+          "profile_path": "/1nuX1dAXKer4F4k297yRaRGSw9H.jpg"
+        },
+        {
+          "id": 1397008,
+          "name": "Evelyn Chew",
+          "credit_id": "54876653c3a3682980000290",
+          "character": "Woman",
+          "order": 53,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1397009,
+          "name": "Emily Delahunty",
+          "credit_id": "54876665c3a368297d0002cd",
+          "character": "Paige",
+          "order": 54,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1377970,
+          "name": "Patrick Roccas",
+          "credit_id": "548766e1c3a368297d0002d4",
+          "character": "Prison Guard",
+          "order": 56,
+          "gender": 2,
+          "profile_path": "/jiVmHSkGkP2KXQ2H0sIF4sAmvvi.jpg"
+        },
+        {
+          "id": 1218930,
+          "name": "Eli Gabay",
+          "credit_id": "5487678c92514170070002f1",
+          "character": "Fire Chief",
+          "order": 57,
+          "gender": 2,
+          "profile_path": "/eu7F3sS18dYyoMQfl21UVTYTrXr.jpg"
+        },
+        {
+          "id": 1396996,
+          "name": "Amina Elkatib",
+          "credit_id": "5560e037c3a36868e9006623",
+          "character": "Young Iris West",
+          "order": 60,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1397007,
+          "name": "Mike Christopher",
+          "credit_id": "5569e5cdc3a36875ef001541",
+          "character": "Danton Black / Multiplex",
+          "order": 68,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-10-21",
+      "episode_number": 3,
+      "id": 1005651,
+      "name": "Things You Can't Outrun",
+      "overview": "Barry and the team go after the Mist, who possesses toxic gas powers, and they reflect on the night Caitlin's fiancé died. Meanwhile, Henry gets a long-awaited visit from Joe, and Iris and Eddie continue to keep their romance a secret from Joe.",
+      "production_code": "3J5353",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/wY1omkKIuqZILjniPssbGlfZ0NY.jpg",
+      "vote_average": 7.18,
+      "vote_count": 25,
+      "crew": [
+        {
+          "id": 1215681,
+          "credit_id": "5430fdd7c3a3681091001327",
+          "name": "Alison Schapker",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1382170,
+          "credit_id": "55b4ed96c3a368210a006caf",
+          "name": "Grainne Godfree",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 134088,
+          "credit_id": "5430fdc1c3a3681091001322",
+          "name": "Jesse Warn",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/ivvqREnPzI1nFyUCEC0lD4DsqMf.jpg"
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f81f24c3a36874fe001742",
+          "name": "Armen V. Kevorkian",
+          "department": "Directing",
+          "job": "Assistant Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1371173,
+          "name": "Christoff Lundgren",
+          "credit_id": "5430fe07c3a36831ac002a19",
+          "character": "Tweaker",
+          "order": 5,
+          "gender": 0,
+          "profile_path": "/1vckn94D0GLwB1Q9VQJ14NNpx7g.jpg"
+        },
+        {
+          "id": 60724,
+          "name": "Jana Mitsoula",
+          "credit_id": "54875eb6925141700e000278",
+          "character": "Detective",
+          "order": 10,
+          "gender": 1,
+          "profile_path": "/ubBcgXAYBvX1uA9m7lpjmj8bPa7.jpg"
+        },
+        {
+          "id": 1396998,
+          "name": "Natalie Goyarzu",
+          "credit_id": "54875ee7925141700e00027e",
+          "character": "Terrified Woman",
+          "order": 12,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 62870,
+          "name": "Chris Eastman",
+          "credit_id": "54876019925141701700028e",
+          "character": "Mall Cop",
+          "order": 25,
+          "gender": 2,
+          "profile_path": "/oLSYxZJafpabNBEHLlbcp3RAeTa.jpg"
+        },
+        {
+          "id": 27588,
+          "name": "Michael Benyaer",
+          "credit_id": "5487617c925141700e0002b3",
+          "character": "Araz Darbinyan",
+          "order": 34,
+          "gender": 2,
+          "profile_path": "/rN6CNG1XqFTf88rUO64RDlLLwO4.jpg"
+        },
+        {
+          "id": 172833,
+          "name": "Michael Karl Richards",
+          "credit_id": "548761969251417009000397",
+          "character": "Paulson",
+          "order": 35,
+          "gender": 2,
+          "profile_path": "/nLnTp0ey5LFl2DQAlDqikku3rD6.jpg"
+        },
+        {
+          "id": 1397006,
+          "name": "Arash Ghorbani",
+          "credit_id": "5560df4f9251417e5f005f42",
+          "character": "Raffi Darbinya",
+          "order": 59,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1180346,
+          "name": "Anthony Carrigan",
+          "credit_id": "5560df93c3a36868e0006a19",
+          "character": "Kyle Nimbus / The Mist",
+          "order": 60,
+          "gender": 2,
+          "profile_path": "/6YtczDvE4eI8lkU6KXE6pkXaTIi.jpg"
+        },
+        {
+          "id": 1120617,
+          "name": "Philip Cabrita",
+          "credit_id": "5560da3a9251411247002a8d",
+          "character": "Man #1",
+          "order": 62,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 112470,
+          "name": "Elizabeth McLaughlin",
+          "credit_id": "5694ff769251414b78001ee3",
+          "character": "Theresa Howard",
+          "order": 99,
+          "gender": 1,
+          "profile_path": "/kPGv9BC5Z0sXrFFgVdcCHr5oHCM.jpg"
+        },
+        {
+          "id": 1776108,
+          "name": "Johnny Ghorbani",
+          "credit_id": "59127773c3a36864ec04754e",
+          "character": "Raffi",
+          "order": 154,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-10-28",
+      "episode_number": 4,
+      "id": 1005652,
+      "name": "Going Rogue",
+      "overview": "The Flash battles Captain Cold after the villain is involved in a robbery and plots to steal the Kahndaq Dynasty Diamond.",
+      "production_code": "3J5354",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/flWYU25xy3KM5XxihrDV0cGvscp.jpg",
+      "vote_average": 7.146,
+      "vote_count": 24,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 211962,
+          "credit_id": "5487642f9251417003000329",
+          "name": "Geoff Johns",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+        },
+        {
+          "id": 203444,
+          "credit_id": "55b4e9c8c3a3682ff9013076",
+          "name": "Glen Winter",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1367587,
+          "credit_id": "55b4ea02c3a368648e01316c",
+          "name": "Kai Wu",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f81f24c3a36874fe001742",
+          "name": "Armen V. Kevorkian",
+          "department": "Directing",
+          "job": "Assistant Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 141774,
+          "name": "Reese Alexander",
+          "credit_id": "54875f23925141701500023c",
+          "character": "Museum Guard",
+          "order": 15,
+          "gender": 2,
+          "profile_path": "/5HXo2nv3MZxJzScZBuBL6dYILvX.jpg"
+        },
+        {
+          "id": 1224027,
+          "name": "Emily Bett Rickards",
+          "credit_id": "54875f3ec3a368298300025a",
+          "character": "Felicity Smoak",
+          "order": 16,
+          "gender": 1,
+          "profile_path": "/eyMfgXd9U7gld8L7zdfAcmTCbtr.jpg"
+        },
+        {
+          "id": 228890,
+          "name": "Jesse Reid",
+          "credit_id": "54875f69c3a368297d000246",
+          "character": "Oswald Loomis",
+          "order": 18,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 118004,
+          "name": "Bruce Harwood",
+          "credit_id": "5560ded09251417e510067b8",
+          "character": "Dexter Myles",
+          "order": 59,
+          "gender": 2,
+          "profile_path": "/k039u9OzAdgggNjZG0UoK3pUzR1.jpg"
+        },
+        {
+          "id": 1369079,
+          "name": "Lucas Wolf",
+          "credit_id": "5560db9a925141319e000340",
+          "character": "Thug #3",
+          "order": 61,
+          "gender": 0,
+          "profile_path": "/eRuoyDGrRc8zdtq7ddbzmo0ZVCo.jpg"
+        },
+        {
+          "id": 3972,
+          "name": "Wentworth Miller",
+          "credit_id": "5554e87ac3a368776f000195",
+          "character": "Leonard Snart / Captain Cold",
+          "order": 62,
+          "gender": 2,
+          "profile_path": "/1apvr7onOG9OuGjQqlBytBEEY1n.jpg"
+        },
+        {
+          "id": 1742866,
+          "name": "Christopher Rosamond",
+          "credit_id": "5b5ac152c3a368670100aecd",
+          "character": "Thug",
+          "order": 247,
+          "gender": 2,
+          "profile_path": "/rvPZ3Y08mRKro2JnAKu2ZBEaGeq.jpg"
+        },
+        {
+          "id": 1683952,
+          "name": "Paul Belsito",
+          "credit_id": "5b5ac1b40e0a26699100aa4f",
+          "character": "Thug #2",
+          "order": 248,
+          "gender": 2,
+          "profile_path": "/6AgslkgjqsYj0dWkZdrnmpVeeWM.jpg"
+        },
+        {
+          "id": 1234354,
+          "name": "Sarah Hayward",
+          "credit_id": "5b5ac20bc3a368670700c6d8",
+          "character": "Tour Guide",
+          "order": 249,
+          "gender": 1,
+          "profile_path": "/qJUXnOYb9pAyjf8h0Jjp4gbY2w9.jpg"
+        },
+        {
+          "id": 58397,
+          "name": "Robert Mann",
+          "credit_id": "5b5ac247c3a368670100b042",
+          "character": "Basil Nurblin",
+          "order": 250,
+          "gender": 2,
+          "profile_path": "/yCvvDwpanGFi0Gi7XvFhH9zaTwR.jpg"
+        },
+        {
+          "id": 84228,
+          "name": "Hugo Steele",
+          "credit_id": "5b5ac2719251412a9a00993d",
+          "character": "Security Guard",
+          "order": 251,
+          "gender": 2,
+          "profile_path": "/eDIIC6LxptTxx7CDCGEI8DYO0T4.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-11-11",
+      "episode_number": 5,
+      "id": 1010677,
+      "name": "Plastique",
+      "overview": "After a bomb explodes downtown, the army rolls in and takes over. When Joe learns Iris is writing about 'The Streak' and tries unsuccessfully to have the story stopped, Barry decides to have The Flash pay her a visit.",
+      "production_code": "3J5355",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/qg2A8gcBpuhEU7M3ZPxmRHGs5mX.jpg",
+      "vote_average": 7.104,
+      "vote_count": 24,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1490533,
+          "credit_id": "55b4ebdec3a368648e01318b",
+          "name": "Brooke Roberts",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f81f24c3a36874fe001742",
+          "name": "Armen V. Kevorkian",
+          "department": "Directing",
+          "job": "Assistant Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 25941,
+          "credit_id": "55b4eb59c3a3682ff901309b",
+          "name": "Dermott Downs",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/vCq8mlxsJOB4rCjanLVoaNtvJVV.jpg"
+        },
+        {
+          "id": 209762,
+          "credit_id": "55b4eb81c3a368210a006c93",
+          "name": "Aaron Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209763,
+          "credit_id": "55b4eb91c3a368219000676e",
+          "name": "Todd Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1252128,
+          "name": "Jan Bos",
+          "credit_id": "548762a2c3a368298900032c",
+          "character": "Dr. Harold Hadley",
+          "order": 46,
+          "gender": 2,
+          "profile_path": "/t7t8oNcyskEvAOPnuDFAJ3gnQkf.jpg"
+        },
+        {
+          "id": 115222,
+          "name": "Kelly Frye",
+          "credit_id": "5560dbd4c3a36868d9005ddf",
+          "character": "Bette Sans Souci / Plastique",
+          "order": 61,
+          "gender": 0,
+          "profile_path": "/k0l4aPBGTV5knP4SMJcxo79bMLv.jpg"
+        },
+        {
+          "id": 6574,
+          "name": "Clancy Brown",
+          "credit_id": "556896cfc3a3682dfe0000fb",
+          "character": "General Wade Eiling",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg"
+        },
+        {
+          "id": 113203,
+          "name": "Mike Mitchell",
+          "credit_id": "5b5c55580e0a262e9f012604",
+          "character": "Security Guard",
+          "order": 252,
+          "gender": 2,
+          "profile_path": "/6dUsZqIAqqQp7yAojSji8aQPMRA.jpg"
+        },
+        {
+          "id": 65808,
+          "name": "Fulvio Cecere",
+          "credit_id": "5b5c54ec9251415237011421",
+          "character": "Officer Vukuvich",
+          "order": 426,
+          "gender": 2,
+          "profile_path": "/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-11-18",
+      "episode_number": 6,
+      "id": 1010678,
+      "name": "The Flash is Born",
+      "overview": "The Flash faces a new meta-human named Tony, who can turn himself into girded steel at will.",
+      "production_code": "3J5356",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/z8AlWWt2cOcZNqonl0U1BSTzZWb.jpg",
+      "vote_average": 6.979,
+      "vote_count": 24,
+      "crew": [
+        {
+          "id": 1490537,
+          "credit_id": "55b4ecae925141045700489e",
+          "name": "Chris Rafferty",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1214641,
+          "credit_id": "55b4ec439251411e14014ab2",
+          "name": "Millicent Shelton",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1237645,
+          "credit_id": "55b4ec9c9251410457004896",
+          "name": "Jaime Paglia",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f81f24c3a36874fe001742",
+          "name": "Armen V. Kevorkian",
+          "department": "Directing",
+          "job": "Assistant Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 209828,
+          "name": "Austin Dunn",
+          "credit_id": "5487632ac3a368297a0002fd",
+          "character": "Young Tony",
+          "order": 49,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1397005,
+          "name": "Daniel Mallinson",
+          "credit_id": "5560de0cc3a36868eb006d98",
+          "character": "Officer Doyle",
+          "order": 59,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1396996,
+          "name": "Amina Elkatib",
+          "credit_id": "5560e037c3a36868e9006623",
+          "character": "Young Iris West",
+          "order": 60,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 206864,
+          "name": "Greg Finley",
+          "credit_id": "5569e7ebc3a36876ff001760",
+          "character": "Tony Woodward / Girder",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/nNrkeOaNQhDfgT85h6lr8JrfyEs.jpg"
+        },
+        {
+          "id": 2094124,
+          "name": "Lauren Denham",
+          "credit_id": "5b5c5642c3a36842270134e8",
+          "character": "Stacy Conwell",
+          "order": 253,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1233167,
+          "name": "Travis MacDonald",
+          "credit_id": "5b5c56fcc3a368421b014463",
+          "character": "Tat Man",
+          "order": 254,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-11-25",
+      "episode_number": 7,
+      "id": 1010679,
+      "name": "Power Outage",
+      "overview": "The Flash goes up against Farooq aka Blackout, a metahuman who can harness electricity.",
+      "production_code": "3J5357",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/6RqDA0k2dcRTRcppZybXH14YJ6F.jpg",
+      "vote_average": 7.304,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1212412,
+          "credit_id": "55b4ed6d92514104570048b3",
+          "name": "Larry Shaw",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1215681,
+          "credit_id": "5430fdd7c3a3681091001327",
+          "name": "Alison Schapker",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1382170,
+          "credit_id": "55b4ed96c3a368210a006caf",
+          "name": "Grainne Godfree",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 17343,
+          "name": "Robert Knepper",
+          "credit_id": "54875f94c3a3682980000227",
+          "character": "William Tockman / Clock King",
+          "order": 20,
+          "gender": 2,
+          "profile_path": "/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg"
+        },
+        {
+          "id": 132347,
+          "name": "Casey Dubois",
+          "credit_id": "54876373c3a3682978000302",
+          "character": "Barista",
+          "order": 50,
+          "gender": 2,
+          "profile_path": "/sK31Po7LSZ80eTOuoPBe4jdb0Sg.jpg"
+        },
+        {
+          "id": 1368783,
+          "name": "Alex Barima",
+          "credit_id": "5560e1189251411247002b3a",
+          "character": "College Boy",
+          "order": 59,
+          "gender": 2,
+          "profile_path": "/5StOgry5MQ8EGmivyzoQtyAFnjV.jpg"
+        },
+        {
+          "id": 1397003,
+          "name": "Michael Reventar",
+          "credit_id": "5560dac5c3a3683d13004fd2",
+          "character": "Farooq Gibran / Blackout",
+          "order": 62,
+          "gender": 0,
+          "profile_path": "/bHln3DHgD6UnIRFb4pAVGklISYU.jpg"
+        },
+        {
+          "id": 206864,
+          "name": "Greg Finley",
+          "credit_id": "5569e7ebc3a36876ff001760",
+          "character": "Tony Woodward / Girder",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/nNrkeOaNQhDfgT85h6lr8JrfyEs.jpg"
+        },
+        {
+          "id": 1457268,
+          "name": "Steve Baran",
+          "credit_id": "5b5cbe119251415237018a7d",
+          "character": "SWAT Commander",
+          "order": 255,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1772357,
+          "name": "Jacky Lai",
+          "credit_id": "5b5cbe49c3a368422f01d377",
+          "character": "College Girl",
+          "order": 256,
+          "gender": 1,
+          "profile_path": "/pXSQP2TvpA0NwXmCPmCV9flF2Lu.jpg"
+        },
+        {
+          "id": 1433012,
+          "name": "Chantele Francis",
+          "credit_id": "5b5cbe9ac3a368422c01790a",
+          "character": "Annoyed Customer",
+          "order": 257,
+          "gender": 1,
+          "profile_path": "/5bRuDnopeGck0innFFOmX3W2vfq.jpg"
+        },
+        {
+          "id": 1883762,
+          "name": "Christiaan Westerveld",
+          "credit_id": "5b5cbed0c3a368422401a660",
+          "character": "Mugger",
+          "order": 258,
+          "gender": 0,
+          "profile_path": "/rrt7LaWMgZSbqaP7NKpfFQWmc79.jpg"
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin",
+          "credit_id": "5b6c4913c3a368537509eebb",
+          "character": "Gideon (voice)",
+          "order": 413,
+          "gender": 1,
+          "profile_path": "/u8oQ5JvM1oBYt5i9432sPboLhx5.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-12-02",
+      "episode_number": 8,
+      "id": 1010680,
+      "name": "Flash vs. Arrow",
+      "overview": "Barry is thrilled when Oliver, Felicity and Diggle come to Central City to investigate a case involving a deadly boomerang.\n\nThe crossover continues on Arrow S03E08 The Brave and the Bold.",
+      "production_code": "3J5358",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/farB7p2uU1SdFHbHLOvOxMFrdrA.jpg",
+      "vote_average": 7.958,
+      "vote_count": 24,
+      "crew": [
+        {
+          "id": 1371444,
+          "credit_id": "562e7b979251414ab7009600",
+          "name": "Ben Sokolowski",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 203444,
+          "credit_id": "55b4e9c8c3a3682ff9013076",
+          "name": "Glen Winter",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1490533,
+          "credit_id": "562e7babc3a3681b6100b9f8",
+          "name": "Brooke Roberts",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 88967,
+          "credit_id": "55d34e1ac3a3680b21000143",
+          "name": "Greg Berlanti",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e2292514174fb000115",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 1464130,
+          "credit_id": "5b5cbf62c3a368421b01cf0d",
+          "name": "Paul Karasick",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1224027,
+          "name": "Emily Bett Rickards",
+          "credit_id": "54875f3ec3a368298300025a",
+          "character": "Felicity Smoak",
+          "order": 16,
+          "gender": 1,
+          "profile_path": "/eyMfgXd9U7gld8L7zdfAcmTCbtr.jpg"
+        },
+        {
+          "id": 1397002,
+          "name": "Sharon Bell",
+          "credit_id": "548761c0c3a36829780002e0",
+          "character": "Female Restaurant Patron",
+          "order": 37,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1052900,
+          "name": "Paul Anthony",
+          "credit_id": "5569e849c3a368774e001bb2",
+          "character": "Roy G. Bivolo / Rainbow Raider",
+          "order": 71,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1840725,
+          "name": "Michelle Choi-Lee",
+          "credit_id": "5b5cbff99251415237018d17",
+          "character": "Teller",
+          "order": 260,
+          "gender": 1,
+          "profile_path": "/WOlWIDRFwHdNWO3y2wXuYW89ug.jpg"
+        },
+        {
+          "id": 83424,
+          "name": "Peter New",
+          "credit_id": "5b5cc03e0e0a262e9201b694",
+          "character": "Widgick",
+          "order": 261,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1677364,
+          "name": "Roman Blomme",
+          "credit_id": "5b5cc0a5925141522401a335",
+          "character": "Street Punk",
+          "order": 262,
+          "gender": 2,
+          "profile_path": "/h3QJHBqZXlpd4Tmf80TVMwVGsV7.jpg"
+        },
+        {
+          "id": 1396999,
+          "name": "Trevor Carroll",
+          "credit_id": "5b5cc0e4c3a368422401a995",
+          "character": "Street Punk",
+          "order": 263,
+          "gender": 2,
+          "profile_path": "/7rQ2udgSUnA4Sil6LAzNXP7m9er.jpg"
+        },
+        {
+          "id": 83445,
+          "name": "Jason William Day",
+          "credit_id": "5b5cc110c3a368422f01d80e",
+          "character": "SWAT",
+          "order": 264,
+          "gender": 2,
+          "profile_path": "/1KHyn8as1ZnAUR7uFnwy4YVvURZ.jpg"
+        },
+        {
+          "id": 1239253,
+          "name": "Demord Dann",
+          "credit_id": "5b5cc13a0e0a262ea101bb5b",
+          "character": "Security Guard",
+          "order": 265,
+          "gender": 0,
+          "profile_path": "/2YldPW7ucXaU4x2f4yb7mf5fz0l.jpg"
+        },
+        {
+          "id": 2035945,
+          "name": "Thabo Ketshabetswe",
+          "credit_id": "5b5cc184c3a368422f01d8b4",
+          "character": "Painter",
+          "order": 266,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 174662,
+          "name": "Gary Pettinger",
+          "credit_id": "5b5cc1aa0e0a262e9c01becd",
+          "character": "Restaurant Patron",
+          "order": 267,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1882596,
+          "name": "Devin Pihlainen",
+          "credit_id": "5b5cc1d20e0a262e9501c4aa",
+          "character": "Cute Guy",
+          "order": 268,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 208679,
+          "name": "Anja Savcic",
+          "credit_id": "5b5cc2170e0a262e9c01bf99",
+          "character": "Young Mother",
+          "order": 269,
+          "gender": 1,
+          "profile_path": "/6xJzn2ckq3kxBNWOF9uuIeelN6L.jpg"
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 208539,
+          "name": "Anna Hopkins",
+          "credit_id": "5b5cbfa4c3a368422c017a73",
+          "character": "Samantha Clayton",
+          "order": 348,
+          "gender": 1,
+          "profile_path": "/a52QcP7arMvTdz5KdaDxStj7IDj.jpg"
+        },
+        {
+          "id": 76110,
+          "name": "Stephen Amell",
+          "credit_id": "5430fc44c3a36831ac0029f5",
+          "character": "Oliver Queen / Green Arrow",
+          "order": 435,
+          "gender": 2,
+          "profile_path": "/h7KpOs3NlcquoJnZBFMOad81XEZ.jpg"
+        },
+        {
+          "id": 116774,
+          "name": "David Ramsey",
+          "credit_id": "55689a19c3a3682e03000111",
+          "character": "John Diggle",
+          "order": 448,
+          "gender": 2,
+          "profile_path": "/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-12-09",
+      "episode_number": 9,
+      "id": 1018354,
+      "name": "The Man in the Yellow Suit",
+      "overview": "Barry enjoys the annual tradition of tree trimming and gift exchange with Joe and Iris. He gives Iris a touching gift, but the moment is interrupted by Eddie’s arrival.",
+      "production_code": "3J5359",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/AkXPSqGqLl656FJKPANUxeO8rjt.jpg",
+      "vote_average": 7.667,
+      "vote_count": 24,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 109537,
+          "credit_id": "558df463925141579e000bd0",
+          "name": "Ralph Hemecker",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209762,
+          "credit_id": "55b4eb81c3a368210a006c93",
+          "name": "Aaron Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209763,
+          "credit_id": "55b4eb91c3a368219000676e",
+          "name": "Todd Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 26666,
+          "name": "Amanda Pays",
+          "credit_id": "54876287c3a36829830002a0",
+          "character": "Dr. Tina McGee",
+          "order": 45,
+          "gender": 1,
+          "profile_path": "/ryDAKAA5bR8dqB7rDp7pDvTqT7z.jpg"
+        },
+        {
+          "id": 1457268,
+          "name": "Steve Baran",
+          "credit_id": "5b5cc2b892514152310198a8",
+          "character": "Task Force",
+          "order": 270,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 51803,
+          "name": "David Milchard",
+          "credit_id": "5b5cc3080e0a262ea101be21",
+          "character": "Scientist",
+          "order": 271,
+          "gender": 2,
+          "profile_path": "/5fAkTchSP81VJawTgOqwN96thtC.jpg"
+        },
+        {
+          "id": 1366657,
+          "name": "James Michalopolous",
+          "credit_id": "5b5cc340925141522a019fe7",
+          "character": "Security Guard",
+          "order": 272,
+          "gender": 0,
+          "profile_path": "/mkCFelMz0Lh1By7LuvHBgCe0vuQ.jpg"
+        },
+        {
+          "id": 129989,
+          "name": "Dean Hinchey",
+          "credit_id": "5b5cc3b10e0a262ea101befc",
+          "character": "Decorator",
+          "order": 273,
+          "gender": 2,
+          "profile_path": "/zcPMHOifX2p2dRwU8F3kWibz7iS.jpg"
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 59240,
+          "name": "Michelle Harrison",
+          "credit_id": "55689435c3a3682e07000088",
+          "character": "Nora Allen",
+          "order": 443,
+          "gender": 1,
+          "profile_path": "/4NNuBCS6I4USJT45xSN9R7vwXFI.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-01-20",
+      "episode_number": 10,
+      "id": 1018355,
+      "name": "Revenge of the Rogues",
+      "overview": "While Barry strives to become fast enough to defeat Reverse-Flash, Captain Cold returns to Central City with a partner and takes Caitlin hostage to force a confrontation with the Flash.",
+      "production_code": "3J5360",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/AeqQiAxUWy3JwMqZyhwMwId7oSn.jpg",
+      "vote_average": 6.9,
+      "vote_count": 25,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 211962,
+          "credit_id": "5487642f9251417003000329",
+          "name": "Geoff Johns",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+        },
+        {
+          "id": 139651,
+          "credit_id": "55b4f0c99251417364006630",
+          "name": "Nick Copus",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1367587,
+          "credit_id": "55b4ea02c3a368648e01316c",
+          "name": "Kai Wu",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 60724,
+          "name": "Jana Mitsoula",
+          "credit_id": "54875eb6925141700e000278",
+          "character": "Detective",
+          "order": 10,
+          "gender": 1,
+          "profile_path": "/ubBcgXAYBvX1uA9m7lpjmj8bPa7.jpg"
+        },
+        {
+          "id": 1397005,
+          "name": "Daniel Mallinson",
+          "credit_id": "5560de0cc3a36868eb006d98",
+          "character": "Officer Doyle",
+          "order": 59,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 3972,
+          "name": "Wentworth Miller",
+          "credit_id": "5554e87ac3a368776f000195",
+          "character": "Leonard Snart / Captain Cold",
+          "order": 62,
+          "gender": 2,
+          "profile_path": "/1apvr7onOG9OuGjQqlBytBEEY1n.jpg"
+        },
+        {
+          "id": 10862,
+          "name": "Dominic Purcell",
+          "credit_id": "5568952492514162b80000a0",
+          "character": "Mick Rory / Heat Wave",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/30giDZ53c8f72pPbXCLK9xMSAnw.jpg"
+        },
+        {
+          "id": 1356538,
+          "name": "Luc Roderique",
+          "credit_id": "5569e95bc3a36876bd0018dc",
+          "character": "Jason Rusch",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/jeAxcgvhKGTsiGyNnNTfG2qpK1S.jpg"
+        },
+        {
+          "id": 2094420,
+          "name": "Graeme Doyle",
+          "credit_id": "5b5cc56ac3a368421b01d839",
+          "character": "Officer Gibbons",
+          "order": 274,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 169471,
+          "name": "James Ralph",
+          "credit_id": "5b5cc5df925141522e0192b9",
+          "character": "Osgood Rathaway",
+          "order": 275,
+          "gender": 0,
+          "profile_path": "/wunOSV8tFE8SqQlmGhqTMuiJt5R.jpg"
+        },
+        {
+          "id": 1475833,
+          "name": "Lee Shorten",
+          "credit_id": "5b5cc6d3c3a368422c018329",
+          "character": "Executive Staffer",
+          "order": 276,
+          "gender": 0,
+          "profile_path": "/nMhv08Ku7RAkV9MIpwPgBvWNTHS.jpg"
+        },
+        {
+          "id": 172833,
+          "name": "Michael Karl Richards",
+          "credit_id": "5b5cc6ed0e0a262e8d01d1e3",
+          "character": "Cop",
+          "order": 277,
+          "gender": 2,
+          "profile_path": "/nLnTp0ey5LFl2DQAlDqikku3rD6.jpg"
+        },
+        {
+          "id": 1193924,
+          "name": "Jason Bell",
+          "credit_id": "5b5cc7050e0a262e9001d1a7",
+          "character": "Cop",
+          "order": 278,
+          "gender": 2,
+          "profile_path": "/uu2DHtWZnlE7seX1AaeWKzMcLa9.jpg"
+        },
+        {
+          "id": 65808,
+          "name": "Fulvio Cecere",
+          "credit_id": "5b5c54ec9251415237011421",
+          "character": "Officer Vukuvich",
+          "order": 426,
+          "gender": 2,
+          "profile_path": "/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-01-27",
+      "episode_number": 11,
+      "id": 1037712,
+      "name": "The Sound and the Fury",
+      "overview": "Dr. Wells' former protégé, Hartley Rathaway, returns to seek revenge on his mentor. Meanwhile, Iris is hired as a cub reporter; Cisco recalls his first day on the job at S.T.A.R. Labs; and Joe asks Eddie for a favor but asks him to keep it a secret from Barry.",
+      "production_code": "3J5361",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/qxcsH89DMX9OVOa9GA6G2PkQ5Hg.jpg",
+      "vote_average": 6.74,
+      "vote_count": 25,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1288953,
+          "credit_id": "55b4f11ac3a368300201436f",
+          "name": "John F. Showalter",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/4JEiyaiBWVPeUd44QvIwVjSFWr2.jpg"
+        },
+        {
+          "id": 1215681,
+          "credit_id": "5430fdd7c3a3681091001327",
+          "name": "Alison Schapker",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1490533,
+          "credit_id": "55b4ebdec3a368648e01318b",
+          "name": "Brooke Roberts",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1220769,
+          "name": "Roger Howarth",
+          "credit_id": "5569e997c3a368762c001cef",
+          "character": "Mason Bridge",
+          "order": 73,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 85922,
+          "name": "Tom Butler",
+          "credit_id": "563be5b5c3a3681b4d028912",
+          "character": "Eric Larkin",
+          "order": 92,
+          "gender": 2,
+          "profile_path": "/sMDuFSvna90gGV0jkOK7PDzQC8g.jpg"
+        },
+        {
+          "id": 1882902,
+          "name": "Sarwan Badesha",
+          "credit_id": "5b6542f70e0a267ee50684e5",
+          "character": "Cop",
+          "order": 279,
+          "gender": 0,
+          "profile_path": "/pQEhyAmXL6kocFRqODSboLJhy4i.jpg"
+        },
+        {
+          "id": 1632112,
+          "name": "Quynh Mi",
+          "credit_id": "5b65432fc3a368188f06db8d",
+          "character": "Woman",
+          "order": 280,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin",
+          "credit_id": "5b6c4913c3a368537509eebb",
+          "character": "Gideon (voice)",
+          "order": 413,
+          "gender": 1,
+          "profile_path": "/u8oQ5JvM1oBYt5i9432sPboLhx5.jpg"
+        },
+        {
+          "id": 1254616,
+          "name": "Andy Mientus",
+          "credit_id": "5569e9c99251416afc001c63",
+          "character": "Hartley Rathaway / Pied Piper",
+          "order": 455,
+          "gender": 2,
+          "profile_path": "/lDTCPB3ZJ5DgMLFhdqK6Hi1gjsc.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-02-03",
+      "episode_number": 12,
+      "id": 1037713,
+      "name": "Crazy for You",
+      "overview": "Caitlin takes Barry out to a local karaoke bar to help them both find new loves. Caitlin strikes out but Barry meets a sports reporter and asks her out for a date. Meanwhile, Cisco considers Hartley's dangerous offer; and the team search for Shawna, a meta-human with teleportation powers who just busted her boyfriend out of Iron Heights.",
+      "production_code": "3J5362",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/a1r4J8NQaNK24WMJSgCWkPyCvua.jpg",
+      "vote_average": 6.935,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 31123,
+          "credit_id": "55b4f17bc3a368648e0131f7",
+          "name": "Rob Hardy",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209762,
+          "credit_id": "55b4eb81c3a368210a006c93",
+          "name": "Aaron Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209763,
+          "credit_id": "55b4eb91c3a368219000676e",
+          "name": "Todd Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 118544,
+          "name": "Melise",
+          "credit_id": "5568956892514162b0000098",
+          "character": "Linda Park",
+          "order": 67,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1742662,
+          "name": "Micah Joe Parker",
+          "credit_id": "5b6543fcc3a36818990629a5",
+          "character": "Clay Parker",
+          "order": 281,
+          "gender": 2,
+          "profile_path": "/n7ZFC67rRwqacKb12cLjlhOxbgA.jpg"
+        },
+        {
+          "id": 74363,
+          "name": "Scott McNeil",
+          "credit_id": "5b6544e49251414054064e6d",
+          "character": "Julius",
+          "order": 282,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 86602,
+          "name": "Jerry Trimble",
+          "credit_id": "5b6545270e0a267eeb070fd0",
+          "character": "Marcus Stockheimer",
+          "order": 283,
+          "gender": 2,
+          "profile_path": "/oDK7NCnz2z2BFV8YquEpj8PBwed.jpg"
+        },
+        {
+          "id": 1224889,
+          "name": "J. Douglas Stewart",
+          "credit_id": "5b65456ac3a368189408084d",
+          "character": "Fire Chief",
+          "order": 284,
+          "gender": 2,
+          "profile_path": "/wistYvD02WYwQonwnQm5aVs9l5X.jpg"
+        },
+        {
+          "id": 1366510,
+          "name": "Fraser Aitcheson",
+          "credit_id": "5b6545bd0e0a267eeb0710ad",
+          "character": "City Worker",
+          "order": 285,
+          "gender": 2,
+          "profile_path": "/j0fou5tZvXHe3GcVr24UnYQLg6S.jpg"
+        },
+        {
+          "id": 1081488,
+          "name": "Douglas Chapman",
+          "credit_id": "5b65460d0e0a267eeb07114a",
+          "character": "City Worker",
+          "order": 286,
+          "gender": 0,
+          "profile_path": "/woJlBx2I4Hv1nKkC8f1G5cXqvXu.jpg"
+        },
+        {
+          "id": 1488651,
+          "name": "Will E. McDonald",
+          "credit_id": "5b654634925141406406946b",
+          "character": "Truck Guard",
+          "order": 287,
+          "gender": 0,
+          "profile_path": "/wWqRdg0Ueq8LPobFT97dBDdypY1.jpg"
+        },
+        {
+          "id": 1924481,
+          "name": "Tristan Shire",
+          "credit_id": "5b6546650e0a267ee50689c3",
+          "character": "Bartender",
+          "order": 288,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1882400,
+          "name": "Theo Wiersma",
+          "credit_id": "5b65468a0e0a267ee7071400",
+          "character": "Karaoke Bar Patron",
+          "order": 289,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1191706,
+          "name": "Crystal Mudry",
+          "credit_id": "5b6546aa0e0a267ef106ddde",
+          "character": "Woman",
+          "order": 290,
+          "gender": 1,
+          "profile_path": "/f6hFUIm9v8Ua1t2tg334joGSlSb.jpg"
+        },
+        {
+          "id": 8536,
+          "name": "Victor Garber",
+          "credit_id": "5554e84fc3a368777e0001af",
+          "character": "Dr. Martin Stein",
+          "order": 297,
+          "gender": 2,
+          "profile_path": "/q0h2M3xdCugsWVgi6c3ixZt7a8L.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 543523,
+          "name": "Britne Oldford",
+          "credit_id": "55b52f29c3a368648e013799",
+          "character": "Shawna Baez / Peek-a-Boo",
+          "order": 408,
+          "gender": 1,
+          "profile_path": "/1htdyAfrsgyiqmm5GguAoLLu6aM.jpg"
+        },
+        {
+          "id": 1254616,
+          "name": "Andy Mientus",
+          "credit_id": "5569e9c99251416afc001c63",
+          "character": "Hartley Rathaway / Pied Piper",
+          "order": 455,
+          "gender": 2,
+          "profile_path": "/lDTCPB3ZJ5DgMLFhdqK6Hi1gjsc.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-02-10",
+      "episode_number": 13,
+      "id": 1037714,
+      "name": "The Nuclear Man",
+      "overview": "While Barry, Harrison, and Caitlin hunt down Ronnie, who has attacked a man, Joe recruits Cisco to help him learn the truth about who murdered Nora Allen.",
+      "production_code": "3J5363",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/usjv8RAbnWy57d3KeChLLXCWoqH.jpg",
+      "vote_average": 7.214,
+      "vote_count": 21,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "548763f892514170170002dc",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 203444,
+          "credit_id": "55b4e9c8c3a3682ff9013076",
+          "name": "Glen Winter",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1490539,
+          "credit_id": "55b4f2009251417364006644",
+          "name": "Katherine Walczak",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 118544,
+          "name": "Melise",
+          "credit_id": "5568956892514162b0000098",
+          "character": "Linda Park",
+          "order": 67,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 6574,
+          "name": "Clancy Brown",
+          "credit_id": "556896cfc3a3682dfe0000fb",
+          "character": "General Wade Eiling",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg"
+        },
+        {
+          "id": 108213,
+          "name": "Isabella Hofmann",
+          "credit_id": "5616d4149251412aec000162",
+          "character": "Clarissa Stein",
+          "order": 90,
+          "gender": 1,
+          "profile_path": "/vPRXu2u0vewF6dRJLZ2p8rhrIou.jpg"
+        },
+        {
+          "id": 118462,
+          "name": "Bill Dow",
+          "credit_id": "5b65479f925141405c0637ac",
+          "character": "Quentin Quale",
+          "order": 291,
+          "gender": 2,
+          "profile_path": "/6c1qlFA9OhIZkZrybqj13eFhY4h.jpg"
+        },
+        {
+          "id": 96309,
+          "name": "Chase Masterson",
+          "credit_id": "5b6547c5c3a368188f06e221",
+          "character": "Sherry",
+          "order": 292,
+          "gender": 1,
+          "profile_path": "/s1lP6YmJU4tj6pBhwE9xZa1at9h.jpg"
+        },
+        {
+          "id": 1369365,
+          "name": "Paul Griggs",
+          "credit_id": "5b6548640e0a267ef8070579",
+          "character": "Jumper",
+          "order": 294,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1546591,
+          "name": "Herbert Duncanson",
+          "credit_id": "5b65482d0e0a267eed073b17",
+          "character": "Sergeant Bates",
+          "order": 295,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 8536,
+          "name": "Victor Garber",
+          "credit_id": "5554e84fc3a368777e0001af",
+          "character": "Dr. Martin Stein",
+          "order": 297,
+          "gender": 2,
+          "profile_path": "/q0h2M3xdCugsWVgi6c3ixZt7a8L.jpg"
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin",
+          "credit_id": "5b6c4913c3a368537509eebb",
+          "character": "Gideon (voice)",
+          "order": 413,
+          "gender": 1,
+          "profile_path": "/u8oQ5JvM1oBYt5i9432sPboLhx5.jpg"
+        },
+        {
+          "id": 59240,
+          "name": "Michelle Harrison",
+          "credit_id": "55689435c3a3682e07000088",
+          "character": "Nora Allen",
+          "order": 443,
+          "gender": 1,
+          "profile_path": "/4NNuBCS6I4USJT45xSN9R7vwXFI.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-02-17",
+      "episode_number": 14,
+      "id": 1039988,
+      "name": "Fallout",
+      "overview": "Martin and Ronnie are separated, only to realize that they must learn how to rejoin before Eiling hunts them down and kills them... and the Flash. Meanwhile, Joe shows Barry the 3D images from the Nora Allen crime scene, and Barry asks Martin for advice on time travel.",
+      "production_code": "3J5364",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/5SYE3YeMK5RQ4FGSn6XstlPTVoS.jpg",
+      "vote_average": 7.37,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 1489551,
+          "credit_id": "55b526e29251410457004e36",
+          "name": "Keto Shimizu",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 56155,
+          "credit_id": "55b526a1c3a368210a007165",
+          "name": "Stephen Surjik",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1371444,
+          "credit_id": "55b526eb9251417364006a8a",
+          "name": "Ben Sokolowski",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 6574,
+          "name": "Clancy Brown",
+          "credit_id": "556896cfc3a3682dfe0000fb",
+          "character": "General Wade Eiling",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg"
+        },
+        {
+          "id": 1220769,
+          "name": "Roger Howarth",
+          "credit_id": "5569e997c3a368762c001cef",
+          "character": "Mason Bridge",
+          "order": 73,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 108213,
+          "name": "Isabella Hofmann",
+          "credit_id": "5616d4149251412aec000162",
+          "character": "Clarissa Stein",
+          "order": 90,
+          "gender": 1,
+          "profile_path": "/vPRXu2u0vewF6dRJLZ2p8rhrIou.jpg"
+        },
+        {
+          "id": 1546591,
+          "name": "Herbert Duncanson",
+          "credit_id": "5b65482d0e0a267eed073b17",
+          "character": "Sergeant Bates",
+          "order": 295,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2099543,
+          "name": "Scott Button",
+          "credit_id": "5b6549439251414060066f85",
+          "character": "Barista",
+          "order": 295,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1400266,
+          "name": "James Yi",
+          "credit_id": "5b654973c3a368188608104a",
+          "character": "Lead Scientist",
+          "order": 296,
+          "gender": 2,
+          "profile_path": "/1NYv1fhGFO8dTAJLg0qN2K5bsJ1.jpg"
+        },
+        {
+          "id": 8536,
+          "name": "Victor Garber",
+          "credit_id": "5554e84fc3a368777e0001af",
+          "character": "Dr. Martin Stein",
+          "order": 297,
+          "gender": 2,
+          "profile_path": "/q0h2M3xdCugsWVgi6c3ixZt7a8L.jpg"
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 164614,
+          "name": "David Sobolov",
+          "credit_id": "564e62fd9251414b07000f46",
+          "character": "Gorilla Grodd (voice)",
+          "order": 453,
+          "gender": 2,
+          "profile_path": null
+        }
+      ]
+    },
+    {
+      "air_date": "2015-03-17",
+      "episode_number": 15,
+      "id": 1039989,
+      "name": "Out of Time",
+      "overview": "Mark Mardon, having survived his apparent death during the black-matter explosion, returns seeking revenge on Joe for the death of his brother Clyde... and has the same weather-manipulation powers as his deceased sibling.",
+      "production_code": "3J5365",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/3ecwKLunVv2s8KFC9mt8NZe5jS6.jpg",
+      "vote_average": 8.518,
+      "vote_count": 28,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 109857,
+          "credit_id": "55b527909251411e0b0147f4",
+          "name": "Thor Freudenthal",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/preUUhIpt98strn3gZs9vEPZ4xx.jpg"
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 1689237,
+          "credit_id": "57f44699c3a3683b67002dd2",
+          "name": "Armen V. Kevorkian",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209762,
+          "credit_id": "55b4eb81c3a368210a006c93",
+          "name": "Aaron Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209763,
+          "credit_id": "55b4eb91c3a368219000676e",
+          "name": "Todd Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 74678,
+          "name": "Chad Rook",
+          "credit_id": "5487625d9251417015000277",
+          "character": "Clyde Mardon",
+          "order": 43,
+          "gender": 2,
+          "profile_path": "/ingigcFjpB56O4WpOMADH1pwk8k.jpg"
+        },
+        {
+          "id": 118544,
+          "name": "Melise",
+          "credit_id": "5568956892514162b0000098",
+          "character": "Linda Park",
+          "order": 67,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1220769,
+          "name": "Roger Howarth",
+          "credit_id": "5569e997c3a368762c001cef",
+          "character": "Mason Bridge",
+          "order": 73,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1475081,
+          "name": "Jenn MacLean-Angus",
+          "credit_id": "5b654b2a0e0a267ef606bb61",
+          "character": "Surgeon",
+          "order": 299,
+          "gender": 1,
+          "profile_path": "/shodaUibRq4SCfJS0OFMa7nLCzI.jpg"
+        },
+        {
+          "id": 158374,
+          "name": "Fred Henderson",
+          "credit_id": "5b654afe0e0a267eed073f23",
+          "character": "Coroner",
+          "order": 303,
+          "gender": 2,
+          "profile_path": "/2GXHxyciPjOZPgFAq2WJT9Un7uO.jpg"
+        },
+        {
+          "id": 1313645,
+          "name": "Jeremy Schuetze",
+          "credit_id": "5b654acb925141404f05f586",
+          "character": "Rob",
+          "order": 326,
+          "gender": 2,
+          "profile_path": "/gU59ngDl6g47hoAY9ky9tW6vxRz.jpg"
+        },
+        {
+          "id": 934219,
+          "name": "Liam McIntyre",
+          "credit_id": "5568954f92514162bb0000a7",
+          "character": "Mark Mardon / Weather Wizard",
+          "order": 404,
+          "gender": 2,
+          "profile_path": "/kV8KZINfuuC40NzZ6cZlXdQt2N5.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-03-24",
+      "episode_number": 16,
+      "id": 1039990,
+      "name": "Rogue Time",
+      "overview": "The Flash learns that Captain Cold and Heat Wave have returned to Central City. This time Snart has brought along his baby sister Lisa to help wreak havoc on the city.",
+      "production_code": "3J5366",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/akLeJQjlE7A4MaPhOU7im8QHSrK.jpg",
+      "vote_average": 6.929,
+      "vote_count": 21,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1367587,
+          "credit_id": "562e7cb5925141285700b079",
+          "name": "Kai Wu",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1215006,
+          "credit_id": "55b52800c3a368210a007179",
+          "name": "John Behring",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1382170,
+          "credit_id": "562e7c919251410a22006ffd",
+          "name": "Grainne Godfree",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 1490533,
+          "credit_id": "562e7babc3a3681b6100b9f8",
+          "name": "Brooke Roberts",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 2103395,
+          "credit_id": "5b6c473e925141034103940e",
+          "name": "Nathan Draper",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 3972,
+          "name": "Wentworth Miller",
+          "credit_id": "5554e87ac3a368776f000195",
+          "character": "Leonard Snart / Captain Cold",
+          "order": 62,
+          "gender": 2,
+          "profile_path": "/1apvr7onOG9OuGjQqlBytBEEY1n.jpg"
+        },
+        {
+          "id": 10862,
+          "name": "Dominic Purcell",
+          "credit_id": "5568952492514162b80000a0",
+          "character": "Mick Rory / Heat Wave",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/30giDZ53c8f72pPbXCLK9xMSAnw.jpg"
+        },
+        {
+          "id": 118544,
+          "name": "Melise",
+          "credit_id": "5568956892514162b0000098",
+          "character": "Linda Park",
+          "order": 67,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 229031,
+          "name": "Peyton List",
+          "credit_id": "5568957dc3a3682df20000b9",
+          "character": "Lisa Snart / Golden Glider",
+          "order": 68,
+          "gender": 1,
+          "profile_path": "/b1rEqHlkyHwRtockTE7WQNLyu9t.jpg"
+        },
+        {
+          "id": 1220769,
+          "name": "Roger Howarth",
+          "credit_id": "5569e997c3a368762c001cef",
+          "character": "Mason Bridge",
+          "order": 73,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 61852,
+          "name": "Nicholas Gonzalez",
+          "credit_id": "55b528509251411e180143f9",
+          "character": "Dante Ramon",
+          "order": 75,
+          "gender": 2,
+          "profile_path": "/4QBRarzz68vQCiXteI1TMopj3zn.jpg"
+        },
+        {
+          "id": 63790,
+          "name": "Joey Aresco",
+          "credit_id": "5b654c919251414068068c61",
+          "character": "Frank Santini",
+          "order": 300,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2099546,
+          "name": "Charlene Luedke",
+          "credit_id": "5b654d06925141404f05f87b",
+          "character": "Mrs. Ramon",
+          "order": 302,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 158374,
+          "name": "Fred Henderson",
+          "credit_id": "5b654afe0e0a267eed073f23",
+          "character": "Coroner",
+          "order": 303,
+          "gender": 2,
+          "profile_path": "/2GXHxyciPjOZPgFAq2WJT9Un7uO.jpg"
+        },
+        {
+          "id": 1812563,
+          "name": "Alan Silverman",
+          "credit_id": "5b654d470e0a267ee7071dc3",
+          "character": "Consigliere",
+          "order": 303,
+          "gender": 2,
+          "profile_path": "/cFK8oiq3Q5LAvtHiibhjw8Lmp8M.jpg"
+        },
+        {
+          "id": 934219,
+          "name": "Liam McIntyre",
+          "credit_id": "5568954f92514162bb0000a7",
+          "character": "Mark Mardon / Weather Wizard",
+          "order": 404,
+          "gender": 2,
+          "profile_path": "/kV8KZINfuuC40NzZ6cZlXdQt2N5.jpg"
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin",
+          "credit_id": "5b6c4913c3a368537509eebb",
+          "character": "Gideon (voice)",
+          "order": 413,
+          "gender": 1,
+          "profile_path": "/u8oQ5JvM1oBYt5i9432sPboLhx5.jpg"
+        },
+        {
+          "id": 64676,
+          "name": "Peter Hall",
+          "credit_id": "5da869f4b7b69d0013e8ddca",
+          "character": "Vincent Santini",
+          "order": 423,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-03-31",
+      "episode_number": 17,
+      "id": 1039991,
+      "name": "Tricksters",
+      "overview": "When a villain calling himself the Trickster runs rampant in Central City, Joe and Barry go to Iron Heights to talk with the original Trickster.",
+      "production_code": "3J5367",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/a4OayTfzogEzIc72sK4hBcVaFrC.jpg",
+      "vote_average": 8.087,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 109537,
+          "credit_id": "558df463925141579e000bd0",
+          "name": "Ralph Hemecker",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1216615,
+          "credit_id": "548763f892514170170002dc",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 63785,
+          "credit_id": "57f56152c3a368614200021e",
+          "name": "C. Kim Miles",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 1464130,
+          "credit_id": "5b5cbf62c3a368421b01cf0d",
+          "name": "Paul Karasick",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2,
+          "name": "Mark Hamill",
+          "credit_id": "5568918292514162bb000044",
+          "character": "James Jesse / The Trickster",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/fk8OfdReNltKZqOk2TZgkofCUFq.jpg"
+        },
+        {
+          "id": 131934,
+          "name": "Bre Blair",
+          "credit_id": "55689462c3a3682e0100009a",
+          "character": "Tess Morgan",
+          "order": 64,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 111518,
+          "name": "Devon Graye",
+          "credit_id": "55b528c99251417364006aac",
+          "character": "Axel Walker / The Trickster",
+          "order": 76,
+          "gender": 0,
+          "profile_path": "/kVqBgzkjWNaNFmXSJ7MLI3jOMOT.jpg"
+        },
+        {
+          "id": 1277,
+          "name": "Vito D'Ambrosio",
+          "credit_id": "55b52910925141788b00710e",
+          "character": "Mayor Anthony Bellows",
+          "order": 77,
+          "gender": 2,
+          "profile_path": "/cnoB8PvDu986ZIJylw9sFaOaJYU.jpg"
+        },
+        {
+          "id": 1934855,
+          "name": "Chris Cound",
+          "credit_id": "5b6c487d92514168b60a49ba",
+          "character": "Father",
+          "order": 304,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2103397,
+          "name": "Arlo Hajdu",
+          "credit_id": "5b6c4890c3a368189d123aec",
+          "character": "Henry",
+          "order": 305,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 106979,
+          "name": "Anthony Harrison",
+          "credit_id": "5b6c48bec3a368189d123b17",
+          "character": "Warden Wolfe",
+          "order": 306,
+          "gender": 2,
+          "profile_path": "/jhKYLWIN7dllwIbMug4bZiyVyvS.jpg"
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 28414,
+          "name": "Matt Letscher",
+          "credit_id": "55689330c3a3682df8000066",
+          "character": "Eobard Thawne / Reverse-Flash",
+          "order": 355,
+          "gender": 2,
+          "profile_path": "/1XY921058aXNLCHRJO8AumhsCmI.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin",
+          "credit_id": "5b6c4913c3a368537509eebb",
+          "character": "Gideon (voice)",
+          "order": 413,
+          "gender": 1,
+          "profile_path": "/u8oQ5JvM1oBYt5i9432sPboLhx5.jpg"
+        },
+        {
+          "id": 59240,
+          "name": "Michelle Harrison",
+          "credit_id": "55689435c3a3682e07000088",
+          "character": "Nora Allen",
+          "order": 443,
+          "gender": 1,
+          "profile_path": "/4NNuBCS6I4USJT45xSN9R7vwXFI.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-04-14",
+      "episode_number": 18,
+      "id": 1047470,
+      "name": "All-Star Team Up",
+      "overview": "Felicity and Ray Palmer pay a visit to S.T.A.R. Labs for help getting Ray's ATOM suit to work, and ask Cisco for help. Meanwhile, a young tech expert raises havoc with her insect drones, and Barry asks Ray for help dealing with her.",
+      "production_code": "3J5368",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/wJsNeIPjZggLm98SCidiGX7khbU.jpg",
+      "vote_average": 7.217,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1382170,
+          "credit_id": "55b4ed96c3a368210a006caf",
+          "name": "Grainne Godfree",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 101518,
+          "credit_id": "5689bb15c3a3680e010024f4",
+          "name": "Kevin Tancharoen",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 1367587,
+          "credit_id": "55b4ea02c3a368648e01316c",
+          "name": "Kai Wu",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 1943385,
+          "credit_id": "5b6c498cc3a368188f132462",
+          "name": "Jeffrey C. Mygatt",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1224027,
+          "name": "Emily Bett Rickards",
+          "credit_id": "54875f3ec3a368298300025a",
+          "character": "Felicity Smoak",
+          "order": 16,
+          "gender": 1,
+          "profile_path": "/eyMfgXd9U7gld8L7zdfAcmTCbtr.jpg"
+        },
+        {
+          "id": 26666,
+          "name": "Amanda Pays",
+          "credit_id": "54876287c3a36829830002a0",
+          "character": "Dr. Tina McGee",
+          "order": 45,
+          "gender": 1,
+          "profile_path": "/ryDAKAA5bR8dqB7rDp7pDvTqT7z.jpg"
+        },
+        {
+          "id": 2103399,
+          "name": "Marlo Franson",
+          "credit_id": "5b6c4a57c3a3681894167eb9",
+          "character": "Bill Carlisle",
+          "order": 308,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1687444,
+          "name": "Theresa Wong",
+          "credit_id": "5b6c4a7dc3a368188f13259a",
+          "character": "Lindsay Kang",
+          "order": 309,
+          "gender": 1,
+          "profile_path": "/kg1cMW20DIu56Ze7FxoKbno8kbE.jpg"
+        },
+        {
+          "id": 1236393,
+          "name": "Andrew Laurenson",
+          "credit_id": "5b6c4b11925141034103984f",
+          "character": "Flasher",
+          "order": 310,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1070634,
+          "name": "Mathieu Lardier",
+          "credit_id": "5b6c4b4b0e0a267ee713a1fa",
+          "character": "Maitre D'",
+          "order": 311,
+          "gender": 0,
+          "profile_path": "/pb4OXppszi7Ugnxr2c61biWv5aK.jpg"
+        },
+        {
+          "id": 1882593,
+          "name": "Alex Miro",
+          "credit_id": "5b6c4ba1c3a368537509f1c3",
+          "character": "Thief",
+          "order": 312,
+          "gender": 2,
+          "profile_path": "/yw4UB5cvGygfus4JpSgPpPZFcPq.jpg"
+        },
+        {
+          "id": 1887758,
+          "name": "Kasey Kieler",
+          "credit_id": "5b6c4bd60e0a267ef8138a04",
+          "character": "Thief",
+          "order": 313,
+          "gender": 1,
+          "profile_path": "/xgWtlDemgPG9A1HZrEJvIq4Ellt.jpg"
+        },
+        {
+          "id": 2103406,
+          "name": "Alicia Chowen",
+          "credit_id": "5b6c4bf3c3a368188f1327c7",
+          "character": "Student",
+          "order": 314,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1835693,
+          "name": "Carl Montoya",
+          "credit_id": "5b6c4c2ec3a368188f132817",
+          "character": "Crook",
+          "order": 315,
+          "gender": 2,
+          "profile_path": "/teFmeOJHYvKNbCCS9aO2hv3eyot.jpg"
+        },
+        {
+          "id": 1223878,
+          "name": "Emily Kinney",
+          "credit_id": "55689061c3a3682df2000043",
+          "character": "Brie Larvan / Bug-Eyed Bandit",
+          "order": 424,
+          "gender": 1,
+          "profile_path": "/c5diYLPzmeeiT4ZKbb2gm7m3pYx.jpg"
+        },
+        {
+          "id": 17271,
+          "name": "Brandon Routh",
+          "credit_id": "5568904bc3a3682e0a00003c",
+          "character": "Ray Palmer / The Atom / Superman",
+          "order": 438,
+          "gender": 2,
+          "profile_path": "/uGPbPxlKAkbbUVq2sxuvkZpdThl.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-04-21",
+      "episode_number": 19,
+      "id": 1051229,
+      "name": "Who Is Harrison Wells?",
+      "overview": "Joe and Cisco go to Starling City to ask Quentin Lance for his help investigating the site of Harrison's car accident 15 years ago and determining what really happened. Meanwhile, Eddie is framed for a shooting by a shapeshifing metahuman who can take on the appearance of anyone he touches.",
+      "production_code": "3J5369",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/tQLhduqi4vFsCqXW9hZGVsI5D3K.jpg",
+      "vote_average": 7.886,
+      "vote_count": 22,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1219584,
+          "credit_id": "55b52a9dc3a3682ff4017b09",
+          "name": "Wendey Stanzler",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1382166,
+          "credit_id": "55b52ad4c3a368210a0071b4",
+          "name": "Ray Utarnachitt",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1490628,
+          "credit_id": "55b52ae19251411e0f014d77",
+          "name": "Cortney Norris",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 63785,
+          "credit_id": "57f56152c3a368614200021e",
+          "name": "C. Kim Miles",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 61992,
+          "credit_id": "5b6d23d80e0a267ee5137b0c",
+          "name": "Chris Conlee",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 101060,
+          "name": "Danielle Nicolet",
+          "credit_id": "5813d7f89251414f9b027924",
+          "character": "Cecile Horton",
+          "order": 7,
+          "gender": 1,
+          "profile_path": "/jUcFFKOiwQzqos9X9cHmSbPbRn2.jpg"
+        },
+        {
+          "id": 55775,
+          "name": "Katie Cassidy",
+          "credit_id": "552aaf33c3a368565f003c1f",
+          "character": "Laurel Lance / Black Canary",
+          "order": 57,
+          "gender": 1,
+          "profile_path": "/mcRo6KyzYOE7prr01mTd5b2TstI.jpg"
+        },
+        {
+          "id": 43231,
+          "name": "Paul Blackthorne",
+          "credit_id": "5568974fc3a3682e010000fe",
+          "character": "Detective Quentin Lance",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/3OC1M0rKJO8B3JpwAeavk5EAscl.jpg"
+        },
+        {
+          "id": 1737894,
+          "name": "Atlin Mitchell",
+          "credit_id": "59a30528925141774f0441d3",
+          "character": "Nina",
+          "order": 157,
+          "gender": 1,
+          "profile_path": "/70EdXAk1YUPwIWfZMk1IJt011wc.jpg"
+        },
+        {
+          "id": 1386464,
+          "name": "Martin Novotny",
+          "credit_id": "55b52ce29251410457004ecb",
+          "character": "Hannibal Bates",
+          "order": 316,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1333812,
+          "name": "Barbara Wallace",
+          "credit_id": "5b6d24a40e0a267ef8149c0d",
+          "character": "Grandma Bates",
+          "order": 316,
+          "gender": 1,
+          "profile_path": "/eBXpiV5eYtPYln9Wa2badsNu78u.jpg"
+        },
+        {
+          "id": 2036249,
+          "name": "Laiken Laverock",
+          "credit_id": "5b6d251dc3a3681886180b39",
+          "character": "Little Girl",
+          "order": 317,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1558030,
+          "name": "King Lau",
+          "credit_id": "5b6d25400e0a267ee714b903",
+          "character": "Hulking Man",
+          "order": 318,
+          "gender": 0,
+          "profile_path": "/bkU5kJloq7Wkar3GCTKZ3R8gfOS.jpg"
+        },
+        {
+          "id": 113211,
+          "name": "Chris Webb",
+          "credit_id": "5b6d25c6c3a368188813eb46",
+          "character": "Trusting Man Face",
+          "order": 319,
+          "gender": 2,
+          "profile_path": "/lEDEd4EGe3hNNOnW5KlR7TPfwqK.jpg"
+        },
+        {
+          "id": 1884541,
+          "name": "Naiah Cummins",
+          "credit_id": "5b6d26029251414056119c93",
+          "character": "Teller",
+          "order": 320,
+          "gender": 1,
+          "profile_path": "/s3QcrDRkiwjyD9OLvBCiFgLHBn2.jpg"
+        },
+        {
+          "id": 2103774,
+          "name": "Ray Boulay",
+          "credit_id": "5b6d261d0e0a267ee714b9ea",
+          "character": "Construction Worker",
+          "order": 321,
+          "gender": 0,
+          "profile_path": "/5M3QddjV3RaYVg9JrRrKfEzlAOC.jpg"
+        },
+        {
+          "id": 113210,
+          "name": "Marshall Virtue",
+          "credit_id": "5b6d2650925141406a13ecbd",
+          "character": "TSA Agent",
+          "order": 322,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1476033,
+          "name": "Paul Moniz de Sa",
+          "credit_id": "5b6d26780e0a267ef6141926",
+          "character": "Jeweler",
+          "order": 323,
+          "gender": 2,
+          "profile_path": "/zBpvfgFPswSxiBfQ2smtcjaweTg.jpg"
+        },
+        {
+          "id": 85366,
+          "name": "Maxine Miller",
+          "credit_id": "5b6d26d5925141404f117fa8",
+          "character": "Old Woman",
+          "order": 324,
+          "gender": 1,
+          "profile_path": "/pFtSxKuKT2QCzQ1G5ALgBsOfgKd.jpg"
+        },
+        {
+          "id": 2103775,
+          "name": "Paul Almeida",
+          "credit_id": "5b6d2747925141406413a0e4",
+          "character": "Uniform Cop",
+          "order": 325,
+          "gender": 0,
+          "profile_path": "/jBdE6c8GqKBVZiESIDDFj99jSHv.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-04-28",
+      "episode_number": 20,
+      "id": 1051230,
+      "name": "The Trap",
+      "overview": "Barry, Caitlin, Cisco and Joe set a trap for Wells. Cisco uses himself as prey which puts him in grave danger. Meanwhile, Eddie makes a decision regarding Iris, which leaves Joe a bit unsettled. ",
+      "production_code": "3J5370",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/xaC675vgOGeOtbE43vw7vuYxdUk.jpg",
+      "vote_average": 8.159,
+      "vote_count": 22,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 80747,
+          "credit_id": "55b52c85c3a3682ff90135d1",
+          "name": "Steve Shill",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/ceq5fV79ky8AqSyMbd2p4wA6pwe.jpg"
+        },
+        {
+          "id": 1215681,
+          "credit_id": "5430fdd7c3a3681091001327",
+          "name": "Alison Schapker",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 1490533,
+          "credit_id": "55b4ebdec3a368648e01318b",
+          "name": "Brooke Roberts",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 2103395,
+          "credit_id": "5b6c473e925141034103940e",
+          "name": "Nathan Draper",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1943385,
+          "credit_id": "5b6c498cc3a368188f132462",
+          "name": "Jeffrey C. Mygatt",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1386464,
+          "name": "Martin Novotny",
+          "credit_id": "55b52ce29251410457004ecb",
+          "character": "Hannibal Bates",
+          "order": 316,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1313645,
+          "name": "Jeremy Schuetze",
+          "credit_id": "5b654acb925141404f05f586",
+          "character": "Rob",
+          "order": 326,
+          "gender": 2,
+          "profile_path": "/gU59ngDl6g47hoAY9ky9tW6vxRz.jpg"
+        },
+        {
+          "id": 1366830,
+          "name": "Jessie Fraser",
+          "credit_id": "5b757c40c3a368754200e9e7",
+          "character": "Nurse",
+          "order": 326,
+          "gender": 1,
+          "profile_path": "/ImJ2nLm0H5qexVhZ9SEKCCec09.jpg"
+        },
+        {
+          "id": 1182672,
+          "name": "Roger Haskett",
+          "credit_id": "5b757c61c3a36875500116cc",
+          "character": "Doctor",
+          "order": 327,
+          "gender": 0,
+          "profile_path": "/S0lTv5zfX22z139rsDZU5rvz5c.jpg"
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin",
+          "credit_id": "5b6c4913c3a368537509eebb",
+          "character": "Gideon (voice)",
+          "order": 413,
+          "gender": 1,
+          "profile_path": "/u8oQ5JvM1oBYt5i9432sPboLhx5.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-05-05",
+      "episode_number": 21,
+      "id": 1051231,
+      "name": "Grodd Lives",
+      "overview": "While Barry tries to find Eddie, a mysterious mind-controlled thief launches attacks on Central City's gold reserves. The team soon discovers that a telepathic gorilla is behind the robberies... and is following Harrison's commands. Meanwhile, Iris confronts Barry, while Harrison prepares to return home.",
+      "production_code": "3J5371",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/3EQ0MaRUkt0GxZP8Lzh5Po4fxad.jpg",
+      "vote_average": 7.132,
+      "vote_count": 19,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1382170,
+          "credit_id": "55b4ed96c3a368210a006caf",
+          "name": "Grainne Godfree",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 1367587,
+          "credit_id": "55b4ea02c3a368648e01316c",
+          "name": "Kai Wu",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 63785,
+          "credit_id": "57f56152c3a368614200021e",
+          "name": "C. Kim Miles",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1743065,
+          "credit_id": "58837fc6925141045100a2f2",
+          "name": "Harry Jierjian",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 25941,
+          "credit_id": "55b4eb59c3a3682ff901309b",
+          "name": "Dermott Downs",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/vCq8mlxsJOB4rCjanLVoaNtvJVV.jpg"
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 2108659,
+          "credit_id": "5b757ce6c3a368754500fc62",
+          "name": "Dan Wilken",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 6574,
+          "name": "Clancy Brown",
+          "credit_id": "556896cfc3a3682dfe0000fb",
+          "character": "General Wade Eiling",
+          "order": 70,
+          "gender": 2,
+          "profile_path": "/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg"
+        },
+        {
+          "id": 1632889,
+          "name": "Jane Hancock",
+          "credit_id": "5b757d6a9251411d83010708",
+          "character": "Mother",
+          "order": 328,
+          "gender": 1,
+          "profile_path": "/5FEEPfdsHxK1UaUgYpOXy4x5g4R.jpg"
+        },
+        {
+          "id": 169781,
+          "name": "Jason McKinnon",
+          "credit_id": "5b757d9b0e0a265c2d011004",
+          "character": "Driver",
+          "order": 329,
+          "gender": 2,
+          "profile_path": "/vhtRpPM50GClY90DNj9At9EKTgM.jpg"
+        },
+        {
+          "id": 164614,
+          "name": "David Sobolov",
+          "credit_id": "564e62fd9251414b07000f46",
+          "character": "Gorilla Grodd (voice)",
+          "order": 453,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-05-12",
+      "episode_number": 22,
+      "id": 1051232,
+      "name": "Rogue Air",
+      "overview": "When Harrison activates the particle accelerator, the team has no choice but to evacuate the five metahuman prisoners. Unfortunately, with time running out, Barry has no choice but to turn to Captain Cold for help. Meanwhile, Eddie escapes but has some surprising news for Iris.",
+      "production_code": "3J5372",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/duURv7F1POR2OKh8TgVpSGvvhoN.jpg",
+      "vote_average": 7.932,
+      "vote_count": 22,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 71901,
+          "credit_id": "55b52e9a9251411e0f014dcb",
+          "name": "Douglas Aarniokoski",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 209762,
+          "credit_id": "55b4eb81c3a368210a006c93",
+          "name": "Aaron Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 209763,
+          "credit_id": "55b4eb91c3a368219000676e",
+          "name": "Todd Helbing",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 1943385,
+          "credit_id": "5b6c498cc3a368188f132462",
+          "name": "Jeffrey C. Mygatt",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 61992,
+          "credit_id": "5b6d23d80e0a267ee5137b0c",
+          "name": "Chris Conlee",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 101060,
+          "name": "Danielle Nicolet",
+          "credit_id": "5813d7f89251414f9b027924",
+          "character": "Cecile Horton",
+          "order": 7,
+          "gender": 1,
+          "profile_path": "/jUcFFKOiwQzqos9X9cHmSbPbRn2.jpg"
+        },
+        {
+          "id": 1180346,
+          "name": "Anthony Carrigan",
+          "credit_id": "5560df93c3a36868e0006a19",
+          "character": "Kyle Nimbus / The Mist",
+          "order": 60,
+          "gender": 2,
+          "profile_path": "/6YtczDvE4eI8lkU6KXE6pkXaTIi.jpg"
+        },
+        {
+          "id": 3972,
+          "name": "Wentworth Miller",
+          "credit_id": "5554e87ac3a368776f000195",
+          "character": "Leonard Snart / Captain Cold",
+          "order": 62,
+          "gender": 2,
+          "profile_path": "/1apvr7onOG9OuGjQqlBytBEEY1n.jpg"
+        },
+        {
+          "id": 229031,
+          "name": "Peyton List",
+          "credit_id": "5568957dc3a3682df20000b9",
+          "character": "Lisa Snart / Golden Glider",
+          "order": 68,
+          "gender": 1,
+          "profile_path": "/b1rEqHlkyHwRtockTE7WQNLyu9t.jpg"
+        },
+        {
+          "id": 1052900,
+          "name": "Paul Anthony",
+          "credit_id": "5569e849c3a368774e001bb2",
+          "character": "Roy G. Bivolo / Rainbow Raider",
+          "order": 71,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 17005,
+          "name": "Doug Jones",
+          "credit_id": "5b757f5e0e0a265c31011b03",
+          "character": "Jake Simmons / Deathbolt",
+          "order": 330,
+          "gender": 2,
+          "profile_path": "/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 934219,
+          "name": "Liam McIntyre",
+          "credit_id": "5568954f92514162bb0000a7",
+          "character": "Mark Mardon / Weather Wizard",
+          "order": 404,
+          "gender": 2,
+          "profile_path": "/kV8KZINfuuC40NzZ6cZlXdQt2N5.jpg"
+        },
+        {
+          "id": 543523,
+          "name": "Britne Oldford",
+          "credit_id": "55b52f29c3a368648e013799",
+          "character": "Shawna Baez / Peek-a-Boo",
+          "order": 408,
+          "gender": 1,
+          "profile_path": "/1htdyAfrsgyiqmm5GguAoLLu6aM.jpg"
+        },
+        {
+          "id": 76110,
+          "name": "Stephen Amell",
+          "credit_id": "5430fc44c3a36831ac0029f5",
+          "character": "Oliver Queen / Green Arrow",
+          "order": 435,
+          "gender": 2,
+          "profile_path": "/h7KpOs3NlcquoJnZBFMOad81XEZ.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2015-05-19",
+      "episode_number": 23,
+      "id": 1051233,
+      "name": "Fast Enough",
+      "overview": "Wells presents Barry with a life-changing choice. Dr. Martin Stein and Ronnie Raymond return to help the S.T.A.R. Labs team with this final fight.",
+      "production_code": "3J5373",
+      "season_number": 1,
+      "show_id": 60735,
+      "still_path": "/aepBBreYvTwsaGuqOygBgsYs4n.jpg",
+      "vote_average": 8.44,
+      "vote_count": 25,
+      "crew": [
+        {
+          "id": 1007395,
+          "credit_id": "56434917c3a36870ef001f31",
+          "name": "J.J. Makaro",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+        },
+        {
+          "id": 1224070,
+          "credit_id": "55d34e4b92514174f5000111",
+          "name": "Gabrielle G. Stanton",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e32c3a3680b1a00011a",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Teleplay",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 105643,
+          "credit_id": "56a94b8ec3a36872cf002242",
+          "name": "Jay Oliva",
+          "department": "Writing",
+          "job": "Storyboard",
+          "gender": 2,
+          "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+        },
+        {
+          "id": 63785,
+          "credit_id": "57f56152c3a368614200021e",
+          "name": "C. Kim Miles",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 25941,
+          "credit_id": "55b4eb59c3a3682ff901309b",
+          "name": "Dermott Downs",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/vCq8mlxsJOB4rCjanLVoaNtvJVV.jpg"
+        },
+        {
+          "id": 88967,
+          "credit_id": "55d34e1ac3a3680b21000143",
+          "name": "Greg Berlanti",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+        },
+        {
+          "id": 1216615,
+          "credit_id": "55d34e2292514174fb000115",
+          "name": "Andrew Kreisberg",
+          "department": "Writing",
+          "job": "Story",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1887785,
+          "credit_id": "5b5abeb6c3a368670400af43",
+          "name": "Jon Kralt",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/hLpWGgIehpMS7wUwjjI5dtsVM4S.jpg"
+        },
+        {
+          "id": 2103395,
+          "credit_id": "5b6c473e925141034103940e",
+          "name": "Nathan Draper",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2108659,
+          "credit_id": "5b757ce6c3a368754500fc62",
+          "name": "Dan Wilken",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 146457,
+          "name": "Arthur Darvill",
+          "credit_id": "5554e8629251411e62000173",
+          "character": "Rip Hunter",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/igHv8StqS2xKIG70t84HwndpvRb.jpg"
+        },
+        {
+          "id": 3972,
+          "name": "Wentworth Miller",
+          "credit_id": "5554e87ac3a368776f000195",
+          "character": "Leonard Snart / Captain Cold",
+          "order": 62,
+          "gender": 2,
+          "profile_path": "/1apvr7onOG9OuGjQqlBytBEEY1n.jpg"
+        },
+        {
+          "id": 1465043,
+          "name": "Ciara Renée",
+          "credit_id": "55b52fdfc3a368210a00721a",
+          "character": "Kendra Saunders",
+          "order": 80,
+          "gender": 1,
+          "profile_path": "/jLL7Tpq7wespuebxro8YeEbe0nT.jpg"
+        },
+        {
+          "id": 8536,
+          "name": "Victor Garber",
+          "credit_id": "5554e84fc3a368777e0001af",
+          "character": "Dr. Martin Stein",
+          "order": 297,
+          "gender": 2,
+          "profile_path": "/q0h2M3xdCugsWVgi6c3ixZt7a8L.jpg"
+        },
+        {
+          "id": 1327697,
+          "name": "Logan Williams",
+          "credit_id": "54875e4b9251417009000265",
+          "character": "Young Barry",
+          "order": 308,
+          "gender": 2,
+          "profile_path": "/sxTKzJ3jJ4BaaQWIhlmtDSrPKqw.jpg"
+        },
+        {
+          "id": 1223726,
+          "name": "Robbie Amell",
+          "credit_id": "5554e4f9c3a3687779000131",
+          "character": "Ronnie Raymond / Firestorm",
+          "order": 332,
+          "gender": 2,
+          "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg"
+        },
+        {
+          "id": 124546,
+          "name": "John Wesley Shipp",
+          "credit_id": "537524d4c3a3681ef4000190",
+          "character": "Henry Allen",
+          "order": 406,
+          "gender": 2,
+          "profile_path": "/pL60jl0QdKx9oESZqRzA3kiXXbs.jpg"
+        },
+        {
+          "id": 59240,
+          "name": "Michelle Harrison",
+          "credit_id": "55689435c3a3682e07000088",
+          "character": "Nora Allen",
+          "order": 443,
+          "gender": 1,
+          "profile_path": "/4NNuBCS6I4USJT45xSN9R7vwXFI.jpg"
+        },
+        {
+          "id": 102742,
+          "name": "Patrick Sabongui",
+          "credit_id": "5568965e92514162c10000d3",
+          "character": "David Singh",
+          "order": 457,
+          "gender": 2,
+          "profile_path": "/yI8xBqEi5IAeyoEgGcdbcyEc9vO.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 1",
+  "overview": "When an unexpected accident at the S.T.A.R. Labs Particle Accelerator facility strikes Barry, he finds himself suddenly charged with the incredible power to move at super speeds. While Barry has always been a hero in his soul, his newfound powers have finally given him the ability to act like one. With the help of the research team at S.T.A.R. Labs, Barry begins testing the limits of his evolving powers and using them to stop crime. With a winning personality and a smile on his face, Barry Allen — aka The Flash — is finally moving forward in life … very, very fast!",
+  "id": 60523,
+  "poster_path": "/A3H6pewHfoy2bXmNhvycOe0xzlC.jpg",
+  "season_number": 1
+}

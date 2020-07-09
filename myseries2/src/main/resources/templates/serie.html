@@ -1,0 +1,88 @@
+<!-- Put your HTML here -->
+<html lang=”en” xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header :: header"></head>
+<title th:text="${serie.getTitle()}"></title>
+
+
+<body>
+<nav th:replace="fragments/topnav :: navbar"></nav>
+
+
+<!-- Source: https://stackoverflow.com/questions/51365711/how-to-specify-background-image-with-thymeleaf?rq=1 -->
+<div class="banner" th:style="'background-image:url(' + ${serie.getImageurl()} + ');'">
+    <div class="info-zone">
+
+        <h1 th:text="${serie.getTitle()}"></h1>
+        <h2>SCORE: <span th:text="${serie.getMeanRating()}"></span> / 10</h2>
+
+
+    </div>
+
+</div>
+<div class="progressbar">
+    <!--    <div th:style="'width:' + ${serie.getProgress()} + '%;'"></div>-->
+    <!--    <div th:style="'width:' + ${serie.getProgress()} + '%;'"></div>-->
+</div>
+
+<!--<h1>progress: <span th:text="${serie.getProgress()}"></span> / 100</h1>-->
+<div class="position-mid">
+    <div class="basic-info">
+        <li th:text="'Status: ' + ${serie.getStatus()}"></li>
+        <li th:text="'Seasons: ' + ${serie.getAmountOfSeasons()}"></li>
+        <li th:text="'Episodes: ' + ${serie.getAmountOfEpisodes()}"></li>
+    </div>
+    <div class="description">
+        <h3>Description</h3>
+        <p th:text="${serie.getDescription()}"></p>
+    </div>
+
+
+    <div class="season">
+        <ul>
+            <li><h2> Episodes</h2></li>
+            <li class="floatright">
+                <div class="dropdown">
+                    <button class="dropbtn" th:text="'Season: ' + ${season}"></button>
+                    <div class="dropdown-content">
+                        <tr th:each="s : ${serie.getSeasons()}">
+                            <a th:href="@{${s.getSeasonNumber()}}" th:text="'Season: '+ ${s.getSeasonNumber()}"></a>
+                        </tr>
+                    </div>
+                </div>
+
+            </li>
+        </ul>
+    </div>
+    <div class="episode">
+        <table class="table">
+            <tr th:each="episode : ${serie.getSeasons().get(season).getEpisodes()}">
+                <td>
+                    <a th:text="${episode.getEpisodeNumber()}"></a>
+                </td>
+                <td>
+                    <a th:text="${episode.getName()}"></a>
+                </td>
+                <td>
+                    <a th:text="${episode.getReleaseDate()}"></a>
+                </td>
+                <td>
+                    <form th:action="'/serie/' + ${serie.getThemoviedbSerieID()} + '/' + ${season} + '/' + ${episode.getEpisodeNumber()}"
+                          method="post">
+                        <button class="eye-button" type="submit" formmethod="post">
+                        <span th:if="${user.getEpisodeWatched(serie.getThemoviedbSerieID(), season, episode.getEpisodeNumber())}"
+                              style="color: #3CB2BC">
+                            <i class="fa fa-eye fa-lg"></i>
+                        </span>
+                            <span th:unless="${user.getEpisodeWatched(serie.getThemoviedbSerieID(), season, episode.getEpisodeNumber())}"
+                                  style="color: white">
+                            <i class="fa fa-eye fa-lg"></i>
+                        </span>
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

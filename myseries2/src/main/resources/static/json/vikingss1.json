@@ -1,0 +1,1814 @@
+{
+  "_id": "52596705760ee346619c3465",
+  "air_date": "2013-03-03",
+  "episodes": [
+    {
+      "air_date": "2013-03-03",
+      "episode_number": 1,
+      "id": 892432,
+      "name": "Rites of Passage",
+      "overview": "Ragnar Lothbrok is a warrior and a farmer who dreams of finding riches by bucking the tradition.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg",
+      "vote_average": 7.446,
+      "vote_count": 46,
+      "crew": [
+        {
+          "id": 212408,
+          "credit_id": "57a9e5c9c3a3680ed9000900",
+          "name": "Johan Renck",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/pkPO6RhVFcKDiEUtbHjTkq4JjYi.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c9492ebc3a3682e5ff2cdf0",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunt Double",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1554026,
+          "credit_id": "5c9493500e0a2645ee4fb455",
+          "name": "Younes Afroukh",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270888,
+          "credit_id": "5c949402c3a3682e66f2b3b4",
+          "name": "Gary Robinson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9494420e0a2645f14fba05",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 73287,
+          "name": "David Wilmot",
+          "credit_id": "57243cc292514118af000629",
+          "character": "Olaf Andwend",
+          "order": 1,
+          "gender": 0,
+          "profile_path": "/epb46N0iJyAmSOguMdFn6qQGSsy.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2013-03-10",
+      "episode_number": 2,
+      "id": 892434,
+      "name": "Wrath of the Northmen",
+      "overview": "The journey west begins as Ragnar gathers a crew willing to risk their lives to travel into the unknown. Earl Haraldson's paranoia reaches new heights as his fear of Ragnar's success grows.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg",
+      "vote_average": 6.513,
+      "vote_count": 40,
+      "crew": [
+        {
+          "id": 212408,
+          "credit_id": "57a9e5c9c3a3680ed9000900",
+          "name": "Johan Renck",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/pkPO6RhVFcKDiEUtbHjTkq4JjYi.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 1554026,
+          "credit_id": "5c9493500e0a2645ee4fb455",
+          "name": "Younes Afroukh",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9494420e0a2645f14fba05",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 64923,
+          "credit_id": "5c9494a392514172fd75860d",
+          "name": "Michele Conroy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270892,
+          "credit_id": "5c9494da0e0a2645f14fbabc",
+          "name": "Michael Byrch",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270893,
+          "credit_id": "5c9495620e0a2645f44fa110",
+          "name": "Max Cormac",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270894,
+          "credit_id": "5c9495700e0a2646044f916f",
+          "name": "James Cosgrave",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2238791,
+          "credit_id": "5c94959b0e0a2645eb4fa651",
+          "name": "Aldonio Danny Frietas",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c94962dc3a3682e5bf2b30f",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270895,
+          "credit_id": "5c94963c0e0a2646004f94b3",
+          "name": "Lewis Peploe",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1534134,
+          "credit_id": "5c949674c3a3682e55f2b693",
+          "name": "Alan Walsh",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270898,
+          "credit_id": "5c9496d092514173057583fd",
+          "name": "Martin White",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1264592,
+          "name": "Aaron Lee Reed",
+          "credit_id": "5c27510a92514138d2be6550",
+          "character": "Viking (uncredited)",
+          "order": 8,
+          "gender": 2,
+          "profile_path": "/dWDdJnMEwk1PmpakRY0iVpX9C7w.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2013-03-17",
+      "episode_number": 3,
+      "id": 892433,
+      "name": "Dispossessed",
+      "overview": "Ragnar and his crew return from their trip with treasure, and Earl Haraldson has no choice but to sanction another raid. The west is open for the taking, and the Vikings' world will never be the same.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/8aI8TkJNjaDWsprmQ9nY73mZ9iP.jpg",
+      "vote_average": 7.731,
+      "vote_count": 26,
+      "crew": [
+        {
+          "id": 212408,
+          "credit_id": "57a9e5c9c3a3680ed9000900",
+          "name": "Johan Renck",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/pkPO6RhVFcKDiEUtbHjTkq4JjYi.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 1554026,
+          "credit_id": "5c9493500e0a2645ee4fb455",
+          "name": "Younes Afroukh",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9494420e0a2645f14fba05",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c94962dc3a3682e5bf2b30f",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270898,
+          "credit_id": "5c9496d092514173057583fd",
+          "name": "Martin White",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1019578,
+          "credit_id": "5c9497830e0a2646044f95a2",
+          "name": "Peter Dillon",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270899,
+          "credit_id": "5c94981e0e0a2645ee4fb976",
+          "name": "Caroline Simonnet",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270900,
+          "credit_id": "5c94985d92514173187563d8",
+          "name": "Paul Thompson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2013-03-24",
+      "episode_number": 4,
+      "id": 892435,
+      "name": "Trial",
+      "overview": "Ragnar and his crew sail out with Earl Haraldson's permission.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg",
+      "vote_average": 6.648,
+      "vote_count": 27,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c9492ebc3a3682e5ff2cdf0",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunt Double",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270888,
+          "credit_id": "5c949402c3a3682e66f2b3b4",
+          "name": "Gary Robinson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9494420e0a2645f14fba05",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 64923,
+          "credit_id": "5c9494a392514172fd75860d",
+          "name": "Michele Conroy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270893,
+          "credit_id": "5c9495620e0a2645f44fa110",
+          "name": "Max Cormac",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270894,
+          "credit_id": "5c9495700e0a2646044f916f",
+          "name": "James Cosgrave",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270895,
+          "credit_id": "5c94963c0e0a2646004f94b3",
+          "name": "Lewis Peploe",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1534134,
+          "credit_id": "5c949674c3a3682e55f2b693",
+          "name": "Alan Walsh",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270898,
+          "credit_id": "5c9496d092514173057583fd",
+          "name": "Martin White",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1019578,
+          "credit_id": "5c9497830e0a2646044f95a2",
+          "name": "Peter Dillon",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270899,
+          "credit_id": "5c94981e0e0a2645ee4fb976",
+          "name": "Caroline Simonnet",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270900,
+          "credit_id": "5c94985d92514173187563d8",
+          "name": "Paul Thompson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272496,
+          "credit_id": "5c9753629251411742f3fbc7",
+          "name": "Aoife Byrne",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272498,
+          "credit_id": "5c9753ad9251416b33f4cc3e",
+          "name": "David Byrne",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272503,
+          "credit_id": "5c975462c3a36841a73aa81f",
+          "name": "Michael Hanna",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1774536,
+          "credit_id": "5c9754cbc3a36841973ab2fe",
+          "name": "Phil Lonergan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1952370,
+          "credit_id": "5c9754f9c3a36841973ab32a",
+          "name": "Erol Mehmet",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": "/ms3JH2RbJVbdOtv105JEzikNHZQ.jpg"
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2013-03-31",
+      "episode_number": 5,
+      "id": 892436,
+      "name": "Raid",
+      "overview": "A seer reads Earl Haraldson's future and tells him that Ragnar searches for his death.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/zD7jw2MA9DWoGNkERG3zxA59pK.jpg",
+      "vote_average": 7.646,
+      "vote_count": 24,
+      "crew": [
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c94962dc3a3682e5bf2b30f",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270898,
+          "credit_id": "5c9496d092514173057583fd",
+          "name": "Martin White",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1019578,
+          "credit_id": "5c9497830e0a2646044f95a2",
+          "name": "Peter Dillon",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1774536,
+          "credit_id": "5c9754cbc3a36841973ab2fe",
+          "name": "Phil Lonergan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9756bdc3a368419f3ad7f8",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunt Double",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1264592,
+          "name": "Aaron Lee Reed",
+          "credit_id": "5c27510a92514138d2be6550",
+          "character": "Viking (uncredited)",
+          "order": 8,
+          "gender": 2,
+          "profile_path": "/dWDdJnMEwk1PmpakRY0iVpX9C7w.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2013-04-07",
+      "episode_number": 6,
+      "id": 892437,
+      "name": "Burial of the Dead",
+      "overview": "Ragnar, weak and still hurt, must meet the Earl head-on after it comes to light that Rollo has been tortured on Haraldson’s orders. The two men will come together face to face with a single outcome possible: Only one man will leave this fight alive.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg",
+      "vote_average": 7.932,
+      "vote_count": 22,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c94962dc3a3682e5bf2b30f",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1019578,
+          "credit_id": "5c9497830e0a2646044f95a2",
+          "name": "Peter Dillon",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270899,
+          "credit_id": "5c94981e0e0a2645ee4fb976",
+          "name": "Caroline Simonnet",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272503,
+          "credit_id": "5c975462c3a36841a73aa81f",
+          "name": "Michael Hanna",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9756bdc3a368419f3ad7f8",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunt Double",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 128977,
+          "credit_id": "5c97579dc3a3685e5139c390",
+          "name": "Richard Ryan",
+          "department": "Crew",
+          "job": "Stunt Double",
+          "gender": 2,
+          "profile_path": "/w174jaq8LQX7k4psfBeEDrQyVMf.jpg"
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2013-04-14",
+      "episode_number": 7,
+      "id": 892438,
+      "name": "A King's Ransom",
+      "overview": "Three Viking ships sail toward the Royal Villa of King Aelle in eastern England. Ragnar wants ransom in exchange for peace, but the king has a very different plan in mind.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg",
+      "vote_average": 8.022,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270894,
+          "credit_id": "5c9495700e0a2646044f916f",
+          "name": "James Cosgrave",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270880,
+          "credit_id": "5c94962dc3a3682e5bf2b30f",
+          "name": "Eimear O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1534134,
+          "credit_id": "5c949674c3a3682e55f2b693",
+          "name": "Alan Walsh",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270898,
+          "credit_id": "5c9496d092514173057583fd",
+          "name": "Martin White",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1019578,
+          "credit_id": "5c9497830e0a2646044f95a2",
+          "name": "Peter Dillon",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270899,
+          "credit_id": "5c94981e0e0a2645ee4fb976",
+          "name": "Caroline Simonnet",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270900,
+          "credit_id": "5c94985d92514173187563d8",
+          "name": "Paul Thompson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272496,
+          "credit_id": "5c9753629251411742f3fbc7",
+          "name": "Aoife Byrne",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272503,
+          "credit_id": "5c975462c3a36841a73aa81f",
+          "name": "Michael Hanna",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1774536,
+          "credit_id": "5c9754cbc3a36841973ab2fe",
+          "name": "Phil Lonergan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9756bdc3a368419f3ad7f8",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunt Double",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1340727,
+          "credit_id": "5c9758e5c3a368419a3ada2f",
+          "name": "Russell MacLeod",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1283439,
+          "credit_id": "5c975920c3a36841a33aae8b",
+          "name": "Tristan McConnell",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272526,
+          "credit_id": "5c97597f9251411742f406f2",
+          "name": "Robbie O'Brien",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1085747,
+          "credit_id": "5c9759e70e0a264cc9c0557a",
+          "name": "Ciaran O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1419127,
+          "credit_id": "5c975a3f0e0a264cc6c065f6",
+          "name": "Rebecca Quin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 1,
+          "profile_path": "/eOTsPLk4CV9MY9jZ7q471192CvE.jpg"
+        },
+        {
+          "id": 2272527,
+          "credit_id": "5c975aa7c3a36877e638eb20",
+          "name": "Richie Wilson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1912842,
+          "credit_id": "5c975ad70e0a262352bf8487",
+          "name": "Lee Bagley",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2013-04-21",
+      "episode_number": 8,
+      "id": 892439,
+      "name": "Sacrifice",
+      "overview": "The traditional pilgrimage to Uppsala to thank the gods brings a torrent of emotions for Ragnar, Lagertha, and Athelstan. Ragnar, pulling farther away from his wife goes to make peace with the death of his unborn son. Lagertha, still reeling from her miscarriage, wants to find out from the gods if more sons are in her future. As the Vikings come together to sacrifice and give thanks to their gods, Athelstan discovers just how strong his Christian faith still is.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg",
+      "vote_average": 7.13,
+      "vote_count": 23,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270888,
+          "credit_id": "5c949402c3a3682e66f2b3b4",
+          "name": "Gary Robinson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9494420e0a2645f14fba05",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 64923,
+          "credit_id": "5c9494a392514172fd75860d",
+          "name": "Michele Conroy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1401278,
+          "credit_id": "5c949508c3a3683dbff2156e",
+          "name": "Brendan Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270894,
+          "credit_id": "5c9495700e0a2646044f916f",
+          "name": "James Cosgrave",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270898,
+          "credit_id": "5c9496d092514173057583fd",
+          "name": "Martin White",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1085747,
+          "credit_id": "5c9759e70e0a264cc9c0557a",
+          "name": "Ciaran O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272527,
+          "credit_id": "5c975aa7c3a36877e638eb20",
+          "name": "Richie Wilson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272498,
+          "credit_id": "5c9770c6925141186bf43c3d",
+          "name": "David Byrne",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2013-04-28",
+      "episode_number": 9,
+      "id": 892440,
+      "name": "All Change",
+      "overview": "Ragnar travels to Götaland to help King Horik resolve a land dispute with the area's leader, Jarl Borg. Meanwhile, sickness infects the village of Kattegat, and the people look to Lagertha to help them appease the gods.",
+      "production_code": "",
+      "season_number": 1,
+      "show_id": 44217,
+      "still_path": "/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg",
+      "vote_average": 7.5,
+      "vote_count": 20,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 31175,
+          "credit_id": "5c9491b50e0a2646004f8fd0",
+          "name": "John S. Bartley",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1032072,
+          "credit_id": "5c9492a4c3a3682e4df2ce11",
+          "name": "Mark Henson",
+          "department": "Crew",
+          "job": "Stunt Coordinator",
+          "gender": 2,
+          "profile_path": "/iLM5naMS486iyDXjQJbYdWkK4JY.jpg"
+        },
+        {
+          "id": 2270881,
+          "credit_id": "5c94939fc3a3682e55f2b009",
+          "name": "Darron Costello",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270882,
+          "credit_id": "5c9493b09251417303756081",
+          "name": "Stav Dvorkin",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270884,
+          "credit_id": "5c9493be0e0a2645f74fa22a",
+          "name": "Norman Kelly",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270886,
+          "credit_id": "5c9493de0e0a2645f44f9f52",
+          "name": "Marc Redmond",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270889,
+          "credit_id": "5c9494420e0a2645f14fba05",
+          "name": "Keith Ward",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270891,
+          "credit_id": "5c9494cd0e0a2646044f9050",
+          "name": "Gerry Behan",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1982976,
+          "credit_id": "5c949556c3a3682e5ff2d194",
+          "name": "Tony Condren",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2270894,
+          "credit_id": "5c9495700e0a2646044f916f",
+          "name": "James Cosgrave",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1700273,
+          "credit_id": "5c9495efc3a3683dbff2164c",
+          "name": "Conor Hegarty",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1283439,
+          "credit_id": "5c975920c3a36841a33aae8b",
+          "name": "Tristan McConnell",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1085747,
+          "credit_id": "5c9759e70e0a264cc9c0557a",
+          "name": "Ciaran O'Grady",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2272527,
+          "credit_id": "5c975aa7c3a36877e638eb20",
+          "name": "Richie Wilson",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1669184,
+          "credit_id": "5c97729d0e0a264cbdc08f4d",
+          "name": "Lauterio Zamparelli",
+          "department": "Crew",
+          "job": "Stunts",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 1",
+  "overview": "Introducing the extraordinarily complex and violent world of the Norsemen, HISTORY’s® first scripted series races the gripping sagas of historical hero Ragnar Lothbrok. As claimed direct descendent of Odin, god of war and warriors, Lothbrok's mystical nature and devotion to the gods feeds his stealthy maneuvers and determination to become King of the Vikings.",
+  "id": 53334,
+  "poster_path": "/uYaskJzmBhBdvkitDTjlH6gj9Pt.jpg",
+  "season_number": 1
+}

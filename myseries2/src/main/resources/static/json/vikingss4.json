@@ -1,0 +1,1053 @@
+{
+  "_id": "567cfb179251417def005f92",
+  "air_date": "2016-02-18",
+  "episodes": [
+    {
+      "air_date": "2016-02-18",
+      "episode_number": 1,
+      "id": 1149575,
+      "name": "A Good Treason",
+      "overview": "A dangerously ill Ragnar returns to Kattegat, where his suspected death kicks off a scramble to succeed him. Meanwhile, Lagertha engages in a power struggle with her calculating, former second in command, Kalf. Rollo betrays his heritage and remains in Frankia. Floki pays the price for his brutality against the Christian priest.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/hrwR0Ttjrr4iuiMWBVr9dTN2Aa7.jpg",
+      "vote_average": 7.107,
+      "vote_count": 14,
+      "crew": [
+        {
+          "id": 443498,
+          "credit_id": "563890899251413b13000d9a",
+          "name": "P.J. Dillon",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 64156,
+          "credit_id": "5638906592514129fe0113d9",
+          "name": "Trevor Morris",
+          "department": "Sound",
+          "job": "Music",
+          "gender": 2,
+          "profile_path": "/bRbUFUSWSI0LSznh8kzxrN0olBl.jpg"
+        },
+        {
+          "id": 968735,
+          "credit_id": "563890c5925141284c01f4c7",
+          "name": "Frank Moiselle",
+          "department": "Production",
+          "job": "Casting",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 958799,
+          "credit_id": "563890e2c3a3681b5c020fb7",
+          "name": "Nuala Moiselle",
+          "department": "Production",
+          "job": "Casting",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 49972,
+          "credit_id": "56388fe5925141285701ef78",
+          "name": "Keith Thompson",
+          "department": "Production",
+          "job": "Producer",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 81872,
+          "credit_id": "59902cfd925141675f029676",
+          "name": "Christopher Donaldson",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-02-25",
+      "episode_number": 2,
+      "id": 1166651,
+      "name": "Kill the Queen",
+      "overview": "As Ragnar and Floki remain at odds, Rollo makes great efforts in Paris to win over his new bride, Princess Gisla. Meanwhile, King Ecbert sets the task for his son Aethelwulf to rescue Queen Kwenthrith.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/fLmE6zAIwmL1tmzsPylRrxNvlac.jpg",
+      "vote_average": 5.65,
+      "vote_count": 10,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-03-03",
+      "episode_number": 3,
+      "id": 1166652,
+      "name": "Mercy",
+      "overview": "Floki learns of the heavy price he has paid for his actions. Rollo finds an unlikely ally in Count Odo. Bjorn has to fight a fierce opponent in the wilderness.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/whXSA0wNJ5huU8GwA1gVWoqOEpb.jpg",
+      "vote_average": 7.333,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-03-10",
+      "episode_number": 4,
+      "id": 1166653,
+      "name": "Yol",
+      "overview": "King Aelle goes to Wessex for Christmas and is not impressed with how family relations are developing. Rollo's future hangs in the balance.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/aj2TVz5b4U3uPicwQoRa3Z2ebxh.jpg",
+      "vote_average": 6.143,
+      "vote_count": 7,
+      "crew": [
+        {
+          "id": 4160,
+          "credit_id": "56389e81c3a3681b4b01d460",
+          "name": "Helen Shaver",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/7DlGkBDdRcKPlPAXuoo6xz6hSAU.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-03-17",
+      "episode_number": 5,
+      "id": 1166654,
+      "name": "Promised",
+      "overview": "There's an air of betrayal as those whom Odo trusts plot against him. Ecbert agrees to support Kwenthrith in Mercia. Pregnancy brings happiness to Lagertha and Kalf and a marriage is arranged.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/uHJAV3pXqNw3gNl73Tx5aZi3HHe.jpg",
+      "vote_average": 8.167,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 4160,
+          "credit_id": "56389e81c3a3681b4b01d460",
+          "name": "Helen Shaver",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/7DlGkBDdRcKPlPAXuoo6xz6hSAU.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-03-24",
+      "episode_number": 6,
+      "id": 1166655,
+      "name": "What Might Have Been",
+      "overview": "Ragnar declares another raid on Paris at the Thing in Kattegat. Ecbert also has a journey in mind as he dispatches Aethelwulf and Alfred on a pilgrimage to Rome.",
+      "production_code": "aze124",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/zGAYf5xNRQSiS8cirRYnyonvlnH.jpg",
+      "vote_average": 7.25,
+      "vote_count": 8,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-03-31",
+      "episode_number": 7,
+      "id": 1169238,
+      "name": "The Profit and the Loss",
+      "overview": "In England, King Ecbert's true ambitions are revealed as he plots to gain the crown of Mercia while outside Paris. The Vikings attack Paris with considerable force, but will Rollo's defenses be too much for them to overcome? Meanwhile, Harbard, the mysterious wanderer, returns and causes a stir amongst the women of Kattegat.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/iNzGDvCcceZJ6AG5B8LA0LdbBen.jpg",
+      "vote_average": 7.833,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-04-07",
+      "episode_number": 8,
+      "id": 1177783,
+      "name": "Portage",
+      "overview": "Defeat for the Vikings calls Ragnar's leadership into question as they evacuate their camp and move back down river. Ragnar remains inscrutable until he orders the fleet to beach at a cliff face and unveils an ingenious plan. Rollo and Gisla have news that strengthens Rollo's position at the French Court.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/tnwyCySvtyEtKX2OqUMaO0yTPmD.jpg",
+      "vote_average": 7.667,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd873c3a36809ab81e2b0",
+          "character": "Queen Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        },
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-04-14",
+      "episode_number": 9,
+      "id": 1177784,
+      "name": "Death All 'Round",
+      "overview": "The labors of the Vikings eventually bear fruit as, within sight of Paris, they re-launch their boats but this time along with some interesting structures that Floki has built. Aethelwulf and Alfred eventually arrive in Rome and honors are conferred by Pope Leo but relations are not so cordial in Wessex between King Ecbert and the disgruntled King Aelle.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/m4gzIOird8hnGMlPd9xDhz8GBbO.jpg",
+      "vote_average": 8,
+      "vote_count": 5,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-04-21",
+      "episode_number": 10,
+      "id": 1177785,
+      "name": "The Last Ship",
+      "overview": "A ferocious battle between the Vikings and the French eventually comes down to Ragnar against Rollo. The outcome will seal the fate of the two brothers.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/cH3jtDDIZB3qK71KPNnpOJTPyu5.jpg",
+      "vote_average": 7,
+      "vote_count": 9,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2107245,
+          "name": "Huw Parmenter",
+          "credit_id": "5e85ed89691cd50014595f33",
+          "character": "Roland",
+          "order": 57,
+          "gender": 0,
+          "profile_path": "/gSMP82sQYAn5okwDQseDa8rOd78.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-11-30",
+      "episode_number": 11,
+      "id": 1216032,
+      "name": "The Outsider",
+      "overview": "Ragnar returns to Kattegat and formulates a plan to head back to Wessex, where he intends to right past wrongs.. Meanwhile, Lagertha plans a power play in Kattegat and Bjorn prepares to fulfill his long-held dream to explore the Mediterranean in a sleek new boat built for him by Floki.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/23bDUORmHdkWVdhFbqilDhuIxE0.jpg",
+      "vote_average": 7.857,
+      "vote_count": 14,
+      "crew": [
+        {
+          "id": 123186,
+          "credit_id": "584530f59251416764014224",
+          "name": "Daniel Grou",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-12-07",
+      "episode_number": 12,
+      "id": 1216033,
+      "name": "The Vision",
+      "overview": "The Kattegat locals chide Ragnar that the gods have deserted him as he struggles to crew his voyage to Wessex. It's Bjorn who has charisma now as he prepares to fulfill his long-held dream to explore the Mediterranean in a sleek new boat built for him by Floki. By contrast, Ragnar must accept weathered boats and a crew he has bribed but when Aslaug foresees that the fleet will be lost in a vicious storm her warnings go un-heeded by Ragnar and her precious son, Ivar.",
+      "production_code": "",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/mQLcB8sbGJz9nd8th1kY5IyH4P4.jpg",
+      "vote_average": 7.833,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 123186,
+          "credit_id": "584530f59251416764014224",
+          "name": "Daniel Grou",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1549653,
+          "name": "David Lindström",
+          "credit_id": "57fe67ce9251410900008f4e",
+          "character": "Sigurd",
+          "order": 2,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-12-14",
+      "episode_number": 13,
+      "id": 1235443,
+      "name": "Two Journeys",
+      "overview": "Ragnar's fleet is shipwrecked and washes up on the Wessex coast, but without enough survivors to form a credible force, Ragnar and Ivar have a difficult decision to make. Rollo meets his Viking comrades again and can't resist the urge to join Bjorn's voyage, risking his marriage and his new Frankish identity. Ragnar too is taking a risk as he carries Ivar towards the Royal Villa in Wessex – throwing himself and his son upon the mercy of King Ecbert.",
+      "production_code": "413",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/9ZsvVNJeDWy97O0HZkfwSqgR3Tm.jpg",
+      "vote_average": 8.417,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 210158,
+          "credit_id": "586167bec3a3681a6f0319a9",
+          "name": "Sarah Harding",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-12-21",
+      "episode_number": 14,
+      "id": 1243300,
+      "name": "In the Uncertain Hour Before the Morning",
+      "overview": "Lagertha attempts to fulfill a long-held ambition. Ragnar negotiates an unexpected concession from King Ecbert.",
+      "production_code": "414",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/kRYaOvnxbBeILFRCVMIDmZWlj4y.jpg",
+      "vote_average": 6.6,
+      "vote_count": 15,
+      "crew": [
+        {
+          "id": 210158,
+          "credit_id": "586167bec3a3681a6f0319a9",
+          "name": "Sarah Harding",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2016-12-28",
+      "episode_number": 15,
+      "id": 1243301,
+      "name": "All His Angels",
+      "overview": "Ragnar and Ivar plot against the Saxons and reach a new level of understanding.",
+      "production_code": "415",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/bo8f6YozU0JIWhuAxdvAIfWPVqS.jpg",
+      "vote_average": 8.893,
+      "vote_count": 14,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-01-04",
+      "episode_number": 16,
+      "id": 1248645,
+      "name": "Crossings",
+      "overview": "Bjorn's fleet sails onward and launches a surprise attack. Back in Kattegat, Lagertha continues in her quest for power.",
+      "production_code": "416",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/lXjAKqM6FzcE3jKzlv0hjnAIjnt.jpg",
+      "vote_average": 8.289,
+      "vote_count": 19,
+      "crew": [
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-01-11",
+      "episode_number": 17,
+      "id": 1248805,
+      "name": "The Great Army",
+      "overview": "The Viking army begins to gather in Kattegat. Lagertha must remain vigilant in the absence of her son, Bjorn.",
+      "production_code": "417",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/nG5WMT0v3h6sXDUyZwzs7BcWi3z.jpg",
+      "vote_average": 7.095,
+      "vote_count": 21,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-01-18",
+      "episode_number": 18,
+      "id": 1248806,
+      "name": "Revenge",
+      "overview": "Ragnar's plan comes to fruition. The Viking army lands on the coast of Northumbria.",
+      "production_code": "418",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/5HLpnL66LOOVOu33bQz7iEwTvvH.jpg",
+      "vote_average": 8,
+      "vote_count": 13,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 96787,
+          "name": "Sophie Vavasseur",
+          "credit_id": "58d52050c3a368128902be25",
+          "character": "Princess Ellisif",
+          "order": 3,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-01-25",
+      "episode_number": 19,
+      "id": 1248807,
+      "name": "On the Eve",
+      "overview": "The Viking army causes panic in the English countryside as King Ecbert and Aethelwulf plan the defense of the realm.",
+      "production_code": "419",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/lAPqhzVTyik6zJiRbkPTUlrCEMt.jpg",
+      "vote_average": 9.3,
+      "vote_count": 10,
+      "crew": [
+        {
+          "id": 137932,
+          "credit_id": "588e009bc3a3681e1100672f",
+          "name": "Ben Bolt",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 96787,
+          "name": "Sophie Vavasseur",
+          "credit_id": "58d52050c3a368128902be25",
+          "character": "Princess Ellisif",
+          "order": 3,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 1966463,
+          "name": "Siobhan Kelly",
+          "credit_id": "5c26ec520e0a26790f344058",
+          "character": "Egil's Wife",
+          "order": 6,
+          "gender": 1,
+          "profile_path": "/lUpJQuUPSAUsbtDF2ep1yIxx6Et.jpg"
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2017-02-01",
+      "episode_number": 20,
+      "id": 1248808,
+      "name": "The Reckoning",
+      "overview": "Prince Aethelwulf finds himself subject to the Vikings' battle master plan. Ecbert remains behind with a plan of his own.",
+      "production_code": "420",
+      "season_number": 4,
+      "show_id": 44217,
+      "still_path": "/p22hFeEGVqZu9hmMwMIHXxN30J4.jpg",
+      "vote_average": 8.444,
+      "vote_count": 9,
+      "crew": [
+        {
+          "id": 137932,
+          "credit_id": "588e009bc3a3681e1100672f",
+          "name": "Ben Bolt",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1244,
+          "name": "Jonathan Rhys Meyers",
+          "credit_id": "591c87aec3a36878fe00cd13",
+          "character": "Bishop Heahmund",
+          "order": 72,
+          "gender": 2,
+          "profile_path": "/iqt4t52DEmjBMpdhfmZqcRbHiCl.jpg"
+        },
+        {
+          "id": 1003086,
+          "name": "Josefin Asplund",
+          "credit_id": "5a3d461c9251410324241404",
+          "character": "Astrid",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 4",
+  "overview": "A ferocious battle between the Vikings and the French eventually comes down to Ragnar against Rollo. The outcome will seal the fate of the two brothers.",
+  "id": 72979,
+  "poster_path": "/ncJBlwFtdt9dY4iZxfJnLwwgGCt.jpg",
+  "season_number": 4
+}

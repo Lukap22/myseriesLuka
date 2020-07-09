@@ -1,0 +1,73 @@
+<!-- Put your HTML here -->
+
+<html lang=”en” xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header :: header"></head>
+<!--navbar-->
+<body>
+<nav th:replace="fragments/topnav :: navbar"></nav>
+
+
+<!--<form action="#" th:action="@{/series}"  method="post">-->
+<!--    <input type="text" th:value="">-->
+<!--</form>-->
+
+<div class="container">
+    <h1>Series: </h1>
+    <span th:text="${session.username}"></span>
+
+
+    <form action="" th:action="@{/series}" th:object="${perie}" th:method="post" method="post">
+        <label for="title">title</label>
+        <input type="text" id="title" name="title" autofocus="autofocus"/>
+    </form>
+
+    <form action="" th:action="@{/sorteer}" th:method="get" method="get">
+        <label>Sorteer hier</label>
+        <input type="submit" id="sorteer" value="sorteer" name="sorteer" autofocus="autofocus"/>
+    </form>
+
+    <form action="" th:action="@{/zoek_functie}" th:method="get" method="get">
+        <label>Sorteer hier</label>
+        <input type="text" id="zoek" value="zoek hier" name="zoek hier" autofocus="autofocus"/>
+    </form>
+
+    <table>
+        <tr>
+            <th>title</th>
+            <th>ID</th>
+            <th>image</th>
+            <th>delete</th>
+            <th>update</th>
+        </tr>
+
+
+        <tr th:each="eige_serie : ${eigen_series}">
+            <td>
+                <a th:text="${eige_serie.getTitle()}" th:href="@{'/serie/' + ${eige_serie.id}}" target="_blank"></a>
+            </td>
+            <td
+                    th:text="${eige_serie.getId()}">id
+            </td>
+            <td>
+                <img th:src="${eige_serie.getImageurl()}">
+            </td>
+            <td>
+                <form action="" th:action="@{'/serie/update/{id}'(id=${eige_serie.getId()})}" th:method="patch"
+                      method="post">
+                    <input type="text" value="update serie naam">
+                </form>
+            </td>
+            <td>
+                <form action="" th:action="@{'/serie/delete/{id}'(id=${eige_serie.getId()})}" th:method="delete"
+                      method="post">
+                    <input type="submit" value="Delete">
+                </form>
+            </td>
+        </tr>
+    </table>
+</div>
+</div>
+
+</body>
+</html>

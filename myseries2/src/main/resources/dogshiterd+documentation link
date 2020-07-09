@@ -1,0 +1,10 @@
+een serie --> heeft een lijst met reviews
+--> reviews kunnen toegevoegd worden met user name
+
+
+review is een review en heeft een reference naar user
+
+
+een user heeft arraylist met series die hij kijkt
+
+https://docs.google.com/document/d/1cOJerl95hrMRa1ukw9JAkT1atNz74FMEnXZGsA6nZtA/edit?usp=sharing

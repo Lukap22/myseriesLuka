@@ -1,0 +1,1324 @@
+{
+  "_id": "5d9e231e7f05400037ab7a5f",
+  "air_date": "2019-12-04",
+  "episodes": [
+    {
+      "air_date": "2019-12-04",
+      "episode_number": 1,
+      "id": 1949344,
+      "name": "New Beginnings",
+      "overview": "It’s six months after the battle of Kattegat and Bjorn is now King. As he struggles with the responsibilities of kingship, he finds he can’t rely on his mother. Ivar falls into the hands of the Kievan Rus, and in their ruthless and unpredictable ruler, Prince Oleg, he may finally have met his match.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/cnBm4JniKFhSg7BJtVfGevLQvuq.jpg",
+      "vote_average": 8.167,
+      "vote_count": 6,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 936154,
+          "credit_id": "5df2293e8d77c40015da42d9",
+          "name": "Stephen St. Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 218093,
+          "name": "Bryan Quinn",
+          "credit_id": "5dfe779d26dac1001460dbb5",
+          "character": "One-Eyed Man",
+          "order": 36,
+          "gender": 2,
+          "profile_path": "/7aDIOZaj48RBnaqg4oVtvfuemrc.jpg"
+        },
+        {
+          "id": 2487622,
+          "name": "Michael Johnston",
+          "credit_id": "5dfe7621d236e600168ca903",
+          "character": "Messenger 2",
+          "order": 45,
+          "gender": 2,
+          "profile_path": "/h2eTTULM5QN2m7a9XJPPYZ2WfrP.jpg"
+        },
+        {
+          "id": 1820151,
+          "name": "Marko Leht",
+          "credit_id": "5dfe776ad236e600128cece1",
+          "character": "Torturer",
+          "order": 45,
+          "gender": 2,
+          "profile_path": "/3wHHgX5VjjWmBAsy1yuuRCAVK4c.jpg"
+        },
+        {
+          "id": 2487606,
+          "name": "Elodie Curry",
+          "credit_id": "5dfe730f65686e001393cf75",
+          "character": "Asa",
+          "order": 48,
+          "gender": 1,
+          "profile_path": "/4n4ohWEAswZhhYYfMvAJpMaTkn5.jpg"
+        },
+        {
+          "id": 2487617,
+          "name": "Danny O'Connor",
+          "credit_id": "5dfe7559d1a8930019885804",
+          "character": "Messenger 1",
+          "order": 48,
+          "gender": 2,
+          "profile_path": "/1ZsMKDDXflblPQAj0bIJJt71VD7.jpg"
+        },
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 1415388,
+          "name": "Andrei Claude",
+          "credit_id": "5dfe76759824c80017e05976",
+          "character": "Ganbaatar",
+          "order": 63,
+          "gender": 2,
+          "profile_path": "/nMNPUFGq8qyrLMMMMli1biPGqlP.jpg"
+        },
+        {
+          "id": 2470994,
+          "name": "Ryan Henson",
+          "credit_id": "5de19a5ea24c50001733344e",
+          "character": "Hali",
+          "order": 64,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1484011,
+          "name": "Kieran O'Reilly",
+          "credit_id": "5dfe73c39824c80015e023ec",
+          "character": "White Hair",
+          "order": 64,
+          "gender": 0,
+          "profile_path": "/bliXgZTXDTg7cnuFwT6bLjojYJQ.jpg"
+        },
+        {
+          "id": 1880952,
+          "name": "Kristy Dawn Dinsmore",
+          "credit_id": "5dfe73e39824c80017e05232",
+          "character": "Amma",
+          "order": 65,
+          "gender": 0,
+          "profile_path": "/rvrggd3zivscm6jRv1TVa06Sgf4.jpg"
+        },
+        {
+          "id": 1190280,
+          "name": "Martin Maloney",
+          "credit_id": "5dfe76c965686e00159305b9",
+          "character": "Vigrid",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/Ayj6FE4QpglC5KhJl04ezoYTeZ.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-12-04",
+      "episode_number": 2,
+      "id": 2005234,
+      "name": "The Prophet",
+      "overview": "Messengers arrive in Kattegat with news that presents Bjorn with a dilemma. Prince Oleg of Kiev seems untroubled by his conscience. Lagertha has settled into her new, peaceful life, but danger lurks nearby.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/tg0oDdLknnjiBBIq1BH3HdQCcwV.jpg",
+      "vote_average": 7,
+      "vote_count": 2,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 936154,
+          "credit_id": "5df2293e8d77c40015da42d9",
+          "name": "Stephen St. Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2248919,
+          "name": "Will Guppy",
+          "credit_id": "5dfe7a301f02750012a53bf6",
+          "character": "Chamberlain",
+          "order": 41,
+          "gender": 2,
+          "profile_path": "/pV6m2Lh9RJPpo2TOTEt9Di9gttH.jpg"
+        },
+        {
+          "id": 2487643,
+          "name": "Blake Kubena",
+          "credit_id": "5dfe7ad71f02750012a53d7b",
+          "character": "Prince Askold",
+          "order": 42,
+          "gender": 2,
+          "profile_path": "/4kwSXbQAiFxy4UK09f9qNyajX68.jpg"
+        },
+        {
+          "id": 2487635,
+          "name": "Serena Kennedy",
+          "credit_id": "5dfe7995d1a8930019885f0b",
+          "character": "Anna",
+          "order": 45,
+          "gender": 1,
+          "profile_path": "/9oqsvyQFeovD3fjyqGJNNm2Jhhz.jpg"
+        },
+        {
+          "id": 2487606,
+          "name": "Elodie Curry",
+          "credit_id": "5dfe730f65686e001393cf75",
+          "character": "Asa",
+          "order": 48,
+          "gender": 1,
+          "profile_path": "/4n4ohWEAswZhhYYfMvAJpMaTkn5.jpg"
+        },
+        {
+          "id": 12766,
+          "name": "Lenn Kudrjawizki",
+          "credit_id": "5dfe79681f02750012a53a18",
+          "character": "Prince Dir",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/hH26APWthsuBSlX9VeOMcM2olel.jpg"
+        },
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 1415388,
+          "name": "Andrei Claude",
+          "credit_id": "5dfe76759824c80017e05976",
+          "character": "Ganbaatar",
+          "order": 63,
+          "gender": 2,
+          "profile_path": "/nMNPUFGq8qyrLMMMMli1biPGqlP.jpg"
+        },
+        {
+          "id": 2487632,
+          "name": "Oran Glynn O'Donovan",
+          "credit_id": "5dfe790f9824c80015e02abc",
+          "character": "Igor",
+          "order": 63,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2470994,
+          "name": "Ryan Henson",
+          "credit_id": "5de19a5ea24c50001733344e",
+          "character": "Hali",
+          "order": 64,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1484011,
+          "name": "Kieran O'Reilly",
+          "credit_id": "5dfe73c39824c80015e023ec",
+          "character": "White Hair",
+          "order": 64,
+          "gender": 0,
+          "profile_path": "/bliXgZTXDTg7cnuFwT6bLjojYJQ.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-12-11",
+      "episode_number": 3,
+      "id": 2005242,
+      "name": "Ghosts, Gods, and Running Dogs",
+      "overview": "Lagertha is forced to take action. In Kiev, although Oleg continues to be friendly, Ivar is aware of the threat which Oleg poses to the vulnerable young heir to the throne. Bjorn has answered the call and come to the aid of an old enemy.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/azkjib3I3XuOeVfjF36dbdUUZJt.jpg",
+      "vote_average": 8.25,
+      "vote_count": 4,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 936154,
+          "credit_id": "5df2293e8d77c40015da42d9",
+          "name": "Stephen St. Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1989244,
+          "name": "Eve Connolly",
+          "credit_id": "5c72336f0e0a262c117cebed",
+          "character": "Thora",
+          "order": 44,
+          "gender": 1,
+          "profile_path": "/qzNUbOgKQl22GNF3UG6THMEeIrj.jpg"
+        },
+        {
+          "id": 2487622,
+          "name": "Michael Johnston",
+          "credit_id": "5dfe7621d236e600168ca903",
+          "character": "Messenger 2",
+          "order": 45,
+          "gender": 2,
+          "profile_path": "/h2eTTULM5QN2m7a9XJPPYZ2WfrP.jpg"
+        },
+        {
+          "id": 1820151,
+          "name": "Marko Leht",
+          "credit_id": "5dfe776ad236e600128cece1",
+          "character": "Torturer",
+          "order": 45,
+          "gender": 2,
+          "profile_path": "/3wHHgX5VjjWmBAsy1yuuRCAVK4c.jpg"
+        },
+        {
+          "id": 2487635,
+          "name": "Serena Kennedy",
+          "credit_id": "5dfe7995d1a8930019885f0b",
+          "character": "Anna",
+          "order": 45,
+          "gender": 1,
+          "profile_path": "/9oqsvyQFeovD3fjyqGJNNm2Jhhz.jpg"
+        },
+        {
+          "id": 2370674,
+          "name": "Alicia Gerrard",
+          "credit_id": "5dfe7e0f9824c80013e016ad",
+          "character": "First Woman",
+          "order": 45,
+          "gender": 1,
+          "profile_path": "/7xaeebSc1dfLyx2oOcI6s6Xjbpw.jpg"
+        },
+        {
+          "id": 1825769,
+          "name": "Deborah Wiseman",
+          "credit_id": "5dfe7e61d236e600128cfb94",
+          "character": "Second Woman",
+          "order": 46,
+          "gender": 0,
+          "profile_path": "/Sc5CLTWWSNWv8h51l4yvcqVfaM.jpg"
+        },
+        {
+          "id": 2487649,
+          "name": "Aine Hayden",
+          "credit_id": "5dfe7f1b1f02750018a54aa3",
+          "character": "Old Woman",
+          "order": 47,
+          "gender": 1,
+          "profile_path": "/iUyjfVp3Y7DBUMZ4HYZ3eDGrs7Z.jpg"
+        },
+        {
+          "id": 2487606,
+          "name": "Elodie Curry",
+          "credit_id": "5dfe730f65686e001393cf75",
+          "character": "Asa",
+          "order": 48,
+          "gender": 1,
+          "profile_path": "/4n4ohWEAswZhhYYfMvAJpMaTkn5.jpg"
+        },
+        {
+          "id": 2487617,
+          "name": "Danny O'Connor",
+          "credit_id": "5dfe7559d1a8930019885804",
+          "character": "Messenger 1",
+          "order": 48,
+          "gender": 2,
+          "profile_path": "/1ZsMKDDXflblPQAj0bIJJt71VD7.jpg"
+        },
+        {
+          "id": 2487648,
+          "name": "Conn Rogers",
+          "credit_id": "5dfe7cebd1a893001287697a",
+          "character": "Canute",
+          "order": 48,
+          "gender": 2,
+          "profile_path": "/mP5NW2pTgfLAkAhY2OyGcnjYBJl.jpg"
+        },
+        {
+          "id": 12766,
+          "name": "Lenn Kudrjawizki",
+          "credit_id": "5dfe79681f02750012a53a18",
+          "character": "Prince Dir",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/hH26APWthsuBSlX9VeOMcM2olel.jpg"
+        },
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 1415388,
+          "name": "Andrei Claude",
+          "credit_id": "5dfe76759824c80017e05976",
+          "character": "Ganbaatar",
+          "order": 63,
+          "gender": 2,
+          "profile_path": "/nMNPUFGq8qyrLMMMMli1biPGqlP.jpg"
+        },
+        {
+          "id": 2487632,
+          "name": "Oran Glynn O'Donovan",
+          "credit_id": "5dfe790f9824c80015e02abc",
+          "character": "Igor",
+          "order": 63,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2470994,
+          "name": "Ryan Henson",
+          "credit_id": "5de19a5ea24c50001733344e",
+          "character": "Hali",
+          "order": 64,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1484011,
+          "name": "Kieran O'Reilly",
+          "credit_id": "5dfe73c39824c80015e023ec",
+          "character": "White Hair",
+          "order": 64,
+          "gender": 0,
+          "profile_path": "/bliXgZTXDTg7cnuFwT6bLjojYJQ.jpg"
+        },
+        {
+          "id": 1880952,
+          "name": "Kristy Dawn Dinsmore",
+          "credit_id": "5dfe73e39824c80017e05232",
+          "character": "Amma",
+          "order": 65,
+          "gender": 0,
+          "profile_path": "/rvrggd3zivscm6jRv1TVa06Sgf4.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2019-12-18",
+      "episode_number": 4,
+      "id": 2005245,
+      "name": "All the Prisoners",
+      "overview": "Lagertha leads her village's response to the recent attacks, but despite her best efforts, the consequences are tragic. Olaf has a bold new plan for the future of Norway. Ivar discusses Oleg's ambitions for Scandinavia.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/eFj6z3QOKVwdc9yJnEBCFBfqlSM.jpg",
+      "vote_average": 7.333,
+      "vote_count": 3,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1224779,
+          "credit_id": "5dfe8005d1a8930012876e44",
+          "name": "David Frazee",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/t6ofxu0y4jjpECFHihOQjpXBLjB.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2487606,
+          "name": "Elodie Curry",
+          "credit_id": "5dfe730f65686e001393cf75",
+          "character": "Asa",
+          "order": 48,
+          "gender": 1,
+          "profile_path": "/4n4ohWEAswZhhYYfMvAJpMaTkn5.jpg"
+        },
+        {
+          "id": 2487617,
+          "name": "Danny O'Connor",
+          "credit_id": "5dfe7559d1a8930019885804",
+          "character": "Messenger 1",
+          "order": 48,
+          "gender": 2,
+          "profile_path": "/1ZsMKDDXflblPQAj0bIJJt71VD7.jpg"
+        },
+        {
+          "id": 2487648,
+          "name": "Conn Rogers",
+          "credit_id": "5dfe7cebd1a893001287697a",
+          "character": "Canute",
+          "order": 48,
+          "gender": 2,
+          "profile_path": "/mP5NW2pTgfLAkAhY2OyGcnjYBJl.jpg"
+        },
+        {
+          "id": 2487654,
+          "name": "Per Fredrik Åsly",
+          "credit_id": "5dfe812bd236e600168cc902",
+          "character": "Envoy",
+          "order": 48,
+          "gender": 2,
+          "profile_path": "/6sDhn8QYxX8AlTE01RLCOYWSmg7.jpg"
+        },
+        {
+          "id": 1768184,
+          "name": "Kathy Monahan",
+          "credit_id": "5dfe81b69824c80017e06af7",
+          "character": "Eira",
+          "order": 49,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 2487655,
+          "name": "Oisin Murray",
+          "credit_id": "5dfe81e09824c80013e01ce0",
+          "character": "Tarben",
+          "order": 50,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 117654,
+          "name": "David Sterne",
+          "credit_id": "5dfe8221d1a893001487f995",
+          "character": "Gudmund",
+          "order": 51,
+          "gender": 2,
+          "profile_path": "/ipvWDt43Md5CHeq4tDq6oucNFl5.jpg"
+        },
+        {
+          "id": 1865564,
+          "name": "Aoibheann McCann",
+          "credit_id": "5dfe823965686e001393e52d",
+          "character": "Skadi",
+          "order": 52,
+          "gender": 1,
+          "profile_path": "/rYezoCSuCvSbRo96r6KsnE83xg5.jpg"
+        },
+        {
+          "id": 1592218,
+          "name": "Gina Costigan",
+          "credit_id": "5dfe82f71f02750018a5547d",
+          "character": "Runa",
+          "order": 53,
+          "gender": 1,
+          "profile_path": "/nLiELNvcpCoVk99J1VftmRzagJw.jpg"
+        },
+        {
+          "id": 2402933,
+          "name": "Owen Barton",
+          "credit_id": "5dfe838426dac10017608889",
+          "character": "Warrior",
+          "order": 54,
+          "gender": 2,
+          "profile_path": "/3fwdW7KRJCXX3Rp8tjmrOtKUTsD.jpg"
+        },
+        {
+          "id": 2487661,
+          "name": "Sandy Kennedy",
+          "credit_id": "5dfe843cd236e600128d050b",
+          "character": "Sylvi",
+          "order": 55,
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 12766,
+          "name": "Lenn Kudrjawizki",
+          "credit_id": "5dfe79681f02750012a53a18",
+          "character": "Prince Dir",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/hH26APWthsuBSlX9VeOMcM2olel.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 2487632,
+          "name": "Oran Glynn O'Donovan",
+          "credit_id": "5dfe790f9824c80015e02abc",
+          "character": "Igor",
+          "order": 63,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2470994,
+          "name": "Ryan Henson",
+          "credit_id": "5de19a5ea24c50001733344e",
+          "character": "Hali",
+          "order": 64,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1484011,
+          "name": "Kieran O'Reilly",
+          "credit_id": "5dfe73c39824c80015e023ec",
+          "character": "White Hair",
+          "order": 64,
+          "gender": 0,
+          "profile_path": "/bliXgZTXDTg7cnuFwT6bLjojYJQ.jpg"
+        },
+        {
+          "id": 1880952,
+          "name": "Kristy Dawn Dinsmore",
+          "credit_id": "5dfe73e39824c80017e05232",
+          "character": "Amma",
+          "order": 65,
+          "gender": 0,
+          "profile_path": "/rvrggd3zivscm6jRv1TVa06Sgf4.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_number": 5,
+      "id": 2014568,
+      "name": "The Key",
+      "overview": "As Norway’s Kings and Jarls arrive at Harald’s territory for the election of the King of all Norway, Olaf is certain of the result, however, it may not go as smoothly as he believes. Lagertha’s village is anxious in anticipation of another attack and she is relieved when Gunnhild arrives with re-enforcements. In Kiev, Igor and Ivar engage in subterfuge and Ivar is stunned when he encounters a ghost from his past.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/zWPYQVeyyMTWazK4WbjigVuaZ9N.jpg",
+      "vote_average": 8,
+      "vote_count": 3,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1224779,
+          "credit_id": "5dfe8005d1a8930012876e44",
+          "name": "David Frazee",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/t6ofxu0y4jjpECFHihOQjpXBLjB.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 12766,
+          "name": "Lenn Kudrjawizki",
+          "credit_id": "5dfe79681f02750012a53a18",
+          "character": "Prince Dir",
+          "order": 58,
+          "gender": 2,
+          "profile_path": "/hH26APWthsuBSlX9VeOMcM2olel.jpg"
+        },
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5ece6e9be61e6d001ccb46f8",
+          "character": "Katia",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2020-01-08",
+      "episode_number": 6,
+      "id": 2020424,
+      "name": "Death and the Serpent",
+      "overview": "Bjorn is forced to act quickly in the aftermath of the election for the king of all Norway. The Bandits attack Lagertha’s village again confident of an easy victory. However, when the defense boils down to single combat with Lagertha, victory seems less likely. In Kattegat, haunted and paranoid, Hvitserk continues to unravel.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/8l5jE8Ue1g9HZn417vbcHrvgaD5.jpg",
+      "vote_average": 8.5,
+      "vote_count": 2,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656362,
+          "credit_id": "5ece6f20aaec7100206720fc",
+          "name": "David Frazee",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1503948,
+          "name": "Anna Maria Jopek",
+          "credit_id": "5ece6f9021c4ca001fdb4ae8",
+          "character": "Female Skald",
+          "order": 59,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5ece6e9be61e6d001ccb46f8",
+          "character": "Katia",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2020-01-15",
+      "episode_number": 7,
+      "id": 2023324,
+      "name": "The Ice Maiden",
+      "overview": "Bjorn returns to Kattegat. Harald gains a measure of revenge on Olaf. In Kiev, interesting news reaches Ivar and Igor about Prince Dir.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/mXzDiFWFiII28bCwRhD08OS1OuP.jpg",
+      "vote_average": 8.5,
+      "vote_count": 2,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 2656366,
+          "credit_id": "5ece6fd1528b2e002064c4cb",
+          "name": "Steve Saint Leger",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5ece6e9be61e6d001ccb46f8",
+          "character": "Katia",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2020-01-22",
+      "episode_number": 8,
+      "id": 2023325,
+      "name": "Valhalla Can Wait",
+      "overview": "Bjorn faces a difficult decision; Ubbe and Torvi leave Kattegat in search of new lands and perhaps old friends; Oleg's plans for the invasion of Scandinavia take shape; King Harald is baffled by the origin of a mysterious raiding party.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/qQz3GyZvuWHIDVmwlBP2k4eoQQ2.jpg",
+      "vote_average": 7,
+      "vote_count": 2,
+      "crew": [
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 26723,
+          "credit_id": "5e933005875d1a00124414d0",
+          "name": "Katheryn Winnick",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/rwZAopZovcxCsgi22nazgamsPht.jpg"
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 199931,
+          "name": "Kelly Campbell",
+          "credit_id": "5c72359c0e0a262c1c7cff99",
+          "character": "Ingvild",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/7i2irpjuZVTzZccUDc0DTVwcgqn.jpg"
+        },
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5ece6e9be61e6d001ccb46f8",
+          "character": "Katia",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 2249305,
+          "name": "Ragga Ragnars",
+          "credit_id": "5c7235839251415eddb288cb",
+          "character": "Gunnhild",
+          "order": 63,
+          "gender": 1,
+          "profile_path": "/thDqwXUOQXSEIjfaDLQMeAV071.jpg"
+        },
+        {
+          "id": 1880952,
+          "name": "Kristy Dawn Dinsmore",
+          "credit_id": "5dfe73e39824c80017e05232",
+          "character": "Amma",
+          "order": 65,
+          "gender": 0,
+          "profile_path": "/rvrggd3zivscm6jRv1TVa06Sgf4.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        },
+        {
+          "id": 2074237,
+          "name": "Georgia Hirst",
+          "credit_id": "5c37ef4192514128f68d42f7",
+          "character": "Torvi",
+          "order": 72,
+          "gender": 1,
+          "profile_path": "/sV5dyX3WzUstlNkzGGE8kI6vf8q.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2020-01-29",
+      "episode_number": 9,
+      "id": 2029179,
+      "name": "Resurrection",
+      "overview": "In Iceland, Ubbe and Torvi finally meet a mysterious wanderer. Bjorn is forced to re-think who his enemies are when Erik returns from a scouting mission with worrying information. Bjorn will need allies, but he may not be able to convince his old foe, King Harald, to join forces in the face of the new threat. Ivar is reunited with someone close to him.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/qs6mkIBBNpiGIBgWBt5CRHrieF.jpg",
+      "vote_average": 7.5,
+      "vote_count": 2,
+      "crew": [
+        {
+          "id": 123186,
+          "credit_id": "584530f59251416764014224",
+          "name": "Daniel Grou",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 56614,
+          "name": "Ray Stevenson",
+          "credit_id": "5ece71513dc313001fc80de8",
+          "character": "Othere",
+          "order": 60,
+          "gender": 2,
+          "profile_path": "/fH1cLfWFslsQc4AvWL5SNoF0nvM.jpg"
+        },
+        {
+          "id": 199931,
+          "name": "Kelly Campbell",
+          "credit_id": "5c72359c0e0a262c1c7cff99",
+          "character": "Ingvild",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/7i2irpjuZVTzZccUDc0DTVwcgqn.jpg"
+        },
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 89888,
+          "name": "Adam Copeland",
+          "credit_id": "5dfe7873d236e600128ced91",
+          "character": "Kjetill Flatnose",
+          "order": 61,
+          "gender": 2,
+          "profile_path": "/m78XdCx02E8ZUHApmHIuUivvpSp.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5ece6e9be61e6d001ccb46f8",
+          "character": "Katia",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2020-02-05",
+      "episode_number": 10,
+      "id": 2060319,
+      "name": "The Best Laid Plans",
+      "overview": "Ivar and Igor may be plotting against Oleg, but they're still part of the force that departs Kiev to invade Scandinavia. King Harald and King Bjorn begin furious preparations for the invasion.",
+      "production_code": "",
+      "season_number": 6,
+      "show_id": 44217,
+      "still_path": "/7jQkjDessT3JB36TMDv6uMkb25q.jpg",
+      "vote_average": 8.333,
+      "vote_count": 3,
+      "crew": [
+        {
+          "id": 123186,
+          "credit_id": "584530f59251416764014224",
+          "name": "Daniel Grou",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 2487613,
+          "name": "Lucy Martin",
+          "credit_id": "5dfe7464d1a893001487e2c1",
+          "character": "Ingrid",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/5mYsGxI46oVUCVjU66jAltQZNJu.jpg"
+        },
+        {
+          "id": 1936932,
+          "name": "Alicia Agneson",
+          "credit_id": "5ece6e9be61e6d001ccb46f8",
+          "character": "Katia",
+          "order": 61,
+          "gender": 1,
+          "profile_path": "/a3IrkRmyqbm7NltqvN7ilWZZkx0.jpg"
+        },
+        {
+          "id": 2656371,
+          "name": "Elshka Lane",
+          "credit_id": "5ece722ee4b57600202a9402",
+          "character": "Katia's Servant",
+          "order": 61,
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 42292,
+          "name": "Fredrik Hiller",
+          "credit_id": "5ece723fe61e6d001ecb6dcc",
+          "character": "Thorkell",
+          "order": 62,
+          "gender": 2,
+          "profile_path": "/pgQE7NQmzv4y0JnSDuHZ8ndeeqh.jpg"
+        },
+        {
+          "id": 1415388,
+          "name": "Andrei Claude",
+          "credit_id": "5dfe76759824c80017e05976",
+          "character": "Ganbaatar",
+          "order": 63,
+          "gender": 2,
+          "profile_path": "/nMNPUFGq8qyrLMMMMli1biPGqlP.jpg"
+        },
+        {
+          "id": 2487632,
+          "name": "Oran Glynn O'Donovan",
+          "credit_id": "5dfe790f9824c80015e02abc",
+          "character": "Igor",
+          "order": 63,
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 782,
+          "name": "Steven Berkoff",
+          "credit_id": "5dfe7c4d65686e001393d9ef",
+          "character": "King Olaf the Stout",
+          "order": 65,
+          "gender": 2,
+          "profile_path": "/pNVdTLSFxPY9Jq2MkYRhkLgAATp.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 6",
+  "overview": "",
+  "id": 133827,
+  "poster_path": "/z4cMV2N2FGcRzg2dmqG9Y6Zp7AA.jpg",
+  "season_number": 6
+}

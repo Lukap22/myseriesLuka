@@ -1,0 +1,2313 @@
+[ {
+  "amountOfEpisodes" : 348,
+  "amountOfSeasons" : 18,
+  "category" : null,
+  "description" : "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+  "genres" : [ {
+    "name" : "Animation"
+  }, {
+    "name" : "Comedy"
+  } ],
+  "gridImageURL" : "https://image.tmdb.org/t/p/w300_and_h450_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg",
+  "id" : 8,
+  "imageurl" : "https://image.tmdb.org/t/p/original/4oE4vT4q0AD2cX3wcMBVzCsME8G.jpg",
+  "meanRating" : 0.0,
+  "reviews" : [ ],
+  "seasons" : [ {
+    "episodeCount" : 21,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Stewie Griffin: The Untold Story (Feature Movie)",
+      "releaseDate" : "2006-05-21",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Family Guy Live In Vegas: Stewie's Sexy Party",
+      "releaseDate" : "2005-04-26",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Family Guy Live In Vegas: The Making Of Stewie's Sexy Party",
+      "releaseDate" : "2005-04-26",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Webisode: Up Late With Stewie & Brian",
+      "releaseDate" : "2007-02-25",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 5,
+      "name" : "The Life of Larry",
+      "releaseDate" : "1995-01-01",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Larry & Steve",
+      "releaseDate" : "1997-04-28",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Family Guy (Pilot)",
+      "releaseDate" : "1998-12-20",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Saving Family Guy",
+      "releaseDate" : "2005-05-01",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 9,
+      "name" : "The Family Guy 100th Episode Special",
+      "releaseDate" : "2007-11-04",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 10,
+      "name" : "BBC - The Story So Far",
+      "releaseDate" : "2009-04-18",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 11,
+      "name" : "BBC - Creating the Chaos",
+      "releaseDate" : "2009-04-18",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Stewie & Brian Live at the Emmy's",
+      "releaseDate" : "2007-09-16",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Family Guy on Inside The Actors Studio",
+      "releaseDate" : "2009-09-14",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 14,
+      "name" : "Comic-Con 2008",
+      "releaseDate" : "2008-07-26",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Family Guy Presents: Seth and Alex's Almost Live Comedy Show",
+      "releaseDate" : "2009-11-08",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 16,
+      "name" : "The List (Stewie's Banned Song)",
+      "releaseDate" : "2007-11-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 17,
+      "name" : "Family Guy: The Top 20 Characters",
+      "releaseDate" : "2010-05-08",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 18,
+      "name" : "Behind The Scenes of Family Guy",
+      "releaseDate" : "1999-09-23",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 19,
+      "name" : "Groundbreaking Gags",
+      "releaseDate" : "2011-05-08",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 20,
+      "name" : "200 Episodes Later",
+      "releaseDate" : "2012-11-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    }, {
+      "episodeNumber" : 21,
+      "name" : "Partial Terms of Endearment",
+      "releaseDate" : "2010-06-20",
+      "seasonNumber" : 0,
+      "tmdbID" : 1434
+    } ],
+    "name" : "Specials",
+    "seasonNumber" : 0,
+    "themoviedbSerieID" : 1434
+  } ],
+  "status" : "Returning Series",
+  "themoviedbSerieID" : 1434,
+  "title" : "Family Guy",
+  "user" : null
+}, {
+  "amountOfEpisodes" : 148,
+  "amountOfSeasons" : 3,
+  "category" : null,
+  "description" : "Twelve-year-old Gon Freecss one day discovers that the father he had always been told was dead was alive and well. His Father, Ging, is a Hunter—a member of society's elite with a license to go anywhere or do almost anything. Gon, determined to follow in his father's footsteps, decides to take the Hunter Examination and eventually find his father to prove himself as a Hunter in his own right. But on the way, he learns that there is more to becoming a Hunter than previously thought, and the challenges that he must face are considered the toughest in the world.",
+  "genres" : [ {
+    "name" : "Action & Adventure"
+  }, {
+    "name" : "Animation"
+  }, {
+    "name" : "Drama"
+  } ],
+  "gridImageURL" : "https://image.tmdb.org/t/p/w300_and_h450_bestv2/tolQj5yffSxkEGXusPwNcvYrbph.jpg",
+  "id" : 34,
+  "imageurl" : "https://image.tmdb.org/t/p/original/A702KA1gXlI3hB33hdhwPM708pY.jpg",
+  "meanRating" : 0.0,
+  "reviews" : [ ],
+  "seasons" : [ {
+    "episodeCount" : 62,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Departure x And x Friends",
+      "releaseDate" : "2011-10-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Test x Of x Tests",
+      "releaseDate" : "2011-10-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Rivals x For x Survival",
+      "releaseDate" : "2011-10-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Hope x And x Ambition",
+      "releaseDate" : "2011-10-23",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Hisoka x Is x Sneaky",
+      "releaseDate" : "2011-10-30",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 6,
+      "name" : "A x Surprising x Challenge",
+      "releaseDate" : "2011-11-06",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Showdown x On The x Airship",
+      "releaseDate" : "2011-11-13",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Decision x By x Majority?",
+      "releaseDate" : "2011-11-20",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Beware x Of x Prisoners",
+      "releaseDate" : "2011-11-27",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Trick x To The x Trick",
+      "releaseDate" : "2011-12-04",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Trouble x With The x Gamble",
+      "releaseDate" : "2011-12-11",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Last x Test Of x Resolve!",
+      "releaseDate" : "2011-12-18",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Letter x From x Gon",
+      "releaseDate" : "2011-12-25",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 14,
+      "name" : "Hit x The x Target",
+      "releaseDate" : "2012-01-08",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Explosion x Of x Deception!",
+      "releaseDate" : "2012-01-15",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 16,
+      "name" : "Defeat x And x Disgrace",
+      "releaseDate" : "2012-01-22",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 17,
+      "name" : "Trap x In The x Hole",
+      "releaseDate" : "2012-01-29",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 18,
+      "name" : "Big x Time x Interview",
+      "releaseDate" : "2012-02-05",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 19,
+      "name" : "Can`t Win x and x Can`t Lose",
+      "releaseDate" : "2012-02-12",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 20,
+      "name" : "Baffling x Turn of x Events",
+      "releaseDate" : "2012-02-19",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 21,
+      "name" : "Some x Brother x Trouble",
+      "releaseDate" : "2012-03-04",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 22,
+      "name" : "A x Dangerous x Watchdog",
+      "releaseDate" : "2012-03-11",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 23,
+      "name" : "The x Guard's x Duty!",
+      "releaseDate" : "2012-03-18",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 24,
+      "name" : "The x Zoldyck x Family!",
+      "releaseDate" : "2012-03-25",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 25,
+      "name" : "Can't See x if x You're x Blind!",
+      "releaseDate" : "2012-04-01",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 26,
+      "name" : "Then × And × After",
+      "releaseDate" : "2012-04-15",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 27,
+      "name" : "Arrival x At The x Arena!",
+      "releaseDate" : "2012-04-15",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 28,
+      "name" : "Nen x And x \"Nen\"",
+      "releaseDate" : "2012-04-22",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 29,
+      "name" : "Awakening x And x Potential!",
+      "releaseDate" : "2012-04-29",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 30,
+      "name" : "Fierce x and x Ferocious",
+      "releaseDate" : "2012-05-06",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 31,
+      "name" : "Destiny x and x Tenacity!",
+      "releaseDate" : "2012-05-13",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 32,
+      "name" : "A x Surprising x Win",
+      "releaseDate" : "2012-05-20",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 33,
+      "name" : "An x Empty x Threat!",
+      "releaseDate" : "2012-05-27",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 34,
+      "name" : "Power x To x Avenge!",
+      "releaseDate" : "2012-06-03",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 35,
+      "name" : "The x True x Pass",
+      "releaseDate" : "2012-06-17",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 36,
+      "name" : "A Big Debt x And x A Small Kick!",
+      "releaseDate" : "2012-06-24",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 37,
+      "name" : "Ging x And x Gon!",
+      "releaseDate" : "2012-07-01",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 38,
+      "name" : "Reply x From x Dad!",
+      "releaseDate" : "2012-07-08",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 39,
+      "name" : "Wish x And x Promise!",
+      "releaseDate" : "2012-07-15",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 40,
+      "name" : "Nen x Users x Unite?",
+      "releaseDate" : "2012-07-22",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 41,
+      "name" : "Gathering x Of x Heroes!",
+      "releaseDate" : "2012-07-29",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 42,
+      "name" : "Defend x and x Attack!",
+      "releaseDate" : "2012-08-05",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 43,
+      "name" : "A x Shocking x Tragedy!",
+      "releaseDate" : "2012-08-12",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 44,
+      "name" : "Buildup x To A x Fierce Battle",
+      "releaseDate" : "2012-08-19",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 45,
+      "name" : "Restraint x And x Vow",
+      "releaseDate" : "2012-09-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 46,
+      "name" : "Chasing x and x Waiting",
+      "releaseDate" : "2012-09-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 47,
+      "name" : "Condition x and x Condition",
+      "releaseDate" : "2012-09-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 48,
+      "name" : "Very x Sharp x Eye",
+      "releaseDate" : "2012-09-23",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 49,
+      "name" : "Pursuit x and x Analysis",
+      "releaseDate" : "2012-09-30",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 50,
+      "name" : "Ally x and x Sword",
+      "releaseDate" : "2012-10-07",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 51,
+      "name" : "A x Brutal x Battlefield",
+      "releaseDate" : "2012-10-14",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 52,
+      "name" : "Assault x And x Impact",
+      "releaseDate" : "2012-10-21",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 53,
+      "name" : "Fake x And x Psyche",
+      "releaseDate" : "2012-10-28",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 54,
+      "name" : "Fortunes x Aren't x Right?",
+      "releaseDate" : "2012-11-04",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 55,
+      "name" : "Allies x And x Lies",
+      "releaseDate" : "2012-11-11",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 56,
+      "name" : "Beloved x And x Beleaguered",
+      "releaseDate" : "2012-11-18",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 57,
+      "name" : "Initiative x And x Law",
+      "releaseDate" : "2012-12-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 58,
+      "name" : "Signal x To x Retreat",
+      "releaseDate" : "2012-12-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 59,
+      "name" : "Bid x And x Haste",
+      "releaseDate" : "2012-12-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 60,
+      "name" : "End x And x Beginning",
+      "releaseDate" : "2012-12-23",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 61,
+      "name" : "Invitation x And x Friend",
+      "releaseDate" : "2013-01-06",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 62,
+      "name" : "Reality? x And x Raw",
+      "releaseDate" : "2013-01-13",
+      "seasonNumber" : 1,
+      "tmdbID" : 46298
+    } ],
+    "name" : "Season 1",
+    "seasonNumber" : 1,
+    "themoviedbSerieID" : 46298
+  }, {
+    "episodeCount" : 74,
+    "episodes" : [ {
+      "episodeNumber" : 63,
+      "name" : "A x Hard x Master?",
+      "releaseDate" : "2013-01-20",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 64,
+      "name" : "Strengthen x And x Threaten",
+      "releaseDate" : "2013-01-27",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 65,
+      "name" : "Evil Fist x And x Rock, Paper, Scissors",
+      "releaseDate" : "2013-02-03",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 66,
+      "name" : "Strategy x And x Scheme",
+      "releaseDate" : "2013-02-10",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 67,
+      "name" : "15 x 15",
+      "releaseDate" : "2013-02-17",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 68,
+      "name" : "Pirates x And x Guesses",
+      "releaseDate" : "2013-02-24",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 69,
+      "name" : "A x Heated x Showdown",
+      "releaseDate" : "2013-03-03",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 70,
+      "name" : "Guts x And x Courage",
+      "releaseDate" : "2013-03-10",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 71,
+      "name" : "Bargain x And x Deal",
+      "releaseDate" : "2013-03-17",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 72,
+      "name" : "Chase x And x Chance",
+      "releaseDate" : "2013-03-24",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 73,
+      "name" : "Insanity x And x Sanity",
+      "releaseDate" : "2013-03-31",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 74,
+      "name" : "Victor x And x Loser",
+      "releaseDate" : "2013-04-07",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 75,
+      "name" : "Ging's Friends x And x True Friends",
+      "releaseDate" : "2013-04-14",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 76,
+      "name" : "Reunion x And x Understanding",
+      "releaseDate" : "2013-04-21",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 77,
+      "name" : "Unease x And x Sighting",
+      "releaseDate" : "2013-04-28",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 78,
+      "name" : "Very x Rapid x Reproduction",
+      "releaseDate" : "2013-05-05",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 79,
+      "name" : "No x Good x NGL",
+      "releaseDate" : "2013-05-12",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 80,
+      "name" : "Evil x And x Terrible",
+      "releaseDate" : "2013-05-19",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 81,
+      "name" : "The x Fight x Begins",
+      "releaseDate" : "2013-05-26",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 82,
+      "name" : "Kite x And x Slots",
+      "releaseDate" : "2013-06-02",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 83,
+      "name" : "Inspiration x To x Evolve",
+      "releaseDate" : "2013-06-09",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 84,
+      "name" : "A x Fated x Awakening",
+      "releaseDate" : "2013-06-16",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 85,
+      "name" : "Light x And x Darkness",
+      "releaseDate" : "2013-06-23",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 86,
+      "name" : "Promise x And x Reunion",
+      "releaseDate" : "2013-06-30",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 87,
+      "name" : "Duel x And x Escape",
+      "releaseDate" : "2013-07-07",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 88,
+      "name" : "Rock-Paper-Scissors x And x Weakness",
+      "releaseDate" : "2013-07-14",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 89,
+      "name" : "Compassion x And x Strength",
+      "releaseDate" : "2013-07-21",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 90,
+      "name" : "Slow x And x Cursed",
+      "releaseDate" : "2013-07-28",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 91,
+      "name" : "The Strong x And x The Weak",
+      "releaseDate" : "2013-08-04",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 92,
+      "name" : "One Wish x And x Two Promises",
+      "releaseDate" : "2013-08-11",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 93,
+      "name" : "Date x With x Palm",
+      "releaseDate" : "2013-08-18",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 94,
+      "name" : "Friend x And x Journey",
+      "releaseDate" : "2013-09-01",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 95,
+      "name" : "Grudge x And x Dread",
+      "releaseDate" : "2013-09-08",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 96,
+      "name" : "A x Lawless x Home",
+      "releaseDate" : "2013-09-15",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 97,
+      "name" : "Carnage x And x Devastation",
+      "releaseDate" : "2013-09-22",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 98,
+      "name" : "Infiltration x And x Selection",
+      "releaseDate" : "2013-09-29",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 99,
+      "name" : "Combination x And x Evolution",
+      "releaseDate" : "2013-10-08",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 100,
+      "name" : "Tracking x And x Pursuit",
+      "releaseDate" : "2013-10-15",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 101,
+      "name" : "Ikalgo x And x Lightning",
+      "releaseDate" : "2013-10-22",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 102,
+      "name" : "Power x And x Games",
+      "releaseDate" : "2013-10-29",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 103,
+      "name" : "Check x And x Mate",
+      "releaseDate" : "2013-11-06",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 104,
+      "name" : "Doubt x And x Hesitation",
+      "releaseDate" : "2013-11-12",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 105,
+      "name" : "Resolve x And x Awakening",
+      "releaseDate" : "2013-11-19",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 106,
+      "name" : "Knov x And x Morel",
+      "releaseDate" : "2013-11-26",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 107,
+      "name" : "Return x And x Retire",
+      "releaseDate" : "2013-12-03",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 108,
+      "name" : "Komugi × And × Gungi",
+      "releaseDate" : "2013-12-10",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 109,
+      "name" : "Taking Stock x And x Taking Action",
+      "releaseDate" : "2013-12-17",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 110,
+      "name" : "Confusion x And x Expectation",
+      "releaseDate" : "2013-12-24",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 111,
+      "name" : "Charge x And x Invade",
+      "releaseDate" : "2014-01-07",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 112,
+      "name" : "Monster x And x Monster",
+      "releaseDate" : "2014-01-14",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 113,
+      "name" : "An x Indebted x Insect",
+      "releaseDate" : "2014-01-21",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 114,
+      "name" : "Divide x And x Conquer",
+      "releaseDate" : "2014-01-28",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 115,
+      "name" : "Duty x And x Question",
+      "releaseDate" : "2014-02-04",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 116,
+      "name" : "Revenge x And x Recovery",
+      "releaseDate" : "2014-02-11",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 117,
+      "name" : "Insult x And x Payback",
+      "releaseDate" : "2014-02-18",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 118,
+      "name" : "A x False x Rage",
+      "releaseDate" : "2014-02-25",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 119,
+      "name" : "Strong x Or x Weak",
+      "releaseDate" : "2014-03-04",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 120,
+      "name" : "Fake x And x Real",
+      "releaseDate" : "2014-03-11",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 121,
+      "name" : "Defeat x And x Dignity",
+      "releaseDate" : "2014-03-18",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 122,
+      "name" : "Pose x And x Name",
+      "releaseDate" : "2014-03-25",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 123,
+      "name" : "Centipede x And x Memory",
+      "releaseDate" : "2014-04-01",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 124,
+      "name" : "Breakdown x And x Awakening",
+      "releaseDate" : "2014-04-08",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 125,
+      "name" : "Great Power x And x Ultimate Power",
+      "releaseDate" : "2014-04-15",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 126,
+      "name" : "Zero x And x Rose",
+      "releaseDate" : "2014-04-22",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 127,
+      "name" : "Hostility x And x Determination",
+      "releaseDate" : "2014-04-29",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 128,
+      "name" : "Unparalleled Joy x And x Unconditional Love",
+      "releaseDate" : "2014-05-06",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 129,
+      "name" : "Formidable Enemy x And x Clear Objective",
+      "releaseDate" : "2014-05-13",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 130,
+      "name" : "Magic × To × Destroy",
+      "releaseDate" : "2014-05-20",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 131,
+      "name" : "Anger x And x Light",
+      "releaseDate" : "2014-05-27",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 132,
+      "name" : "Flash x And x Start",
+      "releaseDate" : "2014-06-03",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 133,
+      "name" : "Deadline x To x Live",
+      "releaseDate" : "2014-06-10",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 134,
+      "name" : "The Word x Is x You",
+      "releaseDate" : "2014-06-17",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 135,
+      "name" : "This Person x And x This Moment",
+      "releaseDate" : "2014-06-24",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    }, {
+      "episodeNumber" : 136,
+      "name" : "Homecoming x And x True Name",
+      "releaseDate" : "2014-07-01",
+      "seasonNumber" : 2,
+      "tmdbID" : 46298
+    } ],
+    "name" : "Season 2",
+    "seasonNumber" : 2,
+    "themoviedbSerieID" : 46298
+  } ],
+  "status" : "Ended",
+  "themoviedbSerieID" : 46298,
+  "title" : "Hunter x Hunter",
+  "user" : null
+}, {
+  "amountOfEpisodes" : 48,
+  "amountOfSeasons" : 4,
+  "category" : null,
+  "description" : "Ken Kaneki is a bookworm college student who meets a girl names Rize at a cafe he frequents. They're the same age and have the same interests, so they quickly become close. Little does Kaneki know that Rize is a ghoul - a kind of monster that lives by hunting and devouring human flesh. When part of her special organ - \"the red child\" - is transplanted into Kaneki, he becomes a ghoul himself, trapped in a warped world where humans are not the top of the food chain.",
+  "genres" : [ {
+    "name" : "Action & Adventure"
+  }, {
+    "name" : "Animation"
+  }, {
+    "name" : "Drama"
+  }, {
+    "name" : "Mystery"
+  } ],
+  "gridImageURL" : "https://image.tmdb.org/t/p/w300_and_h450_bestv2/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+  "id" : 35,
+  "imageurl" : "https://image.tmdb.org/t/p/original/hzryhiYlPRYm6Ramce0iTdKdj4T.jpg",
+  "meanRating" : 0.0,
+  "reviews" : [ ],
+  "seasons" : [ {
+    "episodeCount" : 2,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Tokyo Ghoul: Jack (OVA)",
+      "releaseDate" : "2015-09-30",
+      "seasonNumber" : 0,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Tokyo Ghoul: Pinto (OVA)",
+      "releaseDate" : "2015-12-25",
+      "seasonNumber" : 0,
+      "tmdbID" : 61374
+    } ],
+    "name" : "Specials",
+    "seasonNumber" : 0,
+    "themoviedbSerieID" : 61374
+  }, {
+    "episodeCount" : 12,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Tragedy",
+      "releaseDate" : "2014-07-04",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Incubation",
+      "releaseDate" : "2014-07-11",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Dove",
+      "releaseDate" : "2014-07-18",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Supper",
+      "releaseDate" : "2014-07-25",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Scars",
+      "releaseDate" : "2014-08-01",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Cloudburst",
+      "releaseDate" : "2014-08-08",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Captivity",
+      "releaseDate" : "2014-08-15",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Circular",
+      "releaseDate" : "2014-08-22",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Birdcage",
+      "releaseDate" : "2014-08-29",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Aogiri",
+      "releaseDate" : "2014-09-05",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 11,
+      "name" : "High Spirits",
+      "releaseDate" : "2014-09-12",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Ghoul",
+      "releaseDate" : "2014-09-19",
+      "seasonNumber" : 1,
+      "tmdbID" : 61374
+    } ],
+    "name" : "Tokyo Ghoul",
+    "seasonNumber" : 1,
+    "themoviedbSerieID" : 61374
+  }, {
+    "episodeCount" : 12,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "New Surge",
+      "releaseDate" : "2015-01-09",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Dancing Flowers",
+      "releaseDate" : "2015-01-16",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Hangman",
+      "releaseDate" : "2015-01-23",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Deeper Layers",
+      "releaseDate" : "2015-01-30",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Rift",
+      "releaseDate" : "2015-02-06",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Thousand Paths",
+      "releaseDate" : "2015-02-13",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Permeation",
+      "releaseDate" : "2015-02-20",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Old Nines",
+      "releaseDate" : "2015-02-27",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 9,
+      "name" : "City in Waiting",
+      "releaseDate" : "2015-03-06",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Last Rain",
+      "releaseDate" : "2015-03-13",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Deluge of Flowers",
+      "releaseDate" : "2015-03-20",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Ken",
+      "releaseDate" : "2015-03-27",
+      "seasonNumber" : 2,
+      "tmdbID" : 61374
+    } ],
+    "name" : " Tokyo Ghoul √A",
+    "seasonNumber" : 2,
+    "themoviedbSerieID" : 61374
+  }, {
+    "episodeCount" : 12,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Those Who Hunt: Start",
+      "releaseDate" : "2018-04-03",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Fragment: member",
+      "releaseDate" : "2018-04-10",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 3,
+      "name" : "fresh: Eve",
+      "releaseDate" : "2018-04-17",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 4,
+      "name" : "MAIN: Auction",
+      "releaseDate" : "2018-04-24",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Press: Night of Scattering",
+      "releaseDate" : "2018-05-01",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 6,
+      "name" : "turn: In the End",
+      "releaseDate" : "2018-05-08",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 7,
+      "name" : "mind: Days of Recollections",
+      "releaseDate" : "2018-05-15",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 8,
+      "name" : "TAKe: One Who Writhes",
+      "releaseDate" : "2018-05-22",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 9,
+      "name" : "play: Departed Spirit",
+      "releaseDate" : "2018-05-29",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 10,
+      "name" : "think: Sway",
+      "releaseDate" : "2018-06-05",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 11,
+      "name" : "writE: The Absent One",
+      "releaseDate" : "2018-06-12",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Beautiful Dream: Daybreak",
+      "releaseDate" : "2018-06-19",
+      "seasonNumber" : 3,
+      "tmdbID" : 61374
+    } ],
+    "name" : "Tokyo Ghoul:re",
+    "seasonNumber" : 3,
+    "themoviedbSerieID" : 61374
+  } ],
+  "status" : "Ended",
+  "themoviedbSerieID" : 61374,
+  "title" : "Tokyo Ghoul",
+  "user" : null
+}, {
+  "amountOfEpisodes" : 100,
+  "amountOfSeasons" : 5,
+  "category" : null,
+  "description" : "A vast international plot explodes when a beautiful Jane Doe is discovered naked in Times Square, completely covered in mysterious, intricate tattoos with no memory of who she is or how she got there. But there's one tattoo that is impossible to miss: the name of FBI agent Kurt Weller, emblazoned across her back. \"Jane,\" Agent Weller and the rest of the FBI quickly realize that each mark on her body is a crime to solve, leading them closer to the truth about her identity and the mysteries to be revealed.",
+  "genres" : [ {
+    "name" : "Action"
+  }, {
+    "name" : "Crime"
+  }, {
+    "name" : "Drama"
+  } ],
+  "gridImageURL" : "https://image.tmdb.org/t/p/w300_and_h450_bestv2/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg",
+  "id" : 36,
+  "imageurl" : "https://image.tmdb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg",
+  "meanRating" : 0.0,
+  "reviews" : [ ],
+  "seasons" : [ {
+    "episodeCount" : 23,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Pilot",
+      "releaseDate" : "2015-09-21",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 2,
+      "name" : "A Stray Howl",
+      "releaseDate" : "2015-09-28",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Eight Slim Grins",
+      "releaseDate" : "2015-10-05",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Bone May Rot",
+      "releaseDate" : "2015-10-12",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Split the Law",
+      "releaseDate" : "2015-10-19",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Cede Your Soul",
+      "releaseDate" : "2015-10-26",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Sent On Tour",
+      "releaseDate" : "2015-11-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Persecute Envoys",
+      "releaseDate" : "2015-11-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Authentic Flirt",
+      "releaseDate" : "2015-11-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Evil Handmade Instrument",
+      "releaseDate" : "2015-11-23",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Cease Forcing Enemy",
+      "releaseDate" : "2016-02-29",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Scientists Hollow Fortune",
+      "releaseDate" : "2016-03-07",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Erase Weary Youth",
+      "releaseDate" : "2016-03-14",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 14,
+      "name" : "Rules in Defiance",
+      "releaseDate" : "2016-03-21",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Older Cutthroat Canyon",
+      "releaseDate" : "2016-03-28",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 16,
+      "name" : "Any Wounded Thief",
+      "releaseDate" : "2016-04-04",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 17,
+      "name" : "Mans Telepathic Loyal Lookouts",
+      "releaseDate" : "2016-04-11",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 18,
+      "name" : "One Begets Technique",
+      "releaseDate" : "2016-04-18",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 19,
+      "name" : "In the Comet of Us",
+      "releaseDate" : "2016-04-25",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 20,
+      "name" : "Swift Hardhearted Stone",
+      "releaseDate" : "2016-05-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 21,
+      "name" : "Of Whose Uneasy Route",
+      "releaseDate" : "2016-05-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 22,
+      "name" : "If Love a Rebel, Death Will Render",
+      "releaseDate" : "2016-05-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 23,
+      "name" : "Why Await Life's End",
+      "releaseDate" : "2016-05-23",
+      "seasonNumber" : 1,
+      "tmdbID" : 62710
+    } ],
+    "name" : "Season 1",
+    "seasonNumber" : 1,
+    "themoviedbSerieID" : 62710
+  }, {
+    "episodeCount" : 22,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "In Night So Ransomed Rogue",
+      "releaseDate" : "2016-09-14",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Heave Fiery Knot",
+      "releaseDate" : "2016-09-21",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Hero Fears Imminent Rot",
+      "releaseDate" : "2016-09-28",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 4,
+      "name" : "If Beth",
+      "releaseDate" : "2016-10-05",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Condone Untidiest Thefts",
+      "releaseDate" : "2016-10-12",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Her Spy's Harmed",
+      "releaseDate" : "2016-10-19",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Resolves Eleven Myths",
+      "releaseDate" : "2016-10-26",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 8,
+      "name" : "We Fight Deaths on Thick Lone Waters",
+      "releaseDate" : "2016-11-09",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Why Let Cooler Pasture Deform",
+      "releaseDate" : "2016-11-16",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Nor I, Nigel, AKA Leg in Iron",
+      "releaseDate" : "2017-01-04",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Droll Autumn, Unmutual Lord",
+      "releaseDate" : "2017-01-11",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Devil Never Even Lived",
+      "releaseDate" : "2017-01-18",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Name Not One Man",
+      "releaseDate" : "2017-02-08",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 14,
+      "name" : "Borrow or Rob",
+      "releaseDate" : "2017-02-15",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Draw O Caesar, Erase a Coward",
+      "releaseDate" : "2017-02-22",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 16,
+      "name" : "Evil Did I Dwell, Lewd I Did Live",
+      "releaseDate" : "2017-03-22",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 17,
+      "name" : "Solos",
+      "releaseDate" : "2017-03-29",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 18,
+      "name" : "Senile Lines",
+      "releaseDate" : "2017-04-05",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 19,
+      "name" : "Regard a Mere Mad Rager",
+      "releaseDate" : "2017-04-26",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 20,
+      "name" : "In Words, Drown I",
+      "releaseDate" : "2017-05-03",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 21,
+      "name" : "Mom",
+      "releaseDate" : "2017-05-10",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 22,
+      "name" : "Lepers Repel",
+      "releaseDate" : "2017-05-17",
+      "seasonNumber" : 2,
+      "tmdbID" : 62710
+    } ],
+    "name" : "Season 2",
+    "seasonNumber" : 2,
+    "themoviedbSerieID" : 62710
+  }, {
+    "episodeCount" : 22,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Back to the Grind",
+      "releaseDate" : "2017-10-27",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Enemy Bag of Tricks",
+      "releaseDate" : "2017-11-03",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Upside Down Craft",
+      "releaseDate" : "2017-11-10",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Gunplay Ricochet",
+      "releaseDate" : "2017-11-17",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 5,
+      "name" : "This Profound Legacy",
+      "releaseDate" : "2017-12-01",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Adoring Suspect",
+      "releaseDate" : "2017-12-08",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Fix My Present Havoc",
+      "releaseDate" : "2017-12-15",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 8,
+      "name" : "City Folk Under Wraps",
+      "releaseDate" : "2017-12-22",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Hot Burning Flames",
+      "releaseDate" : "2018-01-12",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Balance of Might",
+      "releaseDate" : "2018-01-19",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Technology Wizards",
+      "releaseDate" : "2018-01-26",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Two Legendary Chums",
+      "releaseDate" : "2018-02-02",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Warning Shot",
+      "releaseDate" : "2018-03-02",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 14,
+      "name" : "Everlasting",
+      "releaseDate" : "2018-03-09",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Deductions",
+      "releaseDate" : "2018-03-16",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 16,
+      "name" : "Artful Dodge",
+      "releaseDate" : "2018-03-23",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 17,
+      "name" : "Mum's the Word",
+      "releaseDate" : "2018-03-30",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 18,
+      "name" : "Clamorous Night",
+      "releaseDate" : "2018-04-20",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 19,
+      "name" : "Galaxy of Minds",
+      "releaseDate" : "2018-04-27",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 20,
+      "name" : "Let It Go",
+      "releaseDate" : "2018-05-04",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 21,
+      "name" : "Defection",
+      "releaseDate" : "2018-05-11",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 22,
+      "name" : "In Memory",
+      "releaseDate" : "2018-05-18",
+      "seasonNumber" : 3,
+      "tmdbID" : 62710
+    } ],
+    "name" : "Season 3",
+    "seasonNumber" : 3,
+    "themoviedbSerieID" : 62710
+  }, {
+    "episodeCount" : 22,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Hella Duplicitous",
+      "releaseDate" : "2018-10-12",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 2,
+      "name" : "My Art Project",
+      "releaseDate" : "2018-10-19",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 3,
+      "name" : "The Quantico Affair",
+      "releaseDate" : "2018-10-26",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Sous-Vide",
+      "releaseDate" : "2018-11-02",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Naughty Monkey Kicks At Tree",
+      "releaseDate" : "2018-11-09",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Ca-Ca-Candidate For Cri-Cri-Crime",
+      "releaseDate" : "2018-11-16",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Case: Sun, Moon, and the Truth",
+      "releaseDate" : "2018-11-30",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Screech, Thwack, Pow",
+      "releaseDate" : "2018-12-07",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Check Your Ed",
+      "releaseDate" : "2019-01-11",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 10,
+      "name" : "The Big Reveal",
+      "releaseDate" : "2019-01-18",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Careless Whisper",
+      "releaseDate" : "2019-02-01",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 12,
+      "name" : "The Tale of the Book of Secrets",
+      "releaseDate" : "2019-02-08",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Though This Be Madness, Yet There Is Method In't",
+      "releaseDate" : "2019-02-15",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 14,
+      "name" : "The Big Blast from the Past Episode",
+      "releaseDate" : "2019-03-08",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Frequently Recurring Struggle for Existence",
+      "releaseDate" : "2019-03-15",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 16,
+      "name" : "The One Where Jane Visits an Old Friend",
+      "releaseDate" : "2019-03-22",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 17,
+      "name" : "The Night of the Dying Breath",
+      "releaseDate" : "2019-04-05",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 18,
+      "name" : "'Ohana",
+      "releaseDate" : "2019-04-12",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 19,
+      "name" : "Everybody Hates Kathy",
+      "releaseDate" : "2019-04-19",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 20,
+      "name" : "Coder to Killer",
+      "releaseDate" : "2019-05-24",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 21,
+      "name" : "Masters of War 1:5 - 8",
+      "releaseDate" : "2019-05-31",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    }, {
+      "episodeNumber" : 22,
+      "name" : "The Gang Gets Gone",
+      "releaseDate" : "2019-05-31",
+      "seasonNumber" : 4,
+      "tmdbID" : 62710
+    } ],
+    "name" : "Season 4",
+    "seasonNumber" : 4,
+    "themoviedbSerieID" : 62710
+  } ],
+  "status" : "Returning Series",
+  "themoviedbSerieID" : 62710,
+  "title" : "Blindspot",
+  "user" : null
+}, {
+  "amountOfEpisodes" : 93,
+  "amountOfSeasons" : 7,
+  "category" : null,
+  "description" : "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+  "genres" : [ {
+    "name" : "Sci-Fi & Fantasy"
+  }, {
+    "name" : "Drama"
+  }, {
+    "name" : "Action & Adventure"
+  } ],
+  "gridImageURL" : "https://image.tmdb.org/t/p/w300_and_h450_bestv2/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+  "id" : 37,
+  "imageurl" : "https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg",
+  "meanRating" : 0.0,
+  "reviews" : [ ],
+  "seasons" : [ {
+    "episodeCount" : 13,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Pilot",
+      "releaseDate" : "2014-03-19",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Earth Skills",
+      "releaseDate" : "2014-03-26",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Earth Kills",
+      "releaseDate" : "2014-04-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Murphy's Law",
+      "releaseDate" : "2014-04-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Twilight's Last Gleaming",
+      "releaseDate" : "2014-04-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 6,
+      "name" : "His Sister's Keeper",
+      "releaseDate" : "2014-04-23",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Contents Under Pressure",
+      "releaseDate" : "2014-04-30",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Day Trip",
+      "releaseDate" : "2014-05-07",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Unity Day",
+      "releaseDate" : "2014-05-14",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 10,
+      "name" : "I Am Become Death",
+      "releaseDate" : "2014-05-21",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 11,
+      "name" : "The Calm",
+      "releaseDate" : "2014-05-28",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 12,
+      "name" : "We Are Grounders, Part 1",
+      "releaseDate" : "2014-06-04",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    }, {
+      "episodeNumber" : 13,
+      "name" : "We Are Grounders, Part 2",
+      "releaseDate" : "2014-06-11",
+      "seasonNumber" : 1,
+      "tmdbID" : 48866
+    } ],
+    "name" : "Season 1",
+    "seasonNumber" : 1,
+    "themoviedbSerieID" : 48866
+  } ],
+  "status" : "Returning Series",
+  "themoviedbSerieID" : 48866,
+  "title" : "The 100",
+  "user" : null
+}, {
+  "amountOfEpisodes" : 41,
+  "amountOfSeasons" : 4,
+  "category" : null,
+  "description" : "Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+  "genres" : [ {
+    "name" : "Animation"
+  }, {
+    "name" : "Comedy"
+  }, {
+    "name" : "Sci-Fi & Fantasy"
+  }, {
+    "name" : "Action & Adventure"
+  } ],
+  "gridImageURL" : "https://image.tmdb.org/t/p/w300_and_h450_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+  "id" : 38,
+  "imageurl" : "https://image.tmdb.org/t/p/original/eV3XnUul4UfIivz3kxgeIozeo50.jpg",
+  "meanRating" : 0.0,
+  "reviews" : [ ],
+  "seasons" : [ {
+    "episodeCount" : 19,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Rick and Morty The Non-Canonical Adventures: The Thing",
+      "releaseDate" : "2016-10-26",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Rick and Morty The Non-Canonical Adventures: The Fly",
+      "releaseDate" : "2016-10-26",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Honey, I Shrunk the Kids",
+      "releaseDate" : "2016-10-26",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Ex Machina",
+      "releaseDate" : "2016-10-27",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Halloween",
+      "releaseDate" : "2016-11-03",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Rick and Morty The Non-Canonical Adventures: 2001: A Space Odyssey",
+      "releaseDate" : "2017-07-08",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Blade Runner",
+      "releaseDate" : "2017-07-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Poltergeist",
+      "releaseDate" : "2017-07-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Re-Animator",
+      "releaseDate" : "2017-07-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Aliens",
+      "releaseDate" : "2017-07-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Rick and Morty The Non-Canonical Adventures: E.T. the Extra-Terrestrial",
+      "releaseDate" : "2017-07-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 12,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Gremlins",
+      "releaseDate" : "2017-07-11",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 13,
+      "name" : "Rick and Morty The Non-Canonical Adventures: A Clockwork Orange",
+      "releaseDate" : "2017-07-27",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 14,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Body Snatchers",
+      "releaseDate" : "2017-07-27",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 15,
+      "name" : "Rick and Morty The Non-Canonical Adventures: The Matrix",
+      "releaseDate" : "2017-07-28",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 16,
+      "name" : "Rick and Morty The Non-Canonical Adventures: Ghostbusters",
+      "releaseDate" : "2017-07-30",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 17,
+      "name" : "Bushworld Adventures",
+      "releaseDate" : "2018-04-01",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 18,
+      "name" : "Rick and Morty The Non-Canonical Halloween Adventures",
+      "releaseDate" : "2019-10-31",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 19,
+      "name" : "Samurai & Shogun",
+      "releaseDate" : "2019-11-03",
+      "seasonNumber" : 0,
+      "tmdbID" : 60625
+    } ],
+    "name" : "Specials",
+    "seasonNumber" : 0,
+    "themoviedbSerieID" : 60625
+  }, {
+    "episodeCount" : 11,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "Pilot",
+      "releaseDate" : "2013-12-02",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Lawnmower Dog",
+      "releaseDate" : "2013-12-09",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Anatomy Park",
+      "releaseDate" : "2013-12-16",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 4,
+      "name" : "M. Night Shaym-Aliens!",
+      "releaseDate" : "2014-01-13",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Meeseeks and Destroy",
+      "releaseDate" : "2014-01-20",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Rick Potion #9",
+      "releaseDate" : "2014-01-27",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Raising Gazorpazorp",
+      "releaseDate" : "2014-03-10",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Rixty Minutes",
+      "releaseDate" : "2014-03-17",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Something Ricked This Way Comes",
+      "releaseDate" : "2014-03-24",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 10,
+      "name" : "Close Rick-Counters of the Rick Kind",
+      "releaseDate" : "2014-04-07",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 11,
+      "name" : "Ricksy Business",
+      "releaseDate" : "2014-04-14",
+      "seasonNumber" : 1,
+      "tmdbID" : 60625
+    } ],
+    "name" : "Season 1",
+    "seasonNumber" : 1,
+    "themoviedbSerieID" : 60625
+  }, {
+    "episodeCount" : 10,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "A Rickle in Time",
+      "releaseDate" : "2015-07-26",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Mortynight Run",
+      "releaseDate" : "2015-08-02",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Auto Erotic Assimilation",
+      "releaseDate" : "2015-08-09",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Total Rickall",
+      "releaseDate" : "2015-08-16",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 5,
+      "name" : "Get Schwifty",
+      "releaseDate" : "2015-08-23",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 6,
+      "name" : "The Ricks Must Be Crazy",
+      "releaseDate" : "2015-08-30",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 7,
+      "name" : "Big Trouble in Little Sanchez",
+      "releaseDate" : "2015-09-13",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Interdimensional Cable 2: Tempting Fate",
+      "releaseDate" : "2015-09-20",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 9,
+      "name" : "Look Who's Purging Now",
+      "releaseDate" : "2015-09-27",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 10,
+      "name" : "The Wedding Squanchers",
+      "releaseDate" : "2015-10-04",
+      "seasonNumber" : 2,
+      "tmdbID" : 60625
+    } ],
+    "name" : "Season 2",
+    "seasonNumber" : 2,
+    "themoviedbSerieID" : 60625
+  }, {
+    "episodeCount" : 10,
+    "episodes" : [ {
+      "episodeNumber" : 1,
+      "name" : "The Rickshank Rickdemption",
+      "releaseDate" : "2017-04-01",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 2,
+      "name" : "Rickmancing the Stone",
+      "releaseDate" : "2017-07-30",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 3,
+      "name" : "Pickle Rick",
+      "releaseDate" : "2017-08-06",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 4,
+      "name" : "Vindicators 3: The Return of Worldender",
+      "releaseDate" : "2017-08-13",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 5,
+      "name" : "The Whirly Dirly Conspiracy",
+      "releaseDate" : "2017-08-20",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 6,
+      "name" : "Rest and Ricklaxation",
+      "releaseDate" : "2017-08-27",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 7,
+      "name" : "The Ricklantis Mixup",
+      "releaseDate" : "2017-09-10",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 8,
+      "name" : "Morty's Mind Blowers",
+      "releaseDate" : "2017-09-17",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 9,
+      "name" : "The ABC's of Beth",
+      "releaseDate" : "2017-09-24",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    }, {
+      "episodeNumber" : 10,
+      "name" : "The Rickchurian Mortydate",
+      "releaseDate" : "2017-10-01",
+      "seasonNumber" : 3,
+      "tmdbID" : 60625
+    } ],
+    "name" : "Season 3",
+    "seasonNumber" : 3,
+    "themoviedbSerieID" : 60625
+  } ],
+  "status" : "Returning Series",
+  "themoviedbSerieID" : 60625,
+  "title" : "Rick and Morty",
+  "user" : null
+} ]

@@ -1,0 +1,590 @@
+{
+  "_id": "52596705760ee346619c3490",
+  "air_date": "2014-02-27",
+  "episodes": [
+    {
+      "air_date": "2014-02-27",
+      "episode_number": 1,
+      "id": 970845,
+      "name": "Brother's War",
+      "overview": "The battle begins between Ragnar and King Horik's forces against Jarl Borg; Princess Aslaug makes her way to Kattegat.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/zOtq6mPbgmeuLjAAgt2p3DF7zqA.jpg",
+      "vote_average": 8.25,
+      "vote_count": 16,
+      "crew": [
+        {
+          "id": 443498,
+          "credit_id": "563890899251413b13000d9a",
+          "name": "P.J. Dillon",
+          "department": "Camera",
+          "job": "Director of Photography",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1398758,
+          "credit_id": "57ac8c61c3a36863ba000434",
+          "name": "Tom Conroy",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1264592,
+          "name": "Aaron Lee Reed",
+          "credit_id": "5c27510a92514138d2be6550",
+          "character": "Viking (uncredited)",
+          "order": 8,
+          "gender": 2,
+          "profile_path": "/dWDdJnMEwk1PmpakRY0iVpX9C7w.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-03-06",
+      "episode_number": 2,
+      "id": 972579,
+      "name": "Invasion",
+      "overview": "The time has come for an unlikely alliance to band together for a new raid on England; a storm pushes the Viking fleet to a new destination; Ragnar and his men may have met their match.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/fNTvPUeldtfm8THkrC8hOZjibs2.jpg",
+      "vote_average": 8.031,
+      "vote_count": 16,
+      "crew": [
+        {
+          "id": 1398758,
+          "credit_id": "57ac8c61c3a36863ba000434",
+          "name": "Tom Conroy",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1469170,
+          "credit_id": "57ac8d38c3a3686403000476",
+          "name": "Don Cassidy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1233099,
+          "credit_id": "57a9e63792514111a70008fd",
+          "name": "Ciaran Donnelly",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2014-03-13",
+      "episode_number": 3,
+      "id": 972833,
+      "name": "Treachery",
+      "overview": "King Ecbert finds himself facing an entirely new kind of foe; Ragnar races to dominate in the west; Jarl Borg has his own plans in store for the future of Kattegat.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/a7v9k61yKmqRnRvr20cw4lzckJq.jpg",
+      "vote_average": 8.038,
+      "vote_count": 13,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1398758,
+          "credit_id": "57ac8c61c3a36863ba000434",
+          "name": "Tom Conroy",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 1264592,
+          "name": "Aaron Lee Reed",
+          "credit_id": "5c27510a92514138d2be6550",
+          "character": "Viking (uncredited)",
+          "order": 8,
+          "gender": 2,
+          "profile_path": "/dWDdJnMEwk1PmpakRY0iVpX9C7w.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-03-20",
+      "episode_number": 4,
+      "id": 973162,
+      "name": "Eye for an Eye",
+      "overview": "Ragnar and Ecbert come face to face; Jarl Borg rules Kattegat with an iron fist; Rollo must now become the leader his people need in Ragnar's absence.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/xJQi4HFtOWHzQ0a2lb6qMTQZOOB.jpg",
+      "vote_average": 8.417,
+      "vote_count": 12,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 1398758,
+          "credit_id": "57ac8c61c3a36863ba000434",
+          "name": "Tom Conroy",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1469170,
+          "credit_id": "57ac8d38c3a3686403000476",
+          "name": "Don Cassidy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2014-03-27",
+      "episode_number": 5,
+      "id": 973348,
+      "name": "Answers in Blood",
+      "overview": "Lagertha and Ragnar unite to try to win Kattegat back from Jarl Borg; Aslaug must face the truth of her prophecies; Athelstan struggles to define his faith; Bjorn must once again make a choice.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/uMctGpmxDEfFcLDv37y63IxURHC.jpg",
+      "vote_average": 8.417,
+      "vote_count": 12,
+      "crew": [
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1398758,
+          "credit_id": "57ac8c61c3a36863ba000434",
+          "name": "Tom Conroy",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2014-04-03",
+      "episode_number": 6,
+      "id": 973785,
+      "name": "Unforgiven",
+      "overview": "King Horik returns to Kattegat with a surprising proposition for Ragnar; Lagertha runs into a less than enthusiastic homecoming from her new husband; Athelstan becomes confidant to King Ecbert.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/vRfmwQkXw8qyuXZ7DsfXKEEITFz.jpg",
+      "vote_average": 8.273,
+      "vote_count": 11,
+      "crew": [
+        {
+          "id": 1398758,
+          "credit_id": "57ac8c61c3a36863ba000434",
+          "name": "Tom Conroy",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1469170,
+          "credit_id": "57ac8d38c3a3686403000476",
+          "name": "Don Cassidy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 66240,
+          "credit_id": "56389d079251416d52010dff",
+          "name": "Jeff Woolnough",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2014-04-10",
+      "episode_number": 7,
+      "id": 974030,
+      "name": "Blood Eagle",
+      "overview": "Ragnar and King Horik clash over how to dispense justice to Jarl Borg; King Aelle in Wessex; Ecbert has an eye on a new alliance.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/5cifsP8FNSVolSgVFx88ctHfRpp.jpg",
+      "vote_average": 7.654,
+      "vote_count": 13,
+      "crew": [
+        {
+          "id": 22140,
+          "credit_id": "57a9e89a925141384c006a54",
+          "name": "Kari Skogland",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 43625,
+          "credit_id": "57ac8ea2c3a3681daa0019b6",
+          "name": "Mark Geraghty",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2014-04-17",
+      "episode_number": 8,
+      "id": 974365,
+      "name": "Boneless",
+      "overview": "Princess Aslaug's latest prophecy comes to fruition as she readies to give birth once more; Ragnar and Horik have very different ideas about the true purpose of their trip to Wessex.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/vkGBj6OvILV38zMckfKrE40mlwq.jpg",
+      "vote_average": 8.417,
+      "vote_count": 12,
+      "crew": [
+        {
+          "id": 22140,
+          "credit_id": "57a9e89a925141384c006a54",
+          "name": "Kari Skogland",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 1,
+          "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+        },
+        {
+          "id": 1469170,
+          "credit_id": "57ac8d38c3a3686403000476",
+          "name": "Don Cassidy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 43625,
+          "credit_id": "57ac8ea2c3a3681daa0019b6",
+          "name": "Mark Geraghty",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd977c3a368694c8ab822",
+          "character": "Princess Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-04-24",
+      "episode_number": 9,
+      "id": 974631,
+      "name": "The Choice",
+      "overview": "Ragnar's warriors march on to King Ecbert's villa and are met with a surprisingly vicious welcome party.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg",
+      "vote_average": 8.545,
+      "vote_count": 11,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 995558,
+          "credit_id": "563891c292514129fe0113fa",
+          "name": "Aaron Marshall",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 43625,
+          "credit_id": "57ac8ea2c3a3681daa0019b6",
+          "name": "Mark Geraghty",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 973717,
+          "name": "Amy Bailey",
+          "credit_id": "5cbfd977c3a368694c8ab822",
+          "character": "Princess Kwenthrith",
+          "order": 22,
+          "gender": 1,
+          "profile_path": "/mPUBxceWoU4DPVzz4kF97nwUbkm.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2014-05-01",
+      "episode_number": 10,
+      "id": 975352,
+      "name": "The Lord's Prayer",
+      "overview": "Ragnar and King Horik return to Kattegat; Ragnar places his trust in those who have stood by him.",
+      "production_code": "",
+      "season_number": 2,
+      "show_id": 44217,
+      "still_path": "/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg",
+      "vote_average": 8.733,
+      "vote_count": 15,
+      "crew": [
+        {
+          "id": 166437,
+          "credit_id": "56388e35c3a3681b5c020f82",
+          "name": "Ken Girotti",
+          "department": "Directing",
+          "job": "Director",
+          "gender": 2,
+          "profile_path": "/gzTr9lnkR5FLzM6ezQYlwoSG0Wv.jpg"
+        },
+        {
+          "id": 1469170,
+          "credit_id": "57ac8d38c3a3686403000476",
+          "name": "Don Cassidy",
+          "department": "Editing",
+          "job": "Editor",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 43625,
+          "credit_id": "57ac8ea2c3a3681daa0019b6",
+          "name": "Mark Geraghty",
+          "department": "Art",
+          "job": "Production Design",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 37631,
+          "credit_id": "56388c109251413b13000d27",
+          "name": "Michael Hirst",
+          "department": "Writing",
+          "job": "Writer",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "guest_stars": [
+        {
+          "id": 556446,
+          "name": "Elizabeth Moynihan",
+          "credit_id": "5cadae079251417a9d00c7b3",
+          "character": "Gunnhild",
+          "order": 19,
+          "gender": 1,
+          "profile_path": null
+        }
+      ]
+    }
+  ],
+  "name": "Season 2",
+  "overview": "Season two brings crises of faith, of power, of relationships. Brothers rise up against one another. Loyalties shift from friend to foe, and unlikely alliances are formed in the name of supremacy. Ragnar’s indiscretions threaten his marriage to Lagertha, tearing him and his beloved son apart. Plots are hatched, scores are settled, blood is spilled…all under the watchful eyes of the gods.",
+  "id": 53336,
+  "poster_path": "/g2Pgu5Dae9P99yJs0xZQtEagA76.jpg",
+  "season_number": 2
+}

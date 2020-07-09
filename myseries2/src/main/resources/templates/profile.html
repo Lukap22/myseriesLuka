@@ -1,0 +1,25 @@
+<!-- Put your HTML here -->
+
+<html lang=”en” xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header :: header"></head>
+
+<!--navbar-->
+
+<body>
+<nav th:replace="fragments/topnav :: navbar"></nav>
+<h1>profiel Page</h1>
+<span th:text="${lastVisitedDate}">number</span>
+
+<span th:text="${session.username}">username</span>
+<form action="/logout" method="post">
+    <input type="submit" value="Uitloggen">
+</form>
+
+<form th:action="@{'/profile/{username}'(username=${session.username})}" th:method="delete" method="post">
+    <input type="submit" value="delete mij">
+</form>
+
+
+</body>
+</html>

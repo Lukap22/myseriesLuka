@@ -1,0 +1,26 @@
+<!-- Put your HTML here -->
+
+<html lang=”en” xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header :: header"></head>
+
+<!--navbar-->
+
+<body>
+<nav th:replace="fragments/topnav :: navbar"></nav>
+
+<h1>Login Page</h1>
+<p th:if="${onjuisteGegevens}" class="error">Invalid Username/Password</p>
+<form th:action="@{/login}" th:object="${login}" method="post">
+    <label for="userName">userName</label>
+    <input type="text" id="userName" name="userName" autofocus="autofocus" required />
+    <br />
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" required/>
+    <br />
+    <input type="submit" value="Log In" />
+</form>
+
+<a href="/register">Dont have an account? Register here</a>
+</body>
+</html>
